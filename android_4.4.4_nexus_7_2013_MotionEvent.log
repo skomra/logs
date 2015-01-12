@@ -1,0 +1,772 @@
+average : 5.1080669711 ms
+
+01-12 11:20:21.322: I/WacomLibrary(2326): At time 157307 h
+01-12 11:20:21.322: I/WacomLibrary(2326): At time 157310
+01-12 11:20:21.322: D/PointerTracker(2326): setting touch 0 as stylus. Age: 39
+01-12 11:20:21.342: I/WacomLibrary(2326): At time 157313 h
+01-12 11:20:21.342: I/WacomLibrary(2326): At time 157320 h
+01-12 11:20:21.342: I/WacomLibrary(2326): At time 157326 h
+01-12 11:20:21.342: I/WacomLibrary(2326): At time 157326
+01-12 11:20:21.352: I/WacomLibrary(2326): At time 157332 h
+01-12 11:20:21.352: I/WacomLibrary(2326): At time 157337 h
+01-12 11:20:21.352: I/WacomLibrary(2326): At time 157343
+01-12 11:20:21.362: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.372: I/WacomLibrary(2326): At time 157344 h
+01-12 11:20:21.372: I/WacomLibrary(2326): At time 157359 h
+01-12 11:20:21.372: I/WacomLibrary(2326): At time 157359
+01-12 11:20:21.392: I/WacomLibrary(2326): At time 157365 h
+01-12 11:20:21.392: I/WacomLibrary(2326): At time 157371 h
+01-12 11:20:21.392: I/WacomLibrary(2326): At time 157376
+01-12 11:20:21.402: I/WacomLibrary(2326): At time 157378 h
+01-12 11:20:21.402: I/WacomLibrary(2326): At time 157384 h
+01-12 11:20:21.402: I/WacomLibrary(2326): At time 157390 h
+01-12 11:20:21.402: I/WacomLibrary(2326): At time 157392
+01-12 11:20:21.412: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.412: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.422: I/WacomLibrary(2326): At time 157396 h
+01-12 11:20:21.422: I/WacomLibrary(2326): At time 157403 h
+01-12 11:20:21.422: I/WacomLibrary(2326): At time 157409 h
+01-12 11:20:21.422: I/WacomLibrary(2326): At time 157409
+01-12 11:20:21.442: I/WacomLibrary(2326): At time 157415 h
+01-12 11:20:21.442: I/WacomLibrary(2326): At time 157422 h
+01-12 11:20:21.442: I/WacomLibrary(2326): At time 157426
+01-12 11:20:21.452: I/WacomLibrary(2326): At time 157428 h
+01-12 11:20:21.452: I/WacomLibrary(2326): At time 157434 h
+01-12 11:20:21.452: I/WacomLibrary(2326): At time 157440 h
+01-12 11:20:21.452: I/WacomLibrary(2326): At time 157442
+01-12 11:20:21.462: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.472: I/WacomLibrary(2326): At time 157446 h
+01-12 11:20:21.472: I/WacomLibrary(2326): At time 157452 h
+01-12 11:20:21.472: I/WacomLibrary(2326): At time 157457 h
+01-12 11:20:21.472: I/WacomLibrary(2326): At time 157459
+01-12 11:20:21.492: I/WacomLibrary(2326): At time 157472 h
+01-12 11:20:21.492: I/WacomLibrary(2326): At time 157475
+01-12 11:20:21.502: I/WacomLibrary(2326): At time 157478 h
+01-12 11:20:21.502: I/WacomLibrary(2326): At time 157484 h
+01-12 11:20:21.502: I/WacomLibrary(2326): At time 157491 h
+01-12 11:20:21.502: I/WacomLibrary(2326): At time 157492
+01-12 11:20:21.522: I/WacomLibrary(2326): At time 157497 h
+01-12 11:20:21.522: I/WacomLibrary(2326): At time 157503 h
+01-12 11:20:21.522: I/WacomLibrary(2326): At time 157508
+01-12 11:20:21.542: I/WacomLibrary(2326): At time 157509 h
+01-12 11:20:21.542: I/WacomLibrary(2326): At time 157515 h
+01-12 11:20:21.542: I/WacomLibrary(2326): At time 157521 h
+01-12 11:20:21.542: I/WacomLibrary(2326): At time 157525
+01-12 11:20:21.552: I/WacomLibrary(2326): At time 157527 h
+01-12 11:20:21.552: I/WacomLibrary(2326): At time 157533 h
+01-12 11:20:21.552: I/WacomLibrary(2326): At time 157539 h
+01-12 11:20:21.552: I/WacomLibrary(2326): At time 157542
+01-12 11:20:21.562: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.562: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.562: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.562: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.572: I/WacomLibrary(2326): At time 157545 h
+01-12 11:20:21.572: I/WacomLibrary(2326): At time 157551 h
+01-12 11:20:21.572: I/WacomLibrary(2326): At time 157558 h
+01-12 11:20:21.572: I/WacomLibrary(2326): At time 157558
+01-12 11:20:21.592: I/WacomLibrary(2326): At time 157564 h
+01-12 11:20:21.592: I/WacomLibrary(2326): At time 157570 h
+01-12 11:20:21.592: I/WacomLibrary(2326): At time 157573
+01-12 11:20:21.602: I/WacomLibrary(2326): At time 157585 h
+01-12 11:20:21.602: I/WacomLibrary(2326): At time 157591 h
+01-12 11:20:21.602: I/WacomLibrary(2326): At time 157591
+01-12 11:20:21.612: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.622: I/WacomLibrary(2326): At time 157597 h
+01-12 11:20:21.622: I/WacomLibrary(2326): At time 157603 h
+01-12 11:20:21.622: I/WacomLibrary(2326): At time 157608
+01-12 11:20:21.643: I/WacomLibrary(2326): At time 157610 h
+01-12 11:20:21.643: I/WacomLibrary(2326): At time 157616 h
+01-12 11:20:21.643: I/WacomLibrary(2326): At time 157622 h
+01-12 11:20:21.643: I/WacomLibrary(2326): At time 157624
+01-12 11:20:21.653: I/WacomLibrary(2326): At time 157628 h
+01-12 11:20:21.653: I/WacomLibrary(2326): At time 157634 h
+01-12 11:20:21.653: I/WacomLibrary(2326): At time 157641 h
+01-12 11:20:21.653: I/WacomLibrary(2326): At time 157641
+01-12 11:20:21.663: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.663: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.673: I/WacomLibrary(2326): At time 157647 h
+01-12 11:20:21.673: I/WacomLibrary(2326): At time 157653 h
+01-12 11:20:21.673: I/WacomLibrary(2326): At time 157658
+01-12 11:20:21.693: I/WacomLibrary(2326): At time 157659 h
+01-12 11:20:21.693: I/WacomLibrary(2326): At time 157666 h
+01-12 11:20:21.693: I/WacomLibrary(2326): At time 157672 h
+01-12 11:20:21.693: I/WacomLibrary(2326): At time 157674
+01-12 11:20:21.703: I/WacomLibrary(2326): At time 157678 h
+01-12 11:20:21.703: I/WacomLibrary(2326): At time 157684 h
+01-12 11:20:21.703: I/WacomLibrary(2326): At time 157688
+01-12 11:20:21.713: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.713: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.723: I/WacomLibrary(2326): At time 157700 h
+01-12 11:20:21.723: I/WacomLibrary(2326): At time 157706 h
+01-12 11:20:21.723: I/WacomLibrary(2326): At time 157707
+01-12 11:20:21.733: I/WacomLibrary(2326): At time 157712 h
+01-12 11:20:21.743: I/WacomLibrary(2326): At time 157719 h
+01-12 11:20:21.743: I/WacomLibrary(2326): At time 157724
+01-12 11:20:21.753: I/WacomLibrary(2326): At time 157725 h
+01-12 11:20:21.753: I/WacomLibrary(2326): At time 157731 h
+01-12 11:20:21.753: I/WacomLibrary(2326): At time 157737 h
+01-12 11:20:21.753: I/WacomLibrary(2326): At time 157740
+01-12 11:20:21.753: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.773: I/WacomLibrary(2326): At time 157744 h
+01-12 11:20:21.773: I/WacomLibrary(2326): At time 157750 h
+01-12 11:20:21.773: I/WacomLibrary(2326): At time 157756 h
+01-12 11:20:21.773: I/WacomLibrary(2326): At time 157757
+01-12 11:20:21.793: I/WacomLibrary(2326): At time 157762 h
+01-12 11:20:21.793: I/WacomLibrary(2326): At time 157769 h
+01-12 11:20:21.793: I/WacomLibrary(2326): At time 157773
+01-12 11:20:21.803: I/WacomLibrary(2326): At time 157775 h
+01-12 11:20:21.803: I/WacomLibrary(2326): At time 157781 h
+01-12 11:20:21.803: I/WacomLibrary(2326): At time 157787 h
+01-12 11:20:21.803: I/WacomLibrary(2326): At time 157790
+01-12 11:20:21.803: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.803: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.823: I/WacomLibrary(2326): At time 157794 h
+01-12 11:20:21.823: I/WacomLibrary(2326): At time 157800 h
+01-12 11:20:21.823: I/WacomLibrary(2326): At time 157803
+01-12 11:20:21.833: I/WacomLibrary(2326): At time 157815 h
+01-12 11:20:21.833: I/WacomLibrary(2326): At time 157821 h
+01-12 11:20:21.833: I/WacomLibrary(2326): At time 157823
+01-12 11:20:21.853: I/WacomLibrary(2326): At time 157828 h
+01-12 11:20:21.853: I/WacomLibrary(2326): At time 157834 h
+01-12 11:20:21.853: I/WacomLibrary(2326): At time 157840
+01-12 11:20:21.853: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.873: I/WacomLibrary(2326): At time 157840 h
+01-12 11:20:21.873: I/WacomLibrary(2326): At time 157846 h
+01-12 11:20:21.873: I/WacomLibrary(2326): At time 157853 h
+01-12 11:20:21.873: I/WacomLibrary(2326): At time 157856
+01-12 11:20:21.883: I/WacomLibrary(2326): At time 157859 h
+01-12 11:20:21.883: I/WacomLibrary(2326): At time 157865 h
+01-12 11:20:21.883: I/WacomLibrary(2326): At time 157871 h
+01-12 11:20:21.883: I/WacomLibrary(2326): At time 157873
+01-12 11:20:21.903: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.903: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.903: I/WacomLibrary(2326): At time 157877 h
+01-12 11:20:21.903: I/WacomLibrary(2326): At time 157884 h
+01-12 11:20:21.903: I/WacomLibrary(2326): At time 157889
+01-12 11:20:21.923: I/WacomLibrary(2326): At time 157890 h
+01-12 11:20:21.923: I/WacomLibrary(2326): At time 157896 h
+01-12 11:20:21.923: I/WacomLibrary(2326): At time 157902 h
+01-12 11:20:21.923: I/WacomLibrary(2326): At time 157906
+01-12 11:20:21.933: I/WacomLibrary(2326): At time 157908 h
+01-12 11:20:21.933: I/WacomLibrary(2326): At time 157915 h
+01-12 11:20:21.933: I/WacomLibrary(2326): At time 157918
+01-12 11:20:21.953: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.953: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:21.953: I/WacomLibrary(2326): At time 157930 h
+01-12 11:20:21.953: I/WacomLibrary(2326): At time 157936 h
+01-12 11:20:21.953: I/WacomLibrary(2326): At time 157939
+01-12 11:20:21.973: I/WacomLibrary(2326): At time 157942 h
+01-12 11:20:21.973: I/WacomLibrary(2326): At time 157948 h
+01-12 11:20:21.973: I/WacomLibrary(2326): At time 157955 h
+01-12 11:20:21.973: I/WacomLibrary(2326): At time 157956
+01-12 11:20:21.983: I/WacomLibrary(2326): At time 157961 h
+01-12 11:20:21.983: I/WacomLibrary(2326): At time 157967 h
+01-12 11:20:21.983: I/WacomLibrary(2326): At time 157972
+01-12 11:20:22.003: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.003: I/WacomLibrary(2326): At time 157973 h
+01-12 11:20:22.003: I/WacomLibrary(2326): At time 157979 h
+01-12 11:20:22.003: I/WacomLibrary(2326): At time 157985 h
+01-12 11:20:22.003: I/WacomLibrary(2326): At time 157989
+01-12 11:20:22.023: I/WacomLibrary(2326): At time 157992 h
+01-12 11:20:22.023: I/WacomLibrary(2326): At time 157998 h
+01-12 11:20:22.023: I/WacomLibrary(2326): At time 158004 h
+01-12 11:20:22.023: I/WacomLibrary(2326): At time 158005
+01-12 11:20:22.033: I/WacomLibrary(2326): At time 158010 h
+01-12 11:20:22.033: I/WacomLibrary(2326): At time 158016 h
+01-12 11:20:22.033: I/WacomLibrary(2326): At time 158022
+01-12 11:20:22.053: I/WacomLibrary(2326): At time 158022 h
+01-12 11:20:22.053: I/WacomLibrary(2326): At time 158029 h
+01-12 11:20:22.053: I/WacomLibrary(2326): At time 158039
+01-12 11:20:22.073: I/WacomLibrary(2326): At time 158044 h
+01-12 11:20:22.073: I/WacomLibrary(2326): At time 158050 h
+01-12 11:20:22.073: I/WacomLibrary(2326): At time 158055
+01-12 11:20:22.083: I/WacomLibrary(2326): At time 158056 h
+01-12 11:20:22.083: I/WacomLibrary(2326): At time 158062 h
+01-12 11:20:22.083: I/WacomLibrary(2326): At time 158068 h
+01-12 11:20:22.083: I/WacomLibrary(2326): At time 158072
+01-12 11:20:22.103: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.103: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.103: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.103: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.103: I/WacomLibrary(2326): At time 158075 h
+01-12 11:20:22.103: I/WacomLibrary(2326): At time 158081 h
+01-12 11:20:22.103: I/WacomLibrary(2326): At time 158087 h
+01-12 11:20:22.103: I/WacomLibrary(2326): At time 158088
+01-12 11:20:22.123: I/WacomLibrary(2326): At time 158093 h
+01-12 11:20:22.123: I/WacomLibrary(2326): At time 158099 h
+01-12 11:20:22.123: I/WacomLibrary(2326): At time 158105
+01-12 11:20:22.133: I/WacomLibrary(2326): At time 158106 h
+01-12 11:20:22.133: I/WacomLibrary(2326): At time 158112 h
+01-12 11:20:22.133: I/WacomLibrary(2326): At time 158118 h
+01-12 11:20:22.133: I/WacomLibrary(2326): At time 158121
+01-12 11:20:22.143: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.153: I/WacomLibrary(2326): At time 158124 h
+01-12 11:20:22.153: I/WacomLibrary(2326): At time 158130 h
+01-12 11:20:22.153: I/WacomLibrary(2326): At time 158136 h
+01-12 11:20:22.153: I/WacomLibrary(2326): At time 158138
+01-12 11:20:22.173: I/WacomLibrary(2326): At time 158143 h
+01-12 11:20:22.173: I/WacomLibrary(2326): At time 158154
+01-12 11:20:22.183: I/WacomLibrary(2326): At time 158158 h
+01-12 11:20:22.183: I/WacomLibrary(2326): At time 158164 h
+01-12 11:20:22.183: I/WacomLibrary(2326): At time 158170 h
+01-12 11:20:22.183: I/WacomLibrary(2326): At time 158171
+01-12 11:20:22.193: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.193: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.203: I/WacomLibrary(2326): At time 158176 h
+01-12 11:20:22.203: I/WacomLibrary(2326): At time 158183 h
+01-12 11:20:22.203: I/WacomLibrary(2326): At time 158188
+01-12 11:20:22.223: I/WacomLibrary(2326): At time 158189 h
+01-12 11:20:22.223: I/WacomLibrary(2326): At time 158195 h
+01-12 11:20:22.223: I/WacomLibrary(2326): At time 158201 h
+01-12 11:20:22.223: I/WacomLibrary(2326): At time 158204
+01-12 11:20:22.243: I/WacomLibrary(2326): At time 158207 h
+01-12 11:20:22.243: I/WacomLibrary(2326): At time 158214 h
+01-12 11:20:22.243: I/WacomLibrary(2326): At time 158220 h
+01-12 11:20:22.243: I/WacomLibrary(2326): At time 158221
+01-12 11:20:22.253: I/WacomLibrary(2326): At time 158226 h
+01-12 11:20:22.263: I/WacomLibrary(2326): At time 158232 h
+01-12 11:20:22.263: I/WacomLibrary(2326): At time 158237
+01-12 11:20:22.273: I/WacomLibrary(2326): At time 158239 h
+01-12 11:20:22.273: I/WacomLibrary(2326): At time 158245 h
+01-12 11:20:22.273: I/WacomLibrary(2326): At time 158251 h
+01-12 11:20:22.273: I/WacomLibrary(2326): At time 158254
+01-12 11:20:22.293: I/WacomLibrary(2326): At time 158257 h
+01-12 11:20:22.293: I/WacomLibrary(2326): At time 158270
+01-12 11:20:22.293: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.293: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.293: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.303: I/WacomLibrary(2326): At time 158273 h
+01-12 11:20:22.303: I/WacomLibrary(2326): At time 158279 h
+01-12 11:20:22.303: I/WacomLibrary(2326): At time 158285 h
+01-12 11:20:22.303: I/WacomLibrary(2326): At time 158287
+01-12 11:20:22.323: I/WacomLibrary(2326): At time 158291 h
+01-12 11:20:22.323: I/WacomLibrary(2326): At time 158298 h
+01-12 11:20:22.323: I/WacomLibrary(2326): At time 158304
+01-12 11:20:22.333: I/WacomLibrary(2326): At time 158304 h
+01-12 11:20:22.333: I/WacomLibrary(2326): At time 158310 h
+01-12 11:20:22.333: I/WacomLibrary(2326): At time 158316 h
+01-12 11:20:22.333: I/WacomLibrary(2326): At time 158320
+01-12 11:20:22.343: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.343: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.353: I/WacomLibrary(2326): At time 158323 h
+01-12 11:20:22.353: I/WacomLibrary(2326): At time 158329 h
+01-12 11:20:22.353: I/WacomLibrary(2326): At time 158335 h
+01-12 11:20:22.353: I/WacomLibrary(2326): At time 158337
+01-12 11:20:22.363: I/WacomLibrary(2326): At time 158341 h
+01-12 11:20:22.363: I/WacomLibrary(2326): At time 158348 h
+01-12 11:20:22.363: I/WacomLibrary(2326): At time 158353
+01-12 11:20:22.383: I/WacomLibrary(2326): At time 158354 h
+01-12 11:20:22.383: I/WacomLibrary(2326): At time 158360 h
+01-12 11:20:22.383: I/WacomLibrary(2326): At time 158367 h
+01-12 11:20:22.383: I/WacomLibrary(2326): At time 158370
+01-12 11:20:22.393: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.403: I/WacomLibrary(2326): At time 158373 h
+01-12 11:20:22.403: I/WacomLibrary(2326): At time 158386
+01-12 11:20:22.423: I/WacomLibrary(2326): At time 158388 h
+01-12 11:20:22.423: I/WacomLibrary(2326): At time 158394 h
+01-12 11:20:22.423: I/WacomLibrary(2326): At time 158401 h
+01-12 11:20:22.423: I/WacomLibrary(2326): At time 158403
+01-12 11:20:22.433: I/WacomLibrary(2326): At time 158407 h
+01-12 11:20:22.433: I/WacomLibrary(2326): At time 158413 h
+01-12 11:20:22.433: I/WacomLibrary(2326): At time 158419 h
+01-12 11:20:22.433: I/WacomLibrary(2326): At time 158420
+01-12 11:20:22.443: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.443: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.453: I/WacomLibrary(2326): At time 158426 h
+01-12 11:20:22.453: I/WacomLibrary(2326): At time 158432 h
+01-12 11:20:22.453: I/WacomLibrary(2326): At time 158436
+01-12 11:20:22.463: I/WacomLibrary(2326): At time 158438 h
+01-12 11:20:22.463: I/WacomLibrary(2326): At time 158445 h
+01-12 11:20:22.463: I/WacomLibrary(2326): At time 158451 h
+01-12 11:20:22.463: I/WacomLibrary(2326): At time 158453
+01-12 11:20:22.483: I/WacomLibrary(2326): At time 158457 h
+01-12 11:20:22.483: I/WacomLibrary(2326): At time 158463 h
+01-12 11:20:22.483: I/WacomLibrary(2326): At time 158469
+01-12 11:20:22.493: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.493: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.503: I/WacomLibrary(2326): At time 158470 h
+01-12 11:20:22.503: I/WacomLibrary(2326): At time 158476 h
+01-12 11:20:22.503: I/WacomLibrary(2326): At time 158482 h
+01-12 11:20:22.503: I/WacomLibrary(2326): At time 158486
+01-12 11:20:22.523: I/WacomLibrary(2326): At time 158488 h
+01-12 11:20:22.523: I/WacomLibrary(2326): At time 158502
+01-12 11:20:22.533: I/WacomLibrary(2326): At time 158504 h
+01-12 11:20:22.533: I/WacomLibrary(2326): At time 158510 h
+01-12 11:20:22.533: I/WacomLibrary(2326): At time 158516 h
+01-12 11:20:22.533: I/WacomLibrary(2326): At time 158519
+01-12 11:20:22.533: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.553: I/WacomLibrary(2326): At time 158522 h
+01-12 11:20:22.553: I/WacomLibrary(2326): At time 158528 h
+01-12 11:20:22.553: I/WacomLibrary(2326): At time 158535 h
+01-12 11:20:22.553: I/WacomLibrary(2326): At time 158535
+01-12 11:20:22.583: I/WacomLibrary(2326): At time 158541 h
+01-12 11:20:22.583: I/WacomLibrary(2326): At time 158547 h
+01-12 11:20:22.583: I/WacomLibrary(2326): At time 158553 h
+01-12 11:20:22.583: I/WacomLibrary(2326): At time 158559 h
+01-12 11:20:22.583: I/WacomLibrary(2326): At time 158566 h
+01-12 11:20:22.583: I/WacomLibrary(2326): At time 158569
+01-12 11:20:22.583: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.583: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.613: I/WacomLibrary(2326): At time 158572 h
+01-12 11:20:22.613: I/WacomLibrary(2326): At time 158578 h
+01-12 11:20:22.613: I/WacomLibrary(2326): At time 158584 h
+01-12 11:20:22.613: I/WacomLibrary(2326): At time 158590 h
+01-12 11:20:22.613: I/WacomLibrary(2326): At time 158596 h
+01-12 11:20:22.613: I/WacomLibrary(2326): At time 158602
+01-12 11:20:22.633: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.653: I/WacomLibrary(2326): At time 158603 h
+01-12 11:20:22.653: I/WacomLibrary(2326): At time 158618 h
+01-12 11:20:22.653: I/WacomLibrary(2326): At time 158624 h
+01-12 11:20:22.653: I/WacomLibrary(2326): At time 158630 h
+01-12 11:20:22.653: I/WacomLibrary(2326): At time 158635
+01-12 11:20:22.674: I/WacomLibrary(2326): At time 158636 h
+01-12 11:20:22.674: I/WacomLibrary(2326): At time 158642 h
+01-12 11:20:22.674: I/WacomLibrary(2326): At time 158649 h
+01-12 11:20:22.674: I/WacomLibrary(2326): At time 158651
+01-12 11:20:22.684: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.684: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.684: I/WacomLibrary(2326): At time 158655 h
+01-12 11:20:22.684: I/WacomLibrary(2326): At time 158661 h
+01-12 11:20:22.684: I/WacomLibrary(2326): At time 158667 h
+01-12 11:20:22.684: I/WacomLibrary(2326): At time 158668
+01-12 11:20:22.704: I/WacomLibrary(2326): At time 158673 h
+01-12 11:20:22.704: I/WacomLibrary(2326): At time 158679 h
+01-12 11:20:22.704: I/WacomLibrary(2326): At time 158685
+01-12 11:20:22.714: I/WacomLibrary(2326): At time 158686 h
+01-12 11:20:22.714: I/WacomLibrary(2326): At time 158692 h
+01-12 11:20:22.714: I/WacomLibrary(2326): At time 158698 h
+01-12 11:20:22.714: I/WacomLibrary(2326): At time 158701
+01-12 11:20:22.734: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.734: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.734: I/WacomLibrary(2326): At time 158704 h
+01-12 11:20:22.734: I/WacomLibrary(2326): At time 158710 h
+01-12 11:20:22.734: I/WacomLibrary(2326): At time 158716 h
+01-12 11:20:22.734: I/WacomLibrary(2326): At time 158718
+01-12 11:20:22.754: I/WacomLibrary(2326): At time 158732 h
+01-12 11:20:22.754: I/WacomLibrary(2326): At time 158734
+01-12 11:20:22.764: I/WacomLibrary(2326): At time 158738 h
+01-12 11:20:22.764: I/WacomLibrary(2326): At time 158744 h
+01-12 11:20:22.764: I/WacomLibrary(2326): At time 158750 h
+01-12 11:20:22.764: I/WacomLibrary(2326): At time 158751
+01-12 11:20:22.784: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.784: I/WacomLibrary(2326): At time 158756 h
+01-12 11:20:22.784: I/WacomLibrary(2326): At time 158762 h
+01-12 11:20:22.784: I/WacomLibrary(2326): At time 158767
+01-12 11:20:22.814: I/WacomLibrary(2326): At time 158769 h
+01-12 11:20:22.814: I/WacomLibrary(2326): At time 158775 h
+01-12 11:20:22.814: I/WacomLibrary(2326): At time 158781 h
+01-12 11:20:22.814: I/WacomLibrary(2326): At time 158787 h
+01-12 11:20:22.814: I/WacomLibrary(2326): At time 158793 h
+01-12 11:20:22.814: I/WacomLibrary(2326): At time 158799 h
+01-12 11:20:22.814: I/WacomLibrary(2326): At time 158800
+01-12 11:20:22.834: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.834: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.844: I/WacomLibrary(2326): At time 158806 h
+01-12 11:20:22.844: I/WacomLibrary(2326): At time 158812 h
+01-12 11:20:22.844: I/WacomLibrary(2326): At time 158818 h
+01-12 11:20:22.844: I/WacomLibrary(2326): At time 158824 h
+01-12 11:20:22.844: I/WacomLibrary(2326): At time 158831 h
+01-12 11:20:22.854: I/WacomLibrary(2326): At time 158834
+01-12 11:20:22.884: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.884: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.884: I/WacomLibrary(2326): At time 158846 h
+01-12 11:20:22.884: I/WacomLibrary(2326): At time 158852 h
+01-12 11:20:22.884: I/WacomLibrary(2326): At time 158858 h
+01-12 11:20:22.884: I/WacomLibrary(2326): At time 158864 h
+01-12 11:20:22.884: I/WacomLibrary(2326): At time 158867
+01-12 11:20:22.904: I/WacomLibrary(2326): At time 158871 h
+01-12 11:20:22.904: I/WacomLibrary(2326): At time 158877 h
+01-12 11:20:22.904: I/WacomLibrary(2326): At time 158883 h
+01-12 11:20:22.904: I/WacomLibrary(2326): At time 158883
+01-12 11:20:22.924: I/WacomLibrary(2326): At time 158889 h
+01-12 11:20:22.924: I/WacomLibrary(2326): At time 158896 h
+01-12 11:20:22.924: I/WacomLibrary(2326): At time 158900
+01-12 11:20:22.924: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:22.934: I/WacomLibrary(2326): At time 158902 h
+01-12 11:20:22.934: I/WacomLibrary(2326): At time 158908 h
+01-12 11:20:22.934: I/WacomLibrary(2326): At time 158914 h
+01-12 11:20:22.934: I/WacomLibrary(2326): At time 158916
+01-12 11:20:22.954: I/WacomLibrary(2326): At time 158921 h
+01-12 11:20:22.954: I/WacomLibrary(2326): At time 158927 h
+01-12 11:20:22.954: I/WacomLibrary(2326): At time 158933
+01-12 11:20:22.984: I/WacomLibrary(2326): At time 158933 h
+01-12 11:20:22.984: I/WacomLibrary(2326): At time 158939 h
+01-12 11:20:22.984: I/WacomLibrary(2326): At time 158946 h
+01-12 11:20:22.984: I/WacomLibrary(2326): At time 158950
+01-12 11:20:23.014: I/WacomLibrary(2326): At time 158961 h
+01-12 11:20:23.014: I/WacomLibrary(2326): At time 158967 h
+01-12 11:20:23.014: I/WacomLibrary(2326): At time 158974 h
+01-12 11:20:23.014: I/WacomLibrary(2326): At time 158980 h
+01-12 11:20:23.014: I/WacomLibrary(2326): At time 158983
+01-12 11:20:23.024: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.024: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.024: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.034: I/WacomLibrary(2326): At time 158986 h
+01-12 11:20:23.034: I/WacomLibrary(2326): At time 158992 h
+01-12 11:20:23.034: I/WacomLibrary(2326): At time 158999 h
+01-12 11:20:23.034: I/WacomLibrary(2326): At time 159005 h
+01-12 11:20:23.034: I/WacomLibrary(2326): At time 159011 h
+01-12 11:20:23.034: I/WacomLibrary(2326): At time 159016
+01-12 11:20:23.064: I/WacomLibrary(2326): At time 159018 h
+01-12 11:20:23.064: I/WacomLibrary(2326): At time 159024 h
+01-12 11:20:23.064: I/WacomLibrary(2326): At time 159030 h
+01-12 11:20:23.064: I/WacomLibrary(2326): At time 159036 h
+01-12 11:20:23.064: I/WacomLibrary(2326): At time 159042 h
+01-12 11:20:23.064: I/WacomLibrary(2326): At time 159049 h
+01-12 11:20:23.064: I/WacomLibrary(2326): At time 159049
+01-12 11:20:23.074: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.074: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.094: I/WacomLibrary(2326): At time 159055 h
+01-12 11:20:23.094: I/WacomLibrary(2326): At time 159061 h
+01-12 11:20:23.094: I/WacomLibrary(2326): At time 159076 h
+01-12 11:20:23.094: I/WacomLibrary(2326): At time 159082
+01-12 11:20:23.114: I/WacomLibrary(2326): At time 159083 h
+01-12 11:20:23.114: I/WacomLibrary(2326): At time 159089 h
+01-12 11:20:23.114: I/WacomLibrary(2326): At time 159095 h
+01-12 11:20:23.114: I/WacomLibrary(2326): At time 159099
+01-12 11:20:23.124: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.124: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.144: I/WacomLibrary(2326): At time 159101 h
+01-12 11:20:23.144: I/WacomLibrary(2326): At time 159108 h
+01-12 11:20:23.144: I/WacomLibrary(2326): At time 159114 h
+01-12 11:20:23.144: I/WacomLibrary(2326): At time 159120 h
+01-12 11:20:23.144: I/WacomLibrary(2326): At time 159126 h
+01-12 11:20:23.144: I/WacomLibrary(2326): At time 159132
+01-12 11:20:23.174: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.184: I/WacomLibrary(2326): At time 159133 h
+01-12 11:20:23.184: I/WacomLibrary(2326): At time 159139 h
+01-12 11:20:23.184: I/WacomLibrary(2326): At time 159145 h
+01-12 11:20:23.184: I/WacomLibrary(2326): At time 159151 h
+01-12 11:20:23.184: I/WacomLibrary(2326): At time 159157 h
+01-12 11:20:23.184: I/WacomLibrary(2326): At time 159163 h
+01-12 11:20:23.184: I/WacomLibrary(2326): At time 159165
+01-12 11:20:23.214: I/WacomLibrary(2326): At time 159170 h
+01-12 11:20:23.214: I/WacomLibrary(2326): At time 159176 h
+01-12 11:20:23.214: I/WacomLibrary(2326): At time 159191 h
+01-12 11:20:23.214: I/WacomLibrary(2326): At time 159197 h
+01-12 11:20:23.214: I/WacomLibrary(2326): At time 159198
+01-12 11:20:23.224: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.224: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.234: I/WacomLibrary(2326): At time 159203 h
+01-12 11:20:23.234: I/WacomLibrary(2326): At time 159210 h
+01-12 11:20:23.234: I/WacomLibrary(2326): At time 159215
+01-12 11:20:23.254: I/WacomLibrary(2326): At time 159216 h
+01-12 11:20:23.254: I/WacomLibrary(2326): At time 159222 h
+01-12 11:20:23.254: I/WacomLibrary(2326): At time 159228 h
+01-12 11:20:23.254: I/WacomLibrary(2326): At time 159231
+01-12 11:20:23.274: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.274: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.284: I/WacomLibrary(2326): At time 159234 h
+01-12 11:20:23.284: I/WacomLibrary(2326): At time 159240 h
+01-12 11:20:23.284: I/WacomLibrary(2326): At time 159247 h
+01-12 11:20:23.284: I/WacomLibrary(2326): At time 159253 h
+01-12 11:20:23.284: I/WacomLibrary(2326): At time 159259 h
+01-12 11:20:23.284: I/WacomLibrary(2326): At time 159264
+01-12 11:20:23.304: I/WacomLibrary(2326): At time 159265 h
+01-12 11:20:23.304: I/WacomLibrary(2326): At time 159271 h
+01-12 11:20:23.304: I/WacomLibrary(2326): At time 159277 h
+01-12 11:20:23.304: I/WacomLibrary(2326): At time 159281
+01-12 11:20:23.314: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.334: I/WacomLibrary(2326): At time 159284 h
+01-12 11:20:23.334: I/WacomLibrary(2326): At time 159290 h
+01-12 11:20:23.334: I/WacomLibrary(2326): At time 159305 h
+01-12 11:20:23.334: I/WacomLibrary(2326): At time 159311 h
+01-12 11:20:23.334: I/WacomLibrary(2326): At time 159314
+01-12 11:20:23.344: I/WacomLibrary(2326): At time 159317 h
+01-12 11:20:23.344: I/WacomLibrary(2326): At time 159324 h
+01-12 11:20:23.354: I/WacomLibrary(2326): At time 159330 h
+01-12 11:20:23.354: I/WacomLibrary(2326): At time 159331
+01-12 11:20:23.364: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.364: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.364: I/WacomLibrary(2326): At time 159336 h
+01-12 11:20:23.364: I/WacomLibrary(2326): At time 159342 h
+01-12 11:20:23.364: I/WacomLibrary(2326): At time 159347
+01-12 11:20:23.394: I/WacomLibrary(2326): At time 159348 h
+01-12 11:20:23.394: I/WacomLibrary(2326): At time 159354 h
+01-12 11:20:23.394: I/WacomLibrary(2326): At time 159361 h
+01-12 11:20:23.394: I/WacomLibrary(2326): At time 159367 h
+01-12 11:20:23.394: I/WacomLibrary(2326): At time 159373 h
+01-12 11:20:23.394: I/WacomLibrary(2326): At time 159379 h
+01-12 11:20:23.394: I/WacomLibrary(2326): At time 159380
+01-12 11:20:23.414: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.424: I/WacomLibrary(2326): At time 159385 h
+01-12 11:20:23.424: I/WacomLibrary(2326): At time 159392 h
+01-12 11:20:23.424: I/WacomLibrary(2326): At time 159398 h
+01-12 11:20:23.424: I/WacomLibrary(2326): At time 159404 h
+01-12 11:20:23.424: I/WacomLibrary(2326): At time 159407
+01-12 11:20:23.464: I/WacomLibrary(2326): At time 159419 h
+01-12 11:20:23.464: I/WacomLibrary(2326): At time 159426 h
+01-12 11:20:23.464: I/WacomLibrary(2326): At time 159432 h
+01-12 11:20:23.464: I/WacomLibrary(2326): At time 159438 h
+01-12 11:20:23.464: I/WacomLibrary(2326): At time 159444 h
+01-12 11:20:23.464: I/WacomLibrary(2326): At time 159446
+01-12 11:20:23.464: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.464: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.494: I/WacomLibrary(2326): At time 159450 h
+01-12 11:20:23.494: I/WacomLibrary(2326): At time 159457 h
+01-12 11:20:23.494: I/WacomLibrary(2326): At time 159463 h
+01-12 11:20:23.494: I/WacomLibrary(2326): At time 159469 h
+01-12 11:20:23.494: I/WacomLibrary(2326): At time 159476 h
+01-12 11:20:23.494: I/WacomLibrary(2326): At time 159479
+01-12 11:20:23.514: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.514: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.524: I/WacomLibrary(2326): At time 159482 h
+01-12 11:20:23.524: I/WacomLibrary(2326): At time 159488 h
+01-12 11:20:23.524: I/WacomLibrary(2326): At time 159494 h
+01-12 11:20:23.524: I/WacomLibrary(2326): At time 159500 h
+01-12 11:20:23.524: I/WacomLibrary(2326): At time 159507 h
+01-12 11:20:23.524: I/WacomLibrary(2326): At time 159512
+01-12 11:20:23.544: I/WacomLibrary(2326): At time 159513 h
+01-12 11:20:23.544: I/WacomLibrary(2326): At time 159519 h
+01-12 11:20:23.544: I/WacomLibrary(2326): At time 159528
+01-12 11:20:23.564: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.574: I/WacomLibrary(2326): At time 159535 h
+01-12 11:20:23.574: I/WacomLibrary(2326): At time 159541 h
+01-12 11:20:23.574: I/WacomLibrary(2326): At time 159547 h
+01-12 11:20:23.574: I/WacomLibrary(2326): At time 159554 h
+01-12 11:20:23.574: I/WacomLibrary(2326): At time 159560 h
+01-12 11:20:23.574: I/WacomLibrary(2326): At time 159562
+01-12 11:20:23.604: I/WacomLibrary(2326): At time 159566 h
+01-12 11:20:23.604: I/WacomLibrary(2326): At time 159572 h
+01-12 11:20:23.604: I/WacomLibrary(2326): At time 159578
+01-12 11:20:23.614: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.614: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.624: I/WacomLibrary(2326): At time 159579 h
+01-12 11:20:23.624: I/WacomLibrary(2326): At time 159585 h
+01-12 11:20:23.624: I/WacomLibrary(2326): At time 159591 h
+01-12 11:20:23.624: I/WacomLibrary(2326): At time 159597 h
+01-12 11:20:23.624: I/WacomLibrary(2326): At time 159603 h
+01-12 11:20:23.624: I/WacomLibrary(2326): At time 159610 h
+01-12 11:20:23.624: I/WacomLibrary(2326): At time 159611
+01-12 11:20:23.664: I/WacomLibrary(2326): At time 159616 h
+01-12 11:20:23.664: I/WacomLibrary(2326): At time 159622 h
+01-12 11:20:23.664: I/WacomLibrary(2326): At time 159628 h
+01-12 11:20:23.664: I/WacomLibrary(2326): At time 159635 h
+01-12 11:20:23.664: I/WacomLibrary(2326): At time 159638
+01-12 11:20:23.664: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.664: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.695: I/WacomLibrary(2326): At time 159650 h
+01-12 11:20:23.695: I/WacomLibrary(2326): At time 159656 h
+01-12 11:20:23.695: I/WacomLibrary(2326): At time 159662 h
+01-12 11:20:23.695: I/WacomLibrary(2326): At time 159669 h
+01-12 11:20:23.695: I/WacomLibrary(2326): At time 159675 h
+01-12 11:20:23.695: I/WacomLibrary(2326): At time 159677
+01-12 11:20:23.725: I/WacomLibrary(2326): At time 159681 h
+01-12 11:20:23.725: I/WacomLibrary(2326): At time 159687 h
+01-12 11:20:23.725: I/WacomLibrary(2326): At time 159693 h
+01-12 11:20:23.725: I/WacomLibrary(2326): At time 159700 h
+01-12 11:20:23.725: I/WacomLibrary(2326): At time 159706 h
+01-12 11:20:23.725: I/WacomLibrary(2326): At time 159710
+01-12 11:20:23.755: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.755: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.755: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.765: I/WacomLibrary(2326): At time 159712 h
+01-12 11:20:23.765: I/WacomLibrary(2326): At time 159718 h
+01-12 11:20:23.765: I/WacomLibrary(2326): At time 159724 h
+01-12 11:20:23.765: I/WacomLibrary(2326): At time 159731 h
+01-12 11:20:23.765: I/WacomLibrary(2326): At time 159737 h
+01-12 11:20:23.765: I/WacomLibrary(2326): At time 159743 h
+01-12 11:20:23.765: I/WacomLibrary(2326): At time 159744
+01-12 11:20:23.795: I/WacomLibrary(2326): At time 159749 h
+01-12 11:20:23.795: I/WacomLibrary(2326): At time 159764 h
+01-12 11:20:23.795: I/WacomLibrary(2326): At time 159771 h
+01-12 11:20:23.795: I/WacomLibrary(2326): At time 159777
+01-12 11:20:23.805: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.805: I/WacomLibrary(2326): At time 159777 h
+01-12 11:20:23.805: I/WacomLibrary(2326): At time 159783 h
+01-12 11:20:23.805: I/WacomLibrary(2326): At time 159789 h
+01-12 11:20:23.805: I/WacomLibrary(2326): At time 159793
+01-12 11:20:23.825: I/WacomLibrary(2326): At time 159795 h
+01-12 11:20:23.825: I/WacomLibrary(2326): At time 159801 h
+01-12 11:20:23.825: I/WacomLibrary(2326): At time 159808 h
+01-12 11:20:23.825: I/WacomLibrary(2326): At time 159810
+01-12 11:20:23.845: I/WacomLibrary(2326): At time 159814 h
+01-12 11:20:23.845: I/WacomLibrary(2326): At time 159820 h
+01-12 11:20:23.845: I/WacomLibrary(2326): At time 159826 h
+01-12 11:20:23.845: I/WacomLibrary(2326): At time 159826
+01-12 11:20:23.855: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.855: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.855: I/WacomLibrary(2326): At time 159832 h
+01-12 11:20:23.855: I/WacomLibrary(2326): At time 159838 h
+01-12 11:20:23.855: I/WacomLibrary(2326): At time 159843
+01-12 11:20:23.885: I/WacomLibrary(2326): At time 159845 h
+01-12 11:20:23.885: I/WacomLibrary(2326): At time 159851 h
+01-12 11:20:23.885: I/WacomLibrary(2326): At time 159857 h
+01-12 11:20:23.885: I/WacomLibrary(2326): At time 159859
+01-12 11:20:23.905: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.905: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.905: I/WacomLibrary(2326): At time 159863 h
+01-12 11:20:23.905: I/WacomLibrary(2326): At time 159878 h
+01-12 11:20:23.905: I/WacomLibrary(2326): At time 159885 h
+01-12 11:20:23.905: I/WacomLibrary(2326): At time 159891 h
+01-12 11:20:23.905: I/WacomLibrary(2326): At time 159893
+01-12 11:20:23.945: I/WacomLibrary(2326): At time 159897 h
+01-12 11:20:23.945: I/WacomLibrary(2326): At time 159903 h
+01-12 11:20:23.945: I/WacomLibrary(2326): At time 159909 h
+01-12 11:20:23.945: I/WacomLibrary(2326): At time 159915 h
+01-12 11:20:23.945: I/WacomLibrary(2326): At time 159922 h
+01-12 11:20:23.945: I/WacomLibrary(2326): At time 159926
+01-12 11:20:23.955: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:23.975: I/WacomLibrary(2326): At time 159928 h
+01-12 11:20:23.975: I/WacomLibrary(2326): At time 159934 h
+01-12 11:20:23.975: I/WacomLibrary(2326): At time 159940 h
+01-12 11:20:23.975: I/WacomLibrary(2326): At time 159946 h
+01-12 11:20:23.975: I/WacomLibrary(2326): At time 159953 h
+01-12 11:20:23.975: I/WacomLibrary(2326): At time 159959
+01-12 11:20:24.005: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.005: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.005: I/WacomLibrary(2326): At time 159959 h
+01-12 11:20:24.005: I/WacomLibrary(2326): At time 159965 h
+01-12 11:20:24.005: I/WacomLibrary(2326): At time 159971 h
+01-12 11:20:24.005: I/WacomLibrary(2326): At time 159978 h
+01-12 11:20:24.005: I/WacomLibrary(2326): At time 159992
+01-12 11:20:24.025: I/WacomLibrary(2326): At time 159993 h
+01-12 11:20:24.025: I/WacomLibrary(2326): At time 159999 h
+01-12 11:20:24.025: I/WacomLibrary(2326): At time 160005 h
+01-12 11:20:24.025: I/WacomLibrary(2326): At time 160008
+01-12 11:20:24.045: I/WacomLibrary(2326): At time 160011 h
+01-12 11:20:24.045: I/WacomLibrary(2326): At time 160018 h
+01-12 11:20:24.045: I/WacomLibrary(2326): At time 160024 h
+01-12 11:20:24.045: I/WacomLibrary(2326): At time 160025
+01-12 11:20:24.055: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.055: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.065: I/WacomLibrary(2326): At time 160030 h
+01-12 11:20:24.065: I/WacomLibrary(2326): At time 160036 h
+01-12 11:20:24.065: I/WacomLibrary(2326): At time 160042
+01-12 11:20:24.095: I/WacomLibrary(2326): At time 160043 h
+01-12 11:20:24.095: I/WacomLibrary(2326): At time 160049 h
+01-12 11:20:24.095: I/WacomLibrary(2326): At time 160055 h
+01-12 11:20:24.095: I/WacomLibrary(2326): At time 160062 h
+01-12 11:20:24.095: I/WacomLibrary(2326): At time 160068 h
+01-12 11:20:24.095: I/WacomLibrary(2326): At time 160074 h
+01-12 11:20:24.095: I/WacomLibrary(2326): At time 160075
+01-12 11:20:24.095: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.125: I/WacomLibrary(2326): At time 160080 h
+01-12 11:20:24.125: I/WacomLibrary(2326): At time 160087 h
+01-12 11:20:24.125: I/WacomLibrary(2326): At time 160093 h
+01-12 11:20:24.125: I/WacomLibrary(2326): At time 160108
+01-12 11:20:24.145: I/WacomLibrary(2326): At time 160108 h
+01-12 11:20:24.145: I/WacomLibrary(2326): At time 160114 h
+01-12 11:20:24.145: I/WacomLibrary(2326): At time 160121 h
+01-12 11:20:24.145: I/WacomLibrary(2326): At time 160124
+01-12 11:20:24.145: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.145: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.175: I/WacomLibrary(2326): At time 160127 h
+01-12 11:20:24.175: I/WacomLibrary(2326): At time 160133 h
+01-12 11:20:24.175: I/WacomLibrary(2326): At time 160139 h
+01-12 11:20:24.175: I/WacomLibrary(2326): At time 160146 h
+01-12 11:20:24.175: I/WacomLibrary(2326): At time 160152 h
+01-12 11:20:24.175: I/WacomLibrary(2326): At time 160157
+01-12 11:20:24.195: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.205: I/WacomLibrary(2326): At time 160158 h
+01-12 11:20:24.205: I/WacomLibrary(2326): At time 160164 h
+01-12 11:20:24.205: I/WacomLibrary(2326): At time 160170 h
+01-12 11:20:24.205: I/WacomLibrary(2326): At time 160177 h
+01-12 11:20:24.205: I/WacomLibrary(2326): At time 160183 h
+01-12 11:20:24.205: I/WacomLibrary(2326): At time 160189 h
+01-12 11:20:24.205: I/WacomLibrary(2326): At time 160190
+01-12 11:20:24.235: I/WacomLibrary(2326): At time 160195 h
+01-12 11:20:24.245: I/WacomLibrary(2326): At time 160202 h
+01-12 11:20:24.245: I/WacomLibrary(2326): At time 160208 h
+01-12 11:20:24.245: I/WacomLibrary(2326): At time 160223 h
+01-12 11:20:24.245: I/WacomLibrary(2326): At time 160224
+01-12 11:20:24.245: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.245: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.275: I/WacomLibrary(2326): At time 160229 h
+01-12 11:20:24.275: I/WacomLibrary(2326): At time 160236 h
+01-12 11:20:24.275: I/WacomLibrary(2326): At time 160242 h
+01-12 11:20:24.275: I/WacomLibrary(2326): At time 160248 h
+01-12 11:20:24.275: I/WacomLibrary(2326): At time 160254 h
+01-12 11:20:24.275: I/WacomLibrary(2326): At time 160257
+01-12 11:20:24.295: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.295: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.305: I/WacomLibrary(2326): At time 160260 h
+01-12 11:20:24.305: I/WacomLibrary(2326): At time 160267 h
+01-12 11:20:24.305: I/WacomLibrary(2326): At time 160273 h
+01-12 11:20:24.305: I/WacomLibrary(2326): At time 160279 h
+01-12 11:20:24.305: I/WacomLibrary(2326): At time 160285 h
+01-12 11:20:24.305: I/WacomLibrary(2326): At time 160290
+01-12 11:20:24.335: I/WacomLibrary(2326): At time 160291 h
+01-12 11:20:24.335: I/WacomLibrary(2326): At time 160298 h
+01-12 11:20:24.335: I/WacomLibrary(2326): At time 160304 h
+01-12 11:20:24.335: I/WacomLibrary(2326): At time 160310 h
+01-12 11:20:24.335: I/WacomLibrary(2326): At time 160316 h
+01-12 11:20:24.335: I/WacomLibrary(2326): At time 160322 h
+01-12 11:20:24.335: I/WacomLibrary(2326): At time 160323
+01-12 11:20:24.345: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.375: I/WacomLibrary(2326): At time 160338 h
+01-12 11:20:24.375: I/WacomLibrary(2326): At time 160344 h
+01-12 11:20:24.375: I/WacomLibrary(2326): At time 160350 h
+01-12 11:20:24.375: I/WacomLibrary(2326): At time 160356
+01-12 11:20:24.385: I/WacomLibrary(2326): At time 160356 h
+01-12 11:20:24.385: I/WacomLibrary(2326): At time 160362 h
+01-12 11:20:24.385: I/WacomLibrary(2326): At time 160368 h
+01-12 11:20:24.385: I/WacomLibrary(2326): At time 160373
+01-12 11:20:24.395: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.395: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.405: I/WacomLibrary(2326): At time 160375 h
+01-12 11:20:24.405: I/WacomLibrary(2326): At time 160381 h
+01-12 11:20:24.405: I/WacomLibrary(2326): At time 160387 h
+01-12 11:20:24.405: I/WacomLibrary(2326): At time 160389
+01-12 11:20:24.425: I/WacomLibrary(2326): At time 160393 h
+01-12 11:20:24.425: I/WacomLibrary(2326): At time 160399 h
+01-12 11:20:24.425: I/WacomLibrary(2326): At time 160406 h
+01-12 11:20:24.425: I/WacomLibrary(2326): At time 160406
+01-12 11:20:24.435: I/WacomLibrary(2326): At time 160412 h
+01-12 11:20:24.435: I/WacomLibrary(2326): At time 160418 h
+01-12 11:20:24.435: I/WacomLibrary(2326): At time 160422
+01-12 11:20:24.455: I/WacomLibrary(2326): At time 160424 h
+01-12 11:20:24.455: I/WacomLibrary(2326): At time 160431 h
+01-12 11:20:24.455: I/WacomLibrary(2326): At time 160436 h
+01-12 11:20:24.455: I/WacomLibrary(2326): At time 160439
+01-12 11:20:24.475: I/WacomLibrary(2326): At time 160452 h
+01-12 11:20:24.475: I/WacomLibrary(2326): At time 160455
+01-12 11:20:24.485: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.485: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.495: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.505: I/WacomLibrary(2326): At time 160458 h
+01-12 11:20:24.505: I/WacomLibrary(2326): At time 160464 h
+01-12 11:20:24.505: I/WacomLibrary(2326): At time 160471 h
+01-12 11:20:24.505: I/WacomLibrary(2326): At time 160472
+01-12 11:20:24.525: I/WacomLibrary(2326): At time 160477 h
+01-12 11:20:24.525: I/WacomLibrary(2326): At time 160483 h
+01-12 11:20:24.525: I/WacomLibrary(2326): At time 160489 h
+01-12 11:20:24.525: I/WacomLibrary(2326): At time 160495 h
+01-12 11:20:24.525: I/WacomLibrary(2326): At time 160501 h
+01-12 11:20:24.525: I/WacomLibrary(2326): At time 160505
+01-12 11:20:24.535: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.535: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.545: I/WacomLibrary(2326): At time 160508 h
+01-12 11:20:24.545: I/WacomLibrary(2326): At time 160514 h
+01-12 11:20:24.545: I/WacomLibrary(2326): At time 160520 h
+01-12 11:20:24.545: I/WacomLibrary(2326): At time 160522
+01-12 11:20:24.575: I/WacomLibrary(2326): At time 160526 h
+01-12 11:20:24.575: I/WacomLibrary(2326): At time 160532 h
+01-12 11:20:24.575: I/WacomLibrary(2326): At time 160539 h
+01-12 11:20:24.575: I/WacomLibrary(2326): At time 160545 h
+01-12 11:20:24.575: I/WacomLibrary(2326): At time 160551 h
+01-12 11:20:24.575: I/WacomLibrary(2326): At time 160554
+01-12 11:20:24.585: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.605: I/WacomLibrary(2326): At time 160566 h
+01-12 11:20:24.605: I/WacomLibrary(2326): At time 160573 h
+01-12 11:20:24.605: I/WacomLibrary(2326): At time 160579 h
+01-12 11:20:24.605: I/WacomLibrary(2326): At time 160585 h
+01-12 11:20:24.605: I/WacomLibrary(2326): At time 160588
+01-12 11:20:24.625: I/WacomLibrary(2326): At time 160591 h
+01-12 11:20:24.625: I/WacomLibrary(2326): At time 160599 h
+01-12 11:20:24.625: I/WacomLibrary(2326): At time 160604 h
+01-12 11:20:24.625: I/WacomLibrary(2326): At time 160604
+01-12 11:20:24.635: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.635: D/BluetoothGatt(2326): onNotify() - Device=D4:D1:5A:53:FD:D4 UUID=00001524-1212-efde-1523-785feabcd123
+01-12 11:20:24.645: I/WacomLibrary(2326): At time 160610 h
+01-12 11:20:24.645: I/WacomLibrary(2326): At time 160616 h
+01-12 11:20:24.645: I/WacomLibrary(2326): At time 160621
+01-12 11:20:24.675: I/WacomLibrary(2326): At time 160623 h
+01-12 11:20:24.675: I/WacomLibrary(2326): At time 160629 h
+01-12 11:20:24.675: I/WacomLibrary(2326): At time 160635 h
+01-12 11:20:24.675: I/WacomLibrary(2326): At time 160641 h
+01-12 11:20:24.675: I/WacomLibrary(2326): At time 160647 h
+01-12 11:20:24.675: I/WacomLibrary(2326): At time 160653 h
+01-12 11:20:24.675: I/WacomLibrary(2326): At time 160654
+01-12 11:20:24.685: I/WacomLibrary(2326): At time 160663
+01-12 11:20:24.685: D/PointerTracker(2326): ---------------cleanup action code  trackedTouches size 1-----------
