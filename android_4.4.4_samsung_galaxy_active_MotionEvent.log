@@ -1,0 +1,611 @@
+average: 6.9309210526
+
+01-13 05:18:06.223: I/WacomLibrary(21385): At time 6356354
+01-13 05:18:06.243: I/WacomLibrary(21385): At time 6356378 h
+01-13 05:18:06.243: I/WacomLibrary(21385): At time 6356377 h
+01-13 05:18:06.243: I/WacomLibrary(21385): At time 6356377
+01-13 05:18:06.273: I/WacomLibrary(21385): At time 6356382 h
+01-13 05:18:06.283: I/WacomLibrary(21385): At time 6356384
+01-13 05:18:06.283: I/WacomLibrary(21385): At time 6356407 h
+01-13 05:18:06.293: I/WacomLibrary(21385): At time 6356419
+01-13 05:18:06.313: I/WacomLibrary(21385): At time 6356422 h
+01-13 05:18:06.313: I/WacomLibrary(21385): At time 6356423 h
+01-13 05:18:06.313: I/WacomLibrary(21385): At time 6356433 h
+01-13 05:18:06.313: I/WacomLibrary(21385): At time 6356438
+01-13 05:18:06.343: I/WacomLibrary(21385): At time 6356367 h
+01-13 05:18:06.343: I/WacomLibrary(21385): At time 6356378 h
+01-13 05:18:06.343: I/WacomLibrary(21385): At time 6356389 h
+01-13 05:18:06.343: I/WacomLibrary(21385): At time 6356400 h
+01-13 05:18:06.343: I/WacomLibrary(21385): At time 6356411 h
+01-13 05:18:06.343: I/WacomLibrary(21385): At time 6356422 h
+01-13 05:18:06.343: I/WacomLibrary(21385): At time 6356433 h
+01-13 05:18:06.343: I/WacomLibrary(21385): At time 6356444 h
+01-13 05:18:06.343: I/WacomLibrary(21385): At time 6356460 h
+01-13 05:18:06.343: I/WacomLibrary(21385): At time 6356467 h
+01-13 05:18:06.343: I/WacomLibrary(21385): At time 6356470
+01-13 05:18:06.363: I/WacomLibrary(21385): At time 6356478 h
+01-13 05:18:06.363: I/WacomLibrary(21385): At time 6356486
+01-13 05:18:06.373: I/WacomLibrary(21385): At time 6356489 h
+01-13 05:18:06.373: I/WacomLibrary(21385): At time 6356500 h
+01-13 05:18:06.373: I/WacomLibrary(21385): At time 6356505
+01-13 05:18:06.383: I/WacomLibrary(21385): At time 6356511 h
+01-13 05:18:06.383: I/WacomLibrary(21385): At time 6356520
+01-13 05:18:06.393: I/WacomLibrary(21385): At time 6356522 h
+01-13 05:18:06.393: I/WacomLibrary(21385): At time 6356533 h
+01-13 05:18:06.393: I/WacomLibrary(21385): At time 6356536
+01-13 05:18:06.413: I/WacomLibrary(21385): At time 6356544 h
+01-13 05:18:06.413: I/WacomLibrary(21385): At time 6356553
+01-13 05:18:06.433: I/WacomLibrary(21385): At time 6356555 h
+01-13 05:18:06.433: I/WacomLibrary(21385): At time 6356566 h
+01-13 05:18:06.433: I/WacomLibrary(21385): At time 6356570
+01-13 05:18:06.453: I/WacomLibrary(21385): At time 6356578 h
+01-13 05:18:06.453: I/WacomLibrary(21385): At time 6356586
+01-13 05:18:06.473: I/WacomLibrary(21385): At time 6356589 h
+01-13 05:18:06.473: I/WacomLibrary(21385): At time 6356600 h
+01-13 05:18:06.473: I/WacomLibrary(21385): At time 6356605
+01-13 05:18:06.483: I/WacomLibrary(21385): At time 6356611 h
+01-13 05:18:06.483: I/WacomLibrary(21385): At time 6356620
+01-13 05:18:06.493: I/WacomLibrary(21385): At time 6356622 h
+01-13 05:18:06.493: I/WacomLibrary(21385): At time 6356633 h
+01-13 05:18:06.493: I/WacomLibrary(21385): At time 6356636
+01-13 05:18:06.513: I/WacomLibrary(21385): At time 6356644 h
+01-13 05:18:06.513: I/WacomLibrary(21385): At time 6356653
+01-13 05:18:06.533: I/WacomLibrary(21385): At time 6356655 h
+01-13 05:18:06.533: I/WacomLibrary(21385): At time 6356666 h
+01-13 05:18:06.533: I/WacomLibrary(21385): At time 6356670
+01-13 05:18:06.563: I/WacomLibrary(21385): At time 6356677 h
+01-13 05:18:06.563: I/WacomLibrary(21385): At time 6356688 h
+01-13 05:18:06.563: I/WacomLibrary(21385): At time 6356699 h
+01-13 05:18:06.563: I/WacomLibrary(21385): At time 6356703
+01-13 05:18:06.583: I/WacomLibrary(21385): At time 6356711 h
+01-13 05:18:06.583: I/WacomLibrary(21385): At time 6356720
+01-13 05:18:06.603: I/WacomLibrary(21385): At time 6356722 h
+01-13 05:18:06.603: I/WacomLibrary(21385): At time 6356733 h
+01-13 05:18:06.603: I/WacomLibrary(21385): At time 6356736
+01-13 05:18:06.623: I/WacomLibrary(21385): At time 6356744 h
+01-13 05:18:06.623: I/WacomLibrary(21385): At time 6356755 h
+01-13 05:18:06.623: I/WacomLibrary(21385): At time 6356761
+01-13 05:18:06.633: I/WacomLibrary(21385): At time 6356766 h
+01-13 05:18:06.633: I/WacomLibrary(21385): At time 6356770
+01-13 05:18:06.643: I/WacomLibrary(21385): At time 6356777 h
+01-13 05:18:06.643: I/WacomLibrary(21385): At time 6356786
+01-13 05:18:06.663: I/WacomLibrary(21385): At time 6356788 h
+01-13 05:18:06.663: I/WacomLibrary(21385): At time 6356799 h
+01-13 05:18:06.663: I/WacomLibrary(21385): At time 6356803
+01-13 05:18:06.693: I/WacomLibrary(21385): At time 6356810 h
+01-13 05:18:06.693: I/WacomLibrary(21385): At time 6356820
+01-13 05:18:06.713: I/WacomLibrary(21385): At time 6356821 h
+01-13 05:18:06.713: I/WacomLibrary(21385): At time 6356832 h
+01-13 05:18:06.713: I/WacomLibrary(21385): At time 6356844 h
+01-13 05:18:06.713: I/WacomLibrary(21385): At time 6356853
+01-13 05:18:06.733: I/WacomLibrary(21385): At time 6356855 h
+01-13 05:18:06.733: I/WacomLibrary(21385): At time 6356866 h
+01-13 05:18:06.733: I/WacomLibrary(21385): At time 6356870
+01-13 05:18:06.753: I/WacomLibrary(21385): At time 6356877 h
+01-13 05:18:06.753: I/WacomLibrary(21385): At time 6356886
+01-13 05:18:06.763: I/WacomLibrary(21385): At time 6356888 h
+01-13 05:18:06.763: I/WacomLibrary(21385): At time 6356899 h
+01-13 05:18:06.763: I/WacomLibrary(21385): At time 6356903
+01-13 05:18:06.793: I/WacomLibrary(21385): At time 6356910 h
+01-13 05:18:06.793: I/WacomLibrary(21385): At time 6356921 h
+01-13 05:18:06.793: I/WacomLibrary(21385): At time 6356927
+01-13 05:18:06.803: I/WacomLibrary(21385): At time 6356932 h
+01-13 05:18:06.803: I/WacomLibrary(21385): At time 6356936
+01-13 05:18:06.813: I/WacomLibrary(21385): At time 6356943 h
+01-13 05:18:06.813: I/WacomLibrary(21385): At time 6356953
+01-13 05:18:06.833: I/WacomLibrary(21385): At time 6356954 h
+01-13 05:18:06.833: I/WacomLibrary(21385): At time 6356965 h
+01-13 05:18:06.833: I/WacomLibrary(21385): At time 6356970
+01-13 05:18:06.853: I/WacomLibrary(21385): At time 6356977 h
+01-13 05:18:06.853: I/WacomLibrary(21385): At time 6356988 h
+01-13 05:18:06.853: I/WacomLibrary(21385): At time 6356993
+01-13 05:18:06.863: I/WacomLibrary(21385): At time 6356999 h
+01-13 05:18:06.863: I/WacomLibrary(21385): At time 6357003
+01-13 05:18:06.883: I/WacomLibrary(21385): At time 6357010 h
+01-13 05:18:06.883: I/WacomLibrary(21385): At time 6357020
+01-13 05:18:06.903: I/WacomLibrary(21385): At time 6357021 h
+01-13 05:18:06.903: I/WacomLibrary(21385): At time 6357032 h
+01-13 05:18:06.903: I/WacomLibrary(21385): At time 6357036
+01-13 05:18:06.923: I/WacomLibrary(21385): At time 6357043 h
+01-13 05:18:06.923: I/WacomLibrary(21385): At time 6357054 h
+01-13 05:18:06.923: I/WacomLibrary(21385): At time 6357060
+01-13 05:18:06.933: I/WacomLibrary(21385): At time 6357065 h
+01-13 05:18:06.933: I/WacomLibrary(21385): At time 6357070
+01-13 05:18:06.943: I/WacomLibrary(21385): At time 6357076 h
+01-13 05:18:06.943: I/WacomLibrary(21385): At time 6357086
+01-13 05:18:06.963: I/WacomLibrary(21385): At time 6357087 h
+01-13 05:18:06.963: I/WacomLibrary(21385): At time 6357099 h
+01-13 05:18:06.963: I/WacomLibrary(21385): At time 6357103
+01-13 05:18:06.993: I/WacomLibrary(21385): At time 6357110 h
+01-13 05:18:06.993: I/WacomLibrary(21385): At time 6357121 h
+01-13 05:18:06.993: I/WacomLibrary(21385): At time 6357126
+01-13 05:18:07.003: I/WacomLibrary(21385): At time 6357132 h
+01-13 05:18:07.003: I/WacomLibrary(21385): At time 6357136
+01-13 05:18:07.013: I/WacomLibrary(21385): At time 6357143 h
+01-13 05:18:07.013: I/WacomLibrary(21385): At time 6357153
+01-13 05:18:07.043: I/WacomLibrary(21385): At time 6357154 h
+01-13 05:18:07.043: I/WacomLibrary(21385): At time 6357165 h
+01-13 05:18:07.043: I/WacomLibrary(21385): At time 6357171
+01-13 05:18:07.053: I/WacomLibrary(21385): At time 6357176 h
+01-13 05:18:07.053: I/WacomLibrary(21385): At time 6357186
+01-13 05:18:07.063: I/WacomLibrary(21385): At time 6357187 h
+01-13 05:18:07.063: I/WacomLibrary(21385): At time 6357198 h
+01-13 05:18:07.063: I/WacomLibrary(21385): At time 6357203
+01-13 05:18:07.093: I/WacomLibrary(21385): At time 6357209 h
+01-13 05:18:07.093: I/WacomLibrary(21385): At time 6357220 h
+01-13 05:18:07.093: I/WacomLibrary(21385): At time 6357226
+01-13 05:18:07.103: I/WacomLibrary(21385): At time 6357232 h
+01-13 05:18:07.103: I/WacomLibrary(21385): At time 6357236
+01-13 05:18:07.123: I/WacomLibrary(21385): At time 6357243 h
+01-13 05:18:07.123: I/WacomLibrary(21385): At time 6357254 h
+01-13 05:18:07.123: I/WacomLibrary(21385): At time 6357259
+01-13 05:18:07.133: I/WacomLibrary(21385): At time 6357265 h
+01-13 05:18:07.133: I/WacomLibrary(21385): At time 6357270
+01-13 05:18:07.153: I/WacomLibrary(21385): At time 6357276 h
+01-13 05:18:07.153: I/WacomLibrary(21385): At time 6357287 h
+01-13 05:18:07.153: I/WacomLibrary(21385): At time 6357293
+01-13 05:18:07.163: I/WacomLibrary(21385): At time 6357298 h
+01-13 05:18:07.163: I/WacomLibrary(21385): At time 6357303
+01-13 05:18:07.183: I/WacomLibrary(21385): At time 6357309 h
+01-13 05:18:07.183: I/WacomLibrary(21385): At time 6357320
+01-13 05:18:07.203: I/WacomLibrary(21385): At time 6357320 h
+01-13 05:18:07.203: I/WacomLibrary(21385): At time 6357331 h
+01-13 05:18:07.203: I/WacomLibrary(21385): At time 6357337
+01-13 05:18:07.213: I/WacomLibrary(21385): At time 6357342 h
+01-13 05:18:07.213: I/WacomLibrary(21385): At time 6357353
+01-13 05:18:07.233: I/WacomLibrary(21385): At time 6357353 h
+01-13 05:18:07.233: I/WacomLibrary(21385): At time 6357365 h
+01-13 05:18:07.233: I/WacomLibrary(21385): At time 6357370
+01-13 05:18:07.253: I/WacomLibrary(21385): At time 6357376 h
+01-13 05:18:07.253: I/WacomLibrary(21385): At time 6357386
+01-13 05:18:07.273: I/WacomLibrary(21385): At time 6357387 h
+01-13 05:18:07.273: I/WacomLibrary(21385): At time 6357398 h
+01-13 05:18:07.273: I/WacomLibrary(21385): At time 6357403
+01-13 05:18:07.293: I/WacomLibrary(21385): At time 6357409 h
+01-13 05:18:07.293: I/WacomLibrary(21385): At time 6357420 h
+01-13 05:18:07.293: I/WacomLibrary(21385): At time 6357431 h
+01-13 05:18:07.293: I/WacomLibrary(21385): At time 6357436
+01-13 05:18:07.313: I/WacomLibrary(21385): At time 6357442 h
+01-13 05:18:07.313: I/WacomLibrary(21385): At time 6357453
+01-13 05:18:07.333: I/WacomLibrary(21385): At time 6357453 h
+01-13 05:18:07.333: I/WacomLibrary(21385): At time 6357464 h
+01-13 05:18:07.333: I/WacomLibrary(21385): At time 6357470
+01-13 05:18:07.353: I/WacomLibrary(21385): At time 6357476 h
+01-13 05:18:07.353: I/WacomLibrary(21385): At time 6357486
+01-13 05:18:07.373: I/WacomLibrary(21385): At time 6357487 h
+01-13 05:18:07.373: I/WacomLibrary(21385): At time 6357498 h
+01-13 05:18:07.373: I/WacomLibrary(21385): At time 6357503
+01-13 05:18:07.393: I/WacomLibrary(21385): At time 6357509 h
+01-13 05:18:07.393: I/WacomLibrary(21385): At time 6357520 h
+01-13 05:18:07.393: I/WacomLibrary(21385): At time 6357525
+01-13 05:18:07.403: I/WacomLibrary(21385): At time 6357531 h
+01-13 05:18:07.403: I/WacomLibrary(21385): At time 6357536
+01-13 05:18:07.413: I/WacomLibrary(21385): At time 6357542 h
+01-13 05:18:07.413: I/WacomLibrary(21385): At time 6357547
+01-13 05:18:07.433: I/WacomLibrary(21385): At time 6357553 h
+01-13 05:18:07.433: I/WacomLibrary(21385): At time 6357566 h
+01-13 05:18:07.433: I/WacomLibrary(21385): At time 6357570
+01-13 05:18:07.453: I/WacomLibrary(21385): At time 6357575 h
+01-13 05:18:07.453: I/WacomLibrary(21385): At time 6357586 h
+01-13 05:18:07.453: I/WacomLibrary(21385): At time 6357592
+01-13 05:18:07.473: I/WacomLibrary(21385): At time 6357597 h
+01-13 05:18:07.473: I/WacomLibrary(21385): At time 6357603
+01-13 05:18:07.493: I/WacomLibrary(21385): At time 6357609 h
+01-13 05:18:07.493: I/WacomLibrary(21385): At time 6357620 h
+01-13 05:18:07.493: I/WacomLibrary(21385): At time 6357625
+01-13 05:18:07.503: I/WacomLibrary(21385): At time 6357631 h
+01-13 05:18:07.503: I/WacomLibrary(21385): At time 6357636
+01-13 05:18:07.523: I/WacomLibrary(21385): At time 6357642 h
+01-13 05:18:07.523: I/WacomLibrary(21385): At time 6357653 h
+01-13 05:18:07.523: I/WacomLibrary(21385): At time 6357658
+01-13 05:18:07.533: I/WacomLibrary(21385): At time 6357664 h
+01-13 05:18:07.533: I/WacomLibrary(21385): At time 6357669
+01-13 05:18:07.563: I/WacomLibrary(21385): At time 6357675 h
+01-13 05:18:07.563: I/WacomLibrary(21385): At time 6357686 h
+01-13 05:18:07.563: I/WacomLibrary(21385): At time 6357692
+01-13 05:18:07.573: I/WacomLibrary(21385): At time 6357697 h
+01-13 05:18:07.573: I/WacomLibrary(21385): At time 6357703
+01-13 05:18:07.593: I/WacomLibrary(21385): At time 6357708 h
+01-13 05:18:07.593: I/WacomLibrary(21385): At time 6357719 h
+01-13 05:18:07.593: I/WacomLibrary(21385): At time 6357725
+01-13 05:18:07.603: I/WacomLibrary(21385): At time 6357730 h
+01-13 05:18:07.603: I/WacomLibrary(21385): At time 6357736
+01-13 05:18:07.623: I/WacomLibrary(21385): At time 6357742 h
+01-13 05:18:07.623: I/WacomLibrary(21385): At time 6357753 h
+01-13 05:18:07.623: I/WacomLibrary(21385): At time 6357758
+01-13 05:18:07.643: I/WacomLibrary(21385): At time 6357764 h
+01-13 05:18:07.643: I/WacomLibrary(21385): At time 6357775 h
+01-13 05:18:07.643: I/WacomLibrary(21385): At time 6357786 h
+01-13 05:18:07.643: I/WacomLibrary(21385): At time 6357786
+01-13 05:18:07.693: I/WacomLibrary(21385): At time 6357797 h
+01-13 05:18:07.693: I/WacomLibrary(21385): At time 6357808 h
+01-13 05:18:07.693: I/WacomLibrary(21385): At time 6357819 h
+01-13 05:18:07.693: I/WacomLibrary(21385): At time 6357825
+01-13 05:18:07.723: I/WacomLibrary(21385): At time 6357830 h
+01-13 05:18:07.723: I/WacomLibrary(21385): At time 6357836
+01-13 05:18:07.743: I/WacomLibrary(21385): At time 6357841 h
+01-13 05:18:07.743: I/WacomLibrary(21385): At time 6357852 h
+01-13 05:18:07.743: I/WacomLibrary(21385): At time 6357864 h
+01-13 05:18:07.743: I/WacomLibrary(21385): At time 6357875 h
+01-13 05:18:07.743: I/WacomLibrary(21385): At time 6357880
+01-13 05:18:07.763: I/WacomLibrary(21385): At time 6357886 h
+01-13 05:18:07.763: I/WacomLibrary(21385): At time 6357886
+01-13 05:18:07.783: I/WacomLibrary(21385): At time 6357897 h
+01-13 05:18:07.783: I/WacomLibrary(21385): At time 6357908 h
+01-13 05:18:07.783: I/WacomLibrary(21385): At time 6357913
+01-13 05:18:07.793: I/WacomLibrary(21385): At time 6357919 h
+01-13 05:18:07.793: I/WacomLibrary(21385): At time 6357920
+01-13 05:18:07.813: I/WacomLibrary(21385): At time 6357930 h
+01-13 05:18:07.813: I/WacomLibrary(21385): At time 6357941 h
+01-13 05:18:07.813: I/WacomLibrary(21385): At time 6357952 h
+01-13 05:18:07.813: I/WacomLibrary(21385): At time 6357953
+01-13 05:18:07.843: I/WacomLibrary(21385): At time 6357963 h
+01-13 05:18:07.843: I/WacomLibrary(21385): At time 6357974 h
+01-13 05:18:07.843: I/WacomLibrary(21385): At time 6357980
+01-13 05:18:07.853: I/WacomLibrary(21385): At time 6357985 h
+01-13 05:18:07.853: I/WacomLibrary(21385): At time 6357986
+01-13 05:18:07.873: I/WacomLibrary(21385): At time 6357997 h
+01-13 05:18:07.873: I/WacomLibrary(21385): At time 6358008 h
+01-13 05:18:07.873: I/WacomLibrary(21385): At time 6358019 h
+01-13 05:18:07.873: I/WacomLibrary(21385): At time 6358020
+01-13 05:18:07.913: I/WacomLibrary(21385): At time 6358030 h
+01-13 05:18:07.913: I/WacomLibrary(21385): At time 6358041 h
+01-13 05:18:07.913: I/WacomLibrary(21385): At time 6358046
+01-13 05:18:07.923: I/WacomLibrary(21385): At time 6358052 h
+01-13 05:18:07.923: I/WacomLibrary(21385): At time 6358053
+01-13 05:18:07.943: I/WacomLibrary(21385): At time 6358063 h
+01-13 05:18:07.943: I/WacomLibrary(21385): At time 6358074 h
+01-13 05:18:07.943: I/WacomLibrary(21385): At time 6358080
+01-13 05:18:07.963: I/WacomLibrary(21385): At time 6358085 h
+01-13 05:18:07.963: I/WacomLibrary(21385): At time 6358086
+01-13 05:18:07.973: I/WacomLibrary(21385): At time 6358096 h
+01-13 05:18:07.973: I/WacomLibrary(21385): At time 6358107 h
+01-13 05:18:07.973: I/WacomLibrary(21385): At time 6358113
+01-13 05:18:07.993: I/WacomLibrary(21385): At time 6358119 h
+01-13 05:18:07.993: I/WacomLibrary(21385): At time 6358120
+01-13 05:18:08.013: I/WacomLibrary(21385): At time 6358130 h
+01-13 05:18:08.013: I/WacomLibrary(21385): At time 6358141 h
+01-13 05:18:08.013: I/WacomLibrary(21385): At time 6358146
+01-13 05:18:08.023: I/WacomLibrary(21385): At time 6358152 h
+01-13 05:18:08.023: I/WacomLibrary(21385): At time 6358153
+01-13 05:18:08.043: I/WacomLibrary(21385): At time 6358163 h
+01-13 05:18:08.043: I/WacomLibrary(21385): At time 6358174 h
+01-13 05:18:08.043: I/WacomLibrary(21385): At time 6358185 h
+01-13 05:18:08.043: I/WacomLibrary(21385): At time 6358186
+01-13 05:18:08.073: I/WacomLibrary(21385): At time 6358196 h
+01-13 05:18:08.073: I/WacomLibrary(21385): At time 6358207 h
+01-13 05:18:08.073: I/WacomLibrary(21385): At time 6358213
+01-13 05:18:08.083: I/WacomLibrary(21385): At time 6358218 h
+01-13 05:18:08.083: I/WacomLibrary(21385): At time 6358220
+01-13 05:18:08.093: I/WacomLibrary(21385): At time 6358229 h
+01-13 05:18:08.093: I/WacomLibrary(21385): At time 6358236
+01-13 05:18:08.123: I/WacomLibrary(21385): At time 6358240 h
+01-13 05:18:08.123: I/WacomLibrary(21385): At time 6358252 h
+01-13 05:18:08.123: I/WacomLibrary(21385): At time 6358253
+01-13 05:18:08.143: I/WacomLibrary(21385): At time 6358263 h
+01-13 05:18:08.143: I/WacomLibrary(21385): At time 6358274 h
+01-13 05:18:08.143: I/WacomLibrary(21385): At time 6358285 h
+01-13 05:18:08.143: I/WacomLibrary(21385): At time 6358286
+01-13 05:18:08.163: I/WacomLibrary(21385): At time 6358296 h
+01-13 05:18:08.163: I/WacomLibrary(21385): At time 6358303
+01-13 05:18:08.193: I/WacomLibrary(21385): At time 6358307 h
+01-13 05:18:08.193: I/WacomLibrary(21385): At time 6358318 h
+01-13 05:18:08.193: I/WacomLibrary(21385): At time 6358329 h
+01-13 05:18:08.193: I/WacomLibrary(21385): At time 6358335
+01-13 05:18:08.223: I/WacomLibrary(21385): At time 6358340 h
+01-13 05:18:08.223: I/WacomLibrary(21385): At time 6358351 h
+01-13 05:18:08.223: I/WacomLibrary(21385): At time 6358357
+01-13 05:18:08.233: I/WacomLibrary(21385): At time 6358362 h
+01-13 05:18:08.233: I/WacomLibrary(21385): At time 6358370
+01-13 05:18:08.263: I/WacomLibrary(21385): At time 6358373 h
+01-13 05:18:08.263: I/WacomLibrary(21385): At time 6358385 h
+01-13 05:18:08.263: I/WacomLibrary(21385): At time 6358390
+01-13 05:18:08.273: I/WacomLibrary(21385): At time 6358396 h
+01-13 05:18:08.273: I/WacomLibrary(21385): At time 6358403
+01-13 05:18:08.293: I/WacomLibrary(21385): At time 6358407 h
+01-13 05:18:08.293: I/WacomLibrary(21385): At time 6358418 h
+01-13 05:18:08.293: I/WacomLibrary(21385): At time 6358423
+01-13 05:18:08.303: I/WacomLibrary(21385): At time 6358429 h
+01-13 05:18:08.303: I/WacomLibrary(21385): At time 6358436
+01-13 05:18:08.323: I/WacomLibrary(21385): At time 6358440 h
+01-13 05:18:08.323: I/WacomLibrary(21385): At time 6358451 h
+01-13 05:18:08.323: I/WacomLibrary(21385): At time 6358462 h
+01-13 05:18:08.323: I/WacomLibrary(21385): At time 6358470
+01-13 05:18:08.363: I/WacomLibrary(21385): At time 6358473 h
+01-13 05:18:08.363: I/WacomLibrary(21385): At time 6358484 h
+01-13 05:18:08.363: I/WacomLibrary(21385): At time 6358495 h
+01-13 05:18:08.363: I/WacomLibrary(21385): At time 6358503
+01-13 05:18:08.393: I/WacomLibrary(21385): At time 6358507 h
+01-13 05:18:08.393: I/WacomLibrary(21385): At time 6358518 h
+01-13 05:18:08.393: I/WacomLibrary(21385): At time 6358523
+01-13 05:18:08.403: I/WacomLibrary(21385): At time 6358529 h
+01-13 05:18:08.403: I/WacomLibrary(21385): At time 6358536
+01-13 05:18:08.423: I/WacomLibrary(21385): At time 6358540 h
+01-13 05:18:08.423: I/WacomLibrary(21385): At time 6358551 h
+01-13 05:18:08.423: I/WacomLibrary(21385): At time 6358556
+01-13 05:18:08.433: I/WacomLibrary(21385): At time 6358562 h
+01-13 05:18:08.433: I/WacomLibrary(21385): At time 6358570
+01-13 05:18:08.453: I/WacomLibrary(21385): At time 6358573 h
+01-13 05:18:08.453: I/WacomLibrary(21385): At time 6358584 h
+01-13 05:18:08.453: I/WacomLibrary(21385): At time 6358590
+01-13 05:18:08.463: I/WacomLibrary(21385): At time 6358595 h
+01-13 05:18:08.463: I/WacomLibrary(21385): At time 6358603
+01-13 05:18:08.483: I/WacomLibrary(21385): At time 6358606 h
+01-13 05:18:08.483: I/WacomLibrary(21385): At time 6358617 h
+01-13 05:18:08.483: I/WacomLibrary(21385): At time 6358620
+01-13 05:18:08.513: I/WacomLibrary(21385): At time 6358629 h
+01-13 05:18:08.513: I/WacomLibrary(21385): At time 6358640 h
+01-13 05:18:08.513: I/WacomLibrary(21385): At time 6358653
+01-13 05:18:08.543: I/WacomLibrary(21385): At time 6358653 h
+01-13 05:18:08.543: I/WacomLibrary(21385): At time 6358662 h
+01-13 05:18:08.543: I/WacomLibrary(21385): At time 6358673 h
+01-13 05:18:08.543: I/WacomLibrary(21385): At time 6358678
+01-13 05:18:08.553: I/WacomLibrary(21385): At time 6358684 h
+01-13 05:18:08.553: I/WacomLibrary(21385): At time 6358686
+01-13 05:18:08.573: I/WacomLibrary(21385): At time 6358695 h
+01-13 05:18:08.573: I/WacomLibrary(21385): At time 6358706 h
+01-13 05:18:08.573: I/WacomLibrary(21385): At time 6358712
+01-13 05:18:08.603: I/WacomLibrary(21385): At time 6358717 h
+01-13 05:18:08.603: I/WacomLibrary(21385): At time 6358720
+01-13 05:18:08.613: I/WacomLibrary(21385): At time 6358728 h
+01-13 05:18:08.613: I/WacomLibrary(21385): At time 6358739 h
+01-13 05:18:08.613: I/WacomLibrary(21385): At time 6358750 h
+01-13 05:18:08.613: I/WacomLibrary(21385): At time 6358753
+01-13 05:18:08.663: I/WacomLibrary(21385): At time 6358762 h
+01-13 05:18:08.663: I/WacomLibrary(21385): At time 6358773 h
+01-13 05:18:08.663: I/WacomLibrary(21385): At time 6358784 h
+01-13 05:18:08.663: I/WacomLibrary(21385): At time 6358789
+01-13 05:18:08.683: I/WacomLibrary(21385): At time 6358795 h
+01-13 05:18:08.683: I/WacomLibrary(21385): At time 6358803
+01-13 05:18:08.703: I/WacomLibrary(21385): At time 6358806 h
+01-13 05:18:08.703: I/WacomLibrary(21385): At time 6358817 h
+01-13 05:18:08.703: I/WacomLibrary(21385): At time 6358828 h
+01-13 05:18:08.703: I/WacomLibrary(21385): At time 6358836
+01-13 05:18:08.723: I/WacomLibrary(21385): At time 6358839 h
+01-13 05:18:08.723: I/WacomLibrary(21385): At time 6358850 h
+01-13 05:18:08.723: I/WacomLibrary(21385): At time 6358856
+01-13 05:18:08.733: I/WacomLibrary(21385): At time 6358861 h
+01-13 05:18:08.733: I/WacomLibrary(21385): At time 6358870
+01-13 05:18:08.753: I/WacomLibrary(21385): At time 6358872 h
+01-13 05:18:08.753: I/WacomLibrary(21385): At time 6358884 h
+01-13 05:18:08.753: I/WacomLibrary(21385): At time 6358889
+01-13 05:18:08.773: I/WacomLibrary(21385): At time 6358895 h
+01-13 05:18:08.773: I/WacomLibrary(21385): At time 6358903
+01-13 05:18:08.793: I/WacomLibrary(21385): At time 6358906 h
+01-13 05:18:08.793: I/WacomLibrary(21385): At time 6358917 h
+01-13 05:18:08.793: I/WacomLibrary(21385): At time 6358923
+01-13 05:18:08.803: I/WacomLibrary(21385): At time 6358928 h
+01-13 05:18:08.803: I/WacomLibrary(21385): At time 6358936
+01-13 05:18:08.823: I/WacomLibrary(21385): At time 6358939 h
+01-13 05:18:08.823: I/WacomLibrary(21385): At time 6358950 h
+01-13 05:18:08.823: I/WacomLibrary(21385): At time 6358956
+01-13 05:18:08.833: I/WacomLibrary(21385): At time 6358961 h
+01-13 05:18:08.833: I/WacomLibrary(21385): At time 6358970
+01-13 05:18:08.853: I/WacomLibrary(21385): At time 6358972 h
+01-13 05:18:08.853: I/WacomLibrary(21385): At time 6358983 h
+01-13 05:18:08.853: I/WacomLibrary(21385): At time 6358989
+01-13 05:18:08.873: I/WacomLibrary(21385): At time 6358994 h
+01-13 05:18:08.873: I/WacomLibrary(21385): At time 6359003
+01-13 05:18:08.893: I/WacomLibrary(21385): At time 6359006 h
+01-13 05:18:08.893: I/WacomLibrary(21385): At time 6359017 h
+01-13 05:18:08.893: I/WacomLibrary(21385): At time 6359022
+01-13 05:18:08.903: I/WacomLibrary(21385): At time 6359028 h
+01-13 05:18:08.903: I/WacomLibrary(21385): At time 6359036
+01-13 05:18:08.923: I/WacomLibrary(21385): At time 6359039 h
+01-13 05:18:08.923: I/WacomLibrary(21385): At time 6359050 h
+01-13 05:18:08.923: I/WacomLibrary(21385): At time 6359056
+01-13 05:18:08.933: I/WacomLibrary(21385): At time 6359061 h
+01-13 05:18:08.933: I/WacomLibrary(21385): At time 6359070
+01-13 05:18:08.953: I/WacomLibrary(21385): At time 6359072 h
+01-13 05:18:08.953: I/WacomLibrary(21385): At time 6359083 h
+01-13 05:18:08.953: I/WacomLibrary(21385): At time 6359089
+01-13 05:18:08.973: I/WacomLibrary(21385): At time 6359094 h
+01-13 05:18:08.973: I/WacomLibrary(21385): At time 6359103
+01-13 05:18:08.993: I/WacomLibrary(21385): At time 6359105 h
+01-13 05:18:08.993: I/WacomLibrary(21385): At time 6359116 h
+01-13 05:18:08.993: I/WacomLibrary(21385): At time 6359122
+01-13 05:18:09.003: I/WacomLibrary(21385): At time 6359127 h
+01-13 05:18:09.003: I/WacomLibrary(21385): At time 6359136
+01-13 05:18:09.023: I/WacomLibrary(21385): At time 6359139 h
+01-13 05:18:09.023: I/WacomLibrary(21385): At time 6359150 h
+01-13 05:18:09.023: I/WacomLibrary(21385): At time 6359161 h
+01-13 05:18:09.023: I/WacomLibrary(21385): At time 6359170
+01-13 05:18:09.063: I/WacomLibrary(21385): At time 6359172 h
+01-13 05:18:09.063: I/WacomLibrary(21385): At time 6359183 h
+01-13 05:18:09.063: I/WacomLibrary(21385): At time 6359194 h
+01-13 05:18:09.063: I/WacomLibrary(21385): At time 6359203
+01-13 05:18:09.083: I/WacomLibrary(21385): At time 6359205 h
+01-13 05:18:09.083: I/WacomLibrary(21385): At time 6359216 h
+01-13 05:18:09.083: I/WacomLibrary(21385): At time 6359220
+01-13 05:18:09.113: I/WacomLibrary(21385): At time 6359227 h
+01-13 05:18:09.113: I/WacomLibrary(21385): At time 6359238 h
+01-13 05:18:09.113: I/WacomLibrary(21385): At time 6359244
+01-13 05:18:09.123: I/WacomLibrary(21385): At time 6359249 h
+01-13 05:18:09.123: I/WacomLibrary(21385): At time 6359253
+01-13 05:18:09.143: I/WacomLibrary(21385): At time 6359261 h
+01-13 05:18:09.143: I/WacomLibrary(21385): At time 6359272 h
+01-13 05:18:09.143: I/WacomLibrary(21385): At time 6359283 h
+01-13 05:18:09.143: I/WacomLibrary(21385): At time 6359286
+01-13 05:18:09.173: I/WacomLibrary(21385): At time 6359294 h
+01-13 05:18:09.173: I/WacomLibrary(21385): At time 6359305 h
+01-13 05:18:09.173: I/WacomLibrary(21385): At time 6359310
+01-13 05:18:09.193: I/WacomLibrary(21385): At time 6359316 h
+01-13 05:18:09.193: I/WacomLibrary(21385): At time 6359320
+01-13 05:18:09.213: I/WacomLibrary(21385): At time 6359327 h
+01-13 05:18:09.213: I/WacomLibrary(21385): At time 6359338 h
+01-13 05:18:09.213: I/WacomLibrary(21385): At time 6359349 h
+01-13 05:18:09.213: I/WacomLibrary(21385): At time 6359353
+01-13 05:18:09.243: I/WacomLibrary(21385): At time 6359360 h
+01-13 05:18:09.243: I/WacomLibrary(21385): At time 6359371 h
+01-13 05:18:09.243: I/WacomLibrary(21385): At time 6359377
+01-13 05:18:09.253: I/WacomLibrary(21385): At time 6359383 h
+01-13 05:18:09.253: I/WacomLibrary(21385): At time 6359386
+01-13 05:18:09.273: I/WacomLibrary(21385): At time 6359394 h
+01-13 05:18:09.273: I/WacomLibrary(21385): At time 6359405 h
+01-13 05:18:09.273: I/WacomLibrary(21385): At time 6359410
+01-13 05:18:09.283: I/WacomLibrary(21385): At time 6359416 h
+01-13 05:18:09.283: I/WacomLibrary(21385): At time 6359420
+01-13 05:18:09.313: I/WacomLibrary(21385): At time 6359427 h
+01-13 05:18:09.313: I/WacomLibrary(21385): At time 6359438 h
+01-13 05:18:09.313: I/WacomLibrary(21385): At time 6359443
+01-13 05:18:09.323: I/WacomLibrary(21385): At time 6359449 h
+01-13 05:18:09.323: I/WacomLibrary(21385): At time 6359453
+01-13 05:18:09.333: I/WacomLibrary(21385): At time 6359460 h
+01-13 05:18:09.333: I/WacomLibrary(21385): At time 6359470
+01-13 05:18:09.353: I/WacomLibrary(21385): At time 6359471 h
+01-13 05:18:09.353: I/WacomLibrary(21385): At time 6359482 h
+01-13 05:18:09.353: I/WacomLibrary(21385): At time 6359486
+01-13 05:18:09.383: I/WacomLibrary(21385): At time 6359493 h
+01-13 05:18:09.383: I/WacomLibrary(21385): At time 6359505 h
+01-13 05:18:09.383: I/WacomLibrary(21385): At time 6359516 h
+01-13 05:18:09.383: I/WacomLibrary(21385): At time 6359520
+01-13 05:18:09.403: I/WacomLibrary(21385): At time 6359527 h
+01-13 05:18:09.403: I/WacomLibrary(21385): At time 6359536
+01-13 05:18:09.433: I/WacomLibrary(21385): At time 6359538 h
+01-13 05:18:09.433: I/WacomLibrary(21385): At time 6359549 h
+01-13 05:18:09.433: I/WacomLibrary(21385): At time 6359560 h
+01-13 05:18:09.433: I/WacomLibrary(21385): At time 6359570
+01-13 05:18:09.463: I/WacomLibrary(21385): At time 6359571 h
+01-13 05:18:09.463: I/WacomLibrary(21385): At time 6359582 h
+01-13 05:18:09.463: I/WacomLibrary(21385): At time 6359588
+01-13 05:18:09.473: I/WacomLibrary(21385): At time 6359593 h
+01-13 05:18:09.473: I/WacomLibrary(21385): At time 6359603
+01-13 05:18:09.493: I/WacomLibrary(21385): At time 6359604 h
+01-13 05:18:09.493: I/WacomLibrary(21385): At time 6359615 h
+01-13 05:18:09.493: I/WacomLibrary(21385): At time 6359627 h
+01-13 05:18:09.493: I/WacomLibrary(21385): At time 6359632
+01-13 05:18:09.513: I/WacomLibrary(21385): At time 6359638 h
+01-13 05:18:09.513: I/WacomLibrary(21385): At time 6359649 h
+01-13 05:18:09.513: I/WacomLibrary(21385): At time 6359653
+01-13 05:18:09.543: I/WacomLibrary(21385): At time 6359660 h
+01-13 05:18:09.543: I/WacomLibrary(21385): At time 6359671 h
+01-13 05:18:09.543: I/WacomLibrary(21385): At time 6359676
+01-13 05:18:09.553: I/WacomLibrary(21385): At time 6359682 h
+01-13 05:18:09.553: I/WacomLibrary(21385): At time 6359686
+01-13 05:18:09.573: I/WacomLibrary(21385): At time 6359693 h
+01-13 05:18:09.573: I/WacomLibrary(21385): At time 6359704 h
+01-13 05:18:09.573: I/WacomLibrary(21385): At time 6359710
+01-13 05:18:09.593: I/WacomLibrary(21385): At time 6359715 h
+01-13 05:18:09.593: I/WacomLibrary(21385): At time 6359720
+01-13 05:18:09.603: I/WacomLibrary(21385): At time 6359726 h
+01-13 05:18:09.603: I/WacomLibrary(21385): At time 6359737 h
+01-13 05:18:09.603: I/WacomLibrary(21385): At time 6359743
+01-13 05:18:09.623: I/WacomLibrary(21385): At time 6359748 h
+01-13 05:18:09.623: I/WacomLibrary(21385): At time 6359753
+01-13 05:18:09.643: I/WacomLibrary(21385): At time 6359760 h
+01-13 05:18:09.643: I/WacomLibrary(21385): At time 6359771 h
+01-13 05:18:09.643: I/WacomLibrary(21385): At time 6359776
+01-13 05:18:09.653: I/WacomLibrary(21385): At time 6359782 h
+01-13 05:18:09.653: I/WacomLibrary(21385): At time 6359786
+01-13 05:18:09.673: I/WacomLibrary(21385): At time 6359793 h
+01-13 05:18:09.673: I/WacomLibrary(21385): At time 6359804 h
+01-13 05:18:09.673: I/WacomLibrary(21385): At time 6359809
+01-13 05:18:09.693: I/WacomLibrary(21385): At time 6359815 h
+01-13 05:18:09.693: I/WacomLibrary(21385): At time 6359820
+01-13 05:18:09.713: I/WacomLibrary(21385): At time 6359826 h
+01-13 05:18:09.713: I/WacomLibrary(21385): At time 6359837 h
+01-13 05:18:09.713: I/WacomLibrary(21385): At time 6359843
+01-13 05:18:09.723: I/WacomLibrary(21385): At time 6359848 h
+01-13 05:18:09.723: I/WacomLibrary(21385): At time 6359853
+01-13 05:18:09.743: I/WacomLibrary(21385): At time 6359859 h
+01-13 05:18:09.743: I/WacomLibrary(21385): At time 6359870 h
+01-13 05:18:09.743: I/WacomLibrary(21385): At time 6359876
+01-13 05:18:09.753: I/WacomLibrary(21385): At time 6359882 h
+01-13 05:18:09.753: I/WacomLibrary(21385): At time 6359886
+01-13 05:18:09.773: I/WacomLibrary(21385): At time 6359893 h
+01-13 05:18:09.773: I/WacomLibrary(21385): At time 6359904 h
+01-13 05:18:09.773: I/WacomLibrary(21385): At time 6359915 h
+01-13 05:18:09.773: I/WacomLibrary(21385): At time 6359920
+01-13 05:18:09.803: I/WacomLibrary(21385): At time 6359926 h
+01-13 05:18:09.803: I/WacomLibrary(21385): At time 6359937 h
+01-13 05:18:09.803: I/WacomLibrary(21385): At time 6359943
+01-13 05:18:09.823: I/WacomLibrary(21385): At time 6359948 h
+01-13 05:18:09.823: I/WacomLibrary(21385): At time 6359953
+01-13 05:18:09.843: I/WacomLibrary(21385): At time 6359959 h
+01-13 05:18:09.843: I/WacomLibrary(21385): At time 6359970 h
+01-13 05:18:09.843: I/WacomLibrary(21385): At time 6359976
+01-13 05:18:09.853: I/WacomLibrary(21385): At time 6359981 h
+01-13 05:18:09.853: I/WacomLibrary(21385): At time 6359986
+01-13 05:18:09.873: I/WacomLibrary(21385): At time 6359992 h
+01-13 05:18:09.873: I/WacomLibrary(21385): At time 6360004 h
+01-13 05:18:09.873: I/WacomLibrary(21385): At time 6360009
+01-13 05:18:09.893: I/WacomLibrary(21385): At time 6360015 h
+01-13 05:18:09.893: I/WacomLibrary(21385): At time 6360019
+01-13 05:18:09.913: I/WacomLibrary(21385): At time 6360026 h
+01-13 05:18:09.913: I/WacomLibrary(21385): At time 6360037 h
+01-13 05:18:09.913: I/WacomLibrary(21385): At time 6360048 h
+01-13 05:18:09.913: I/WacomLibrary(21385): At time 6360053
+01-13 05:18:09.943: I/WacomLibrary(21385): At time 6360059 h
+01-13 05:18:09.943: I/WacomLibrary(21385): At time 6360070 h
+01-13 05:18:09.943: I/WacomLibrary(21385): At time 6360076
+01-13 05:18:09.953: I/WacomLibrary(21385): At time 6360081 h
+01-13 05:18:09.953: I/WacomLibrary(21385): At time 6360086
+01-13 05:18:09.973: I/WacomLibrary(21385): At time 6360092 h
+01-13 05:18:09.973: I/WacomLibrary(21385): At time 6360103 h
+01-13 05:18:09.973: I/WacomLibrary(21385): At time 6360109
+01-13 05:18:09.983: I/WacomLibrary(21385): At time 6360114 h
+01-13 05:18:09.983: I/WacomLibrary(21385): At time 6360119
+01-13 05:18:10.003: I/WacomLibrary(21385): At time 6360125 h
+01-13 05:18:10.003: I/WacomLibrary(21385): At time 6360137 h
+01-13 05:18:10.003: I/WacomLibrary(21385): At time 6360142
+01-13 05:18:10.023: I/WacomLibrary(21385): At time 6360148 h
+01-13 05:18:10.023: I/WacomLibrary(21385): At time 6360153
+01-13 05:18:10.043: I/WacomLibrary(21385): At time 6360159 h
+01-13 05:18:10.043: I/WacomLibrary(21385): At time 6360170 h
+01-13 05:18:10.043: I/WacomLibrary(21385): At time 6360175
+01-13 05:18:10.053: I/WacomLibrary(21385): At time 6360181 h
+01-13 05:18:10.053: I/WacomLibrary(21385): At time 6360186
+01-13 05:18:10.073: I/WacomLibrary(21385): At time 6360192 h
+01-13 05:18:10.073: I/WacomLibrary(21385): At time 6360203 h
+01-13 05:18:10.073: I/WacomLibrary(21385): At time 6360209
+01-13 05:18:10.083: I/WacomLibrary(21385): At time 6360214 h
+01-13 05:18:10.083: I/WacomLibrary(21385): At time 6360219
+01-13 05:18:10.113: I/WacomLibrary(21385): At time 6360225 h
+01-13 05:18:10.113: I/WacomLibrary(21385): At time 6360236 h
+01-13 05:18:10.113: I/WacomLibrary(21385): At time 6360248 h
+01-13 05:18:10.113: I/WacomLibrary(21385): At time 6360253
+01-13 05:18:10.143: I/WacomLibrary(21385): At time 6360259 h
+01-13 05:18:10.143: I/WacomLibrary(21385): At time 6360270 h
+01-13 05:18:10.143: I/WacomLibrary(21385): At time 6360275
+01-13 05:18:10.153: I/WacomLibrary(21385): At time 6360281 h
+01-13 05:18:10.153: I/WacomLibrary(21385): At time 6360286
+01-13 05:18:10.173: I/WacomLibrary(21385): At time 6360292 h
+01-13 05:18:10.173: I/WacomLibrary(21385): At time 6360303 h
+01-13 05:18:10.173: I/WacomLibrary(21385): At time 6360308
+01-13 05:18:10.183: I/WacomLibrary(21385): At time 6360314 h
+01-13 05:18:10.183: I/WacomLibrary(21385): At time 6360319
+01-13 05:18:10.213: I/WacomLibrary(21385): At time 6360325 h
+01-13 05:18:10.213: I/WacomLibrary(21385): At time 6360336 h
+01-13 05:18:10.213: I/WacomLibrary(21385): At time 6360342
+01-13 05:18:10.223: I/WacomLibrary(21385): At time 6360347 h
+01-13 05:18:10.223: I/WacomLibrary(21385): At time 6360353
+01-13 05:18:10.243: I/WacomLibrary(21385): At time 6360358 h
+01-13 05:18:10.243: I/WacomLibrary(21385): At time 6360369 h
+01-13 05:18:10.243: I/WacomLibrary(21385): At time 6360375
+01-13 05:18:10.253: I/WacomLibrary(21385): At time 6360381 h
+01-13 05:18:10.253: I/WacomLibrary(21385): At time 6360386
+01-13 05:18:10.273: I/WacomLibrary(21385): At time 6360392 h
+01-13 05:18:10.273: I/WacomLibrary(21385): At time 6360403 h
+01-13 05:18:10.273: I/WacomLibrary(21385): At time 6360408
+01-13 05:18:10.283: I/WacomLibrary(21385): At time 6360414 h
+01-13 05:18:10.283: I/WacomLibrary(21385): At time 6360419
+01-13 05:18:10.303: I/WacomLibrary(21385): At time 6360425 h
+01-13 05:18:10.303: I/WacomLibrary(21385): At time 6360436 h
+01-13 05:18:10.303: I/WacomLibrary(21385): At time 6360436
+01-13 05:18:10.323: I/WacomLibrary(21385): At time 6360447 h
+01-13 05:18:10.323: I/WacomLibrary(21385): At time 6360453
+01-13 05:18:10.333: I/WacomLibrary(21385): At time 6360458 h
+01-13 05:18:10.333: I/WacomLibrary(21385): At time 6360469 h
+01-13 05:18:10.333: I/WacomLibrary(21385): At time 6360469
+01-13 05:18:10.363: I/WacomLibrary(21385): At time 6360480 h
+01-13 05:18:10.363: I/WacomLibrary(21385): At time 6360491 h
+01-13 05:18:10.363: I/WacomLibrary(21385): At time 6360503 h
+01-13 05:18:10.363: I/WacomLibrary(21385): At time 6360503
+01-13 05:18:10.383: I/WacomLibrary(21385): At time 6360514 h
+01-13 05:18:10.383: I/WacomLibrary(21385): At time 6360519
+01-13 05:18:10.403: I/WacomLibrary(21385): At time 6360525 h
+01-13 05:18:10.403: I/WacomLibrary(21385): At time 6360536 h
+01-13 05:18:10.403: I/WacomLibrary(21385): At time 6360536
+01-13 05:18:10.433: I/WacomLibrary(21385): At time 6360547 h
+01-13 05:18:10.433: I/WacomLibrary(21385): At time 6360558
+01-13 05:18:10.433: I/WacomLibrary(21385): At time 6360568
