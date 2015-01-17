@@ -1,0 +1,1853 @@
+01-17 07:07:08.026: D/ViewRootImpl(23736): ViewPostImeInputStage ACTION_DOWN
+01-17 07:07:08.026: I/PointerTracker(23736):   touches count 1 , pressure: 0.0 stylus true
+01-17 07:07:08.026: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:08.026: E/PointerTracker(23736): manually resetting list was size 0
+01-17 07:07:08.026: W/PointerTracker(23736): reset trackedTouchList
+01-17 07:07:08.026: E/PointerTracker(23736): *************nulling out the stylus touch************
+01-17 07:07:08.026: I/TrackedPointer(23736): clearing stylus
+01-17 07:07:08.026: W/TrackedPointer(23736): removing or canceling pointer ID 0 which was stylus
+01-17 07:07:08.026: W/PointerTracker(23736): there is a stylus touch: false
+01-17 07:07:08.026: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12036940
+01-17 07:07:08.026: D/PointerTracker(23736): adding tracked touch sequenceNumber: 3 id: 0 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.09607844. Age: 0 event time: 12036940 lagTime: 0 isExpiredStylus: false ( 966.0, 221.0 ) to list of size 0
+01-17 07:07:08.026: V/PointerTracker(23736): pointers: 1, Number of events: 1
+01-17 07:07:08.026: V/PointerTracker(23736): marking unknown: 0
+01-17 07:07:08.026: W/WacomEvent(23736): labeling MotionEvent pointer 0 as unknown
+01-17 07:07:08.026: I/PointerTracker(23736):   touches count 1 , pressure: 0.0 stylus false
+01-17 07:07:08.026: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:08.026: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.026: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.036: I/TrackedPointer(23736): updating Pointer - size/old size: 0.0
+01-17 07:07:08.036: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:08.036: D/PointerTracker(23736): zero pressure with age: 6
+01-17 07:07:08.036: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:08.036: I/PointerTracker(23736):   touches count 1 , pressure: 0.0 stylus false
+01-17 07:07:08.036: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerUp xxxxxxxxxxx------------------------
+01-17 07:07:08.036: I/PointerTracker(23736): wentUp size: 0.0 tracked size 0.0 TOOL_TYPE_UNKNOWN age:6 age: 6
+01-17 07:07:08.036: V/TRACKED POINTER(23736): setting pointer 0 went up. Is stylus: false
+01-17 07:07:08.036: I/PointerTracker(23736): touch.wentUp() sequenceNumber: 3 id: 0 type: TOOL_TYPE_UNKNOWN age:6 isrejected: false isReadyToRemove:true Size: 0.0. Age: 6 event time: 12036946 lagTime: 0 isExpiredStylus: false ( 964.0, 221.0 ) size: 1
+01-17 07:07:08.036: V/PointerTracker(23736): pointers: 1, Number of events: 1
+01-17 07:07:08.036: V/PointerTracker(23736): ---cleanup when necessary. size: 1
+01-17 07:07:08.036: I/WacomUtil(23736):  %%tt: sequenceNumber: 3 id: 0 type: TOOL_TYPE_UNKNOWN age:6 isrejected: false isReadyToRemove:true Size: 0.0. Age: 6 event time: 12036946 lagTime: 0 isExpiredStylus: false ( 964.0, 221.0 ) of 1
+01-17 07:07:08.036: D/PointerTracker(23736): ---------------cleanup   trackedTouches size 1-----------
+01-17 07:07:08.036: D/PointerTracker(23736): cleanup checking: sequenceNumber: 3 id: 0 type: TOOL_TYPE_UNKNOWN age:6 isrejected: false isReadyToRemove:true Size: 0.0. Age: 6 event time: 12036946 lagTime: 0 isExpiredStylus: false ( 964.0, 221.0 )
+01-17 07:07:08.036: D/PointerTracker(23736): processUpTouch pointerID: 0
+01-17 07:07:08.036: V/PointerTracker(23736): logUpTouch  there was no stylus touch
+01-17 07:07:08.036: D/PointerTracker(23736): remove touch 0 size 1 removed: true  size 0
+01-17 07:07:08.036: D/ViewRootImpl(23736): ViewPostImeInputStage ACTION_DOWN
+01-17 07:07:08.036: I/PointerTracker(23736):   touches count 1 , pressure: 0.0 stylus false
+01-17 07:07:08.046: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:08.046: E/PointerTracker(23736): manually resetting list was size 0
+01-17 07:07:08.046: W/PointerTracker(23736): reset trackedTouchList
+01-17 07:07:08.046: E/PointerTracker(23736): *************nulling out the stylus touch************
+01-17 07:07:08.046: W/PointerTracker(23736): there is a stylus touch: false
+01-17 07:07:08.046: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12036944
+01-17 07:07:08.046: D/PointerTracker(23736): adding tracked touch sequenceNumber: 4 id: 1 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.0. Age: 0 event time: 12036944 lagTime: 0 isExpiredStylus: false ( 975.0, 252.0 ) to list of size 0
+01-17 07:07:08.046: V/PointerTracker(23736): pointers: 1, Number of events: 1
+01-17 07:07:08.046: V/PointerTracker(23736): marking unknown: 1
+01-17 07:07:08.046: W/WacomEvent(23736): labeling MotionEvent pointer 1 as unknown
+01-17 07:07:08.046: I/PointerTracker(23736):   touches count 1 , pressure: 0.0 stylus false
+01-17 07:07:08.046: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 1 pointer count: 1
+01-17 07:07:08.046: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.046: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.046: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:08.046: D/PointerTracker(23736): zero pressure with age: 19
+01-17 07:07:08.046: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:08.056: I/PointerTracker(23736):   touches count 1 , pressure: 0.0 stylus false
+01-17 07:07:08.056: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 1 pointer count: 1
+01-17 07:07:08.056: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.056: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.056: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:08.056: D/PointerTracker(23736): zero pressure with age: 16
+01-17 07:07:08.056: V/PointerTracker(23736): pointers: 1, Number of events: 1
+01-17 07:07:08.056: I/PointerTracker(23736):   touches count 2 , pressure: 0.0 stylus false
+01-17 07:07:08.056: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:08.056: W/PointerTracker(23736): there is a stylus touch: false
+01-17 07:07:08.056: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12036960
+01-17 07:07:08.056: D/PointerTracker(23736): adding tracked touch sequenceNumber: 5 id: 0 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.10000001. Age: 0 event time: 12036960 lagTime: 0 isExpiredStylus: false ( 1012.0, 368.0 ) to list of size 1
+01-17 07:07:08.056: D/PointerTracker(23736): existing: sequenceNumber: 4 id: 1 type: TOOL_TYPE_UNKNOWN age:16 isrejected: false isReadyToRemove:false Size: 0.0. Age: 16 event time: 12036960 lagTime: 0 isExpiredStylus: false ( 958.5, 214.5 )
+01-17 07:07:08.056: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.056: V/PointerTracker(23736): pointers: 2, Number of events: 1
+01-17 07:07:08.056: W/PointerTracker(23736): more than one unknown pointer
+01-17 07:07:08.056: I/PointerTracker(23736):   touches count 2 , pressure: 0.0 stylus false
+01-17 07:07:08.056: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerUp xxxxxxxxxxx------------------------
+01-17 07:07:08.056: I/PointerTracker(23736): wentUp size: 0.0 tracked size 0.0 TOOL_TYPE_UNKNOWN age:16 age: 16
+01-17 07:07:08.056: V/TRACKED POINTER(23736): setting pointer 1 went up. Is stylus: false
+01-17 07:07:08.056: I/PointerTracker(23736): touch.wentUp() sequenceNumber: 4 id: 1 type: TOOL_TYPE_UNKNOWN age:16 isrejected: false isReadyToRemove:true Size: 0.0. Age: 16 event time: 12036960 lagTime: 0 isExpiredStylus: false ( 958.5, 214.5 ) size: 2
+01-17 07:07:08.066: V/PointerTracker(23736): pointers: 2, Number of events: 1
+01-17 07:07:08.066: W/PointerTracker(23736): more than one unknown pointer
+01-17 07:07:08.066: V/PointerTracker(23736): ---cleanup when necessary. size: 2
+01-17 07:07:08.066: I/WacomUtil(23736):  %%tt: sequenceNumber: 4 id: 1 type: TOOL_TYPE_UNKNOWN age:16 isrejected: false isReadyToRemove:true Size: 0.0. Age: 16 event time: 12036960 lagTime: 0 isExpiredStylus: false ( 958.5, 214.5 ) of 2
+01-17 07:07:08.066: I/WacomUtil(23736):  %%tt: sequenceNumber: 5 id: 0 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.10000001. Age: 0 event time: 12036960 lagTime: 0 isExpiredStylus: false ( 1012.0, 368.0 ) of 2
+01-17 07:07:08.066: D/PointerTracker(23736): ---------------cleanup   trackedTouches size 2-----------
+01-17 07:07:08.066: D/PointerTracker(23736): cleanup checking: sequenceNumber: 4 id: 1 type: TOOL_TYPE_UNKNOWN age:16 isrejected: false isReadyToRemove:true Size: 0.0. Age: 16 event time: 12036960 lagTime: 0 isExpiredStylus: false ( 958.5, 214.5 )
+01-17 07:07:08.066: D/PointerTracker(23736): processUpTouch pointerID: 1
+01-17 07:07:08.066: V/PointerTracker(23736): logUpTouch  there was no stylus touch
+01-17 07:07:08.066: D/PointerTracker(23736): cleanup checking: sequenceNumber: 5 id: 0 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.10000001. Age: 0 event time: 12036960 lagTime: 0 isExpiredStylus: false ( 1012.0, 368.0 )
+01-17 07:07:08.066: D/PointerTracker(23736): remove touch 1 size 2 removed: true  size 1
+01-17 07:07:08.066: I/PointerTracker(23736):   touches count 1 , pressure: 0.0 stylus false
+01-17 07:07:08.066: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:08.066: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.066: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.066: I/TrackedPointer(23736): updating Pointer - size/old size: 0.0
+01-17 07:07:08.066: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:08.066: D/PointerTracker(23736): zero pressure with age: 28
+01-17 07:07:08.066: V/PointerTracker(23736): pointers: 1, Number of events: 3
+01-17 07:07:08.066: I/PointerTracker(23736):   touches count 1 , pressure: 0.0 stylus false
+01-17 07:07:08.066: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:08.066: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.066: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.076: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:08.076: D/PointerTracker(23736): zero pressure with age: 38
+01-17 07:07:08.076: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:08.096: I/PointerTracker(23736):   touches count 1 , pressure: 0.0 stylus false
+01-17 07:07:08.096: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:08.096: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.096: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.096: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:08.096: D/PointerTracker(23736): zero pressure with age: 44
+01-17 07:07:08.096: V/PointerTracker(23736): pointers: 1, Number of events: 1
+01-17 07:07:08.096: I/PointerTracker(23736):   touches count 2 , pressure: 0.0 stylus false
+01-17 07:07:08.096: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:08.096: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.096: W/PointerTracker(23736): there is a stylus touch: false
+01-17 07:07:08.096: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12037004
+01-17 07:07:08.096: D/PointerTracker(23736): adding tracked touch sequenceNumber: 6 id: 1 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.107843146. Age: 0 event time: 12037004 lagTime: 0 isExpiredStylus: false ( 1009.0, 371.0 ) to list of size 1
+01-17 07:07:08.096: D/PointerTracker(23736): existing: sequenceNumber: 5 id: 0 type: TOOL_TYPE_UNKNOWN age:44 isrejected: false isReadyToRemove:false Size: 0.0. Age: 44 event time: 12037004 lagTime: 0 isExpiredStylus: false ( 956.0, 218.0 )
+01-17 07:07:08.096: V/PointerTracker(23736): pointers: 2, Number of events: 1
+01-17 07:07:08.096: W/PointerTracker(23736): more than one unknown pointer
+01-17 07:07:08.096: I/PointerTracker(23736):   touches count 2 , pressure: 0.0 stylus false
+01-17 07:07:08.096: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerUp xxxxxxxxxxx------------------------
+01-17 07:07:08.096: I/PointerTracker(23736): wentUp size: 0.0 tracked size 0.0 TOOL_TYPE_UNKNOWN age:44 age: 44
+01-17 07:07:08.096: V/TRACKED POINTER(23736): setting pointer 0 went up. Is stylus: false
+01-17 07:07:08.096: I/PointerTracker(23736): touch.wentUp() sequenceNumber: 5 id: 0 type: TOOL_TYPE_UNKNOWN age:44 isrejected: false isReadyToRemove:true Size: 0.0. Age: 44 event time: 12037004 lagTime: 0 isExpiredStylus: false ( 956.0, 218.0 ) size: 2
+01-17 07:07:08.096: V/PointerTracker(23736): pointers: 2, Number of events: 1
+01-17 07:07:08.096: W/PointerTracker(23736): more than one unknown pointer
+01-17 07:07:08.096: V/PointerTracker(23736): ---cleanup when necessary. size: 2
+01-17 07:07:08.096: I/WacomUtil(23736):  %%tt: sequenceNumber: 5 id: 0 type: TOOL_TYPE_UNKNOWN age:44 isrejected: false isReadyToRemove:true Size: 0.0. Age: 44 event time: 12037004 lagTime: 0 isExpiredStylus: false ( 956.0, 218.0 ) of 2
+01-17 07:07:08.096: I/WacomUtil(23736):  %%tt: sequenceNumber: 6 id: 1 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.107843146. Age: 0 event time: 12037004 lagTime: 0 isExpiredStylus: false ( 1009.0, 371.0 ) of 2
+01-17 07:07:08.096: D/PointerTracker(23736): ---------------cleanup   trackedTouches size 2-----------
+01-17 07:07:08.096: D/PointerTracker(23736): cleanup checking: sequenceNumber: 5 id: 0 type: TOOL_TYPE_UNKNOWN age:44 isrejected: false isReadyToRemove:true Size: 0.0. Age: 44 event time: 12037004 lagTime: 0 isExpiredStylus: false ( 956.0, 218.0 )
+01-17 07:07:08.096: D/PointerTracker(23736): processUpTouch pointerID: 0
+01-17 07:07:08.096: V/PointerTracker(23736): logUpTouch  there was no stylus touch
+01-17 07:07:08.096: D/PointerTracker(23736): cleanup checking: sequenceNumber: 6 id: 1 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.107843146. Age: 0 event time: 12037004 lagTime: 0 isExpiredStylus: false ( 1009.0, 371.0 )
+01-17 07:07:08.096: D/PointerTracker(23736): remove touch 0 size 2 removed: true  size 1
+01-17 07:07:08.106: I/PointerTracker(23736):   touches count 1 , pressure: 0.0 stylus false
+01-17 07:07:08.106: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 1 pointer count: 1
+01-17 07:07:08.106: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.106: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.106: I/TrackedPointer(23736): updating Pointer - size/old size: 0.0
+01-17 07:07:08.106: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:08.106: D/PointerTracker(23736): zero pressure with age: 17
+01-17 07:07:08.106: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:08.116: I/PointerTracker(23736):   touches count 1 , pressure: 0.0 stylus false
+01-17 07:07:08.116: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 1 pointer count: 1
+01-17 07:07:08.116: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.116: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.116: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:08.116: D/PointerTracker(23736): zero pressure with age: 39
+01-17 07:07:08.116: V/PointerTracker(23736): pointers: 1, Number of events: 3
+01-17 07:07:08.116: I/PointerTracker(23736):   touches count 1 , pressure: 0.0 stylus false
+01-17 07:07:08.116: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 1 pointer count: 1
+01-17 07:07:08.116: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.116: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.116: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:08.116: D/PointerTracker(23736): zero pressure with age: 45
+01-17 07:07:08.126: V/PointerTracker(23736): pointers: 1, Number of events: 1
+01-17 07:07:08.126: I/PointerTracker(23736):   touches count 2 , pressure: 0.0 stylus false
+01-17 07:07:08.126: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:08.126: W/PointerTracker(23736): there is a stylus touch: false
+01-17 07:07:08.126: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12037049
+01-17 07:07:08.126: D/PointerTracker(23736): adding tracked touch sequenceNumber: 7 id: 0 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.10000001. Age: 0 event time: 12037049 lagTime: 0 isExpiredStylus: false ( 1009.0, 395.0 ) to list of size 1
+01-17 07:07:08.126: D/PointerTracker(23736): existing: sequenceNumber: 6 id: 1 type: TOOL_TYPE_UNKNOWN age:45 isrejected: false isReadyToRemove:false Size: 0.0. Age: 45 event time: 12037049 lagTime: 0 isExpiredStylus: false ( 955.0, 222.0 )
+01-17 07:07:08.126: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.126: V/PointerTracker(23736): pointers: 2, Number of events: 1
+01-17 07:07:08.126: W/PointerTracker(23736): more than one unknown pointer
+01-17 07:07:08.146: I/PointerTracker(23736):   touches count 2 , pressure: 0.0 stylus false
+01-17 07:07:08.146: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerUp xxxxxxxxxxx------------------------
+01-17 07:07:08.146: I/PointerTracker(23736): wentUp size: 0.0 tracked size 0.0 TOOL_TYPE_UNKNOWN age:45 age: 45
+01-17 07:07:08.146: V/TRACKED POINTER(23736): setting pointer 1 went up. Is stylus: false
+01-17 07:07:08.146: I/PointerTracker(23736): touch.wentUp() sequenceNumber: 6 id: 1 type: TOOL_TYPE_UNKNOWN age:45 isrejected: false isReadyToRemove:true Size: 0.0. Age: 45 event time: 12037049 lagTime: 0 isExpiredStylus: false ( 955.0, 222.0 ) size: 2
+01-17 07:07:08.146: V/PointerTracker(23736): pointers: 2, Number of events: 1
+01-17 07:07:08.146: W/PointerTracker(23736): more than one unknown pointer
+01-17 07:07:08.146: V/PointerTracker(23736): ---cleanup when necessary. size: 2
+01-17 07:07:08.146: I/WacomUtil(23736):  %%tt: sequenceNumber: 6 id: 1 type: TOOL_TYPE_UNKNOWN age:45 isrejected: false isReadyToRemove:true Size: 0.0. Age: 45 event time: 12037049 lagTime: 0 isExpiredStylus: false ( 955.0, 222.0 ) of 2
+01-17 07:07:08.146: I/WacomUtil(23736):  %%tt: sequenceNumber: 7 id: 0 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.10000001. Age: 0 event time: 12037049 lagTime: 0 isExpiredStylus: false ( 1009.0, 395.0 ) of 2
+01-17 07:07:08.146: D/PointerTracker(23736): ---------------cleanup   trackedTouches size 2-----------
+01-17 07:07:08.146: D/PointerTracker(23736): cleanup checking: sequenceNumber: 6 id: 1 type: TOOL_TYPE_UNKNOWN age:45 isrejected: false isReadyToRemove:true Size: 0.0. Age: 45 event time: 12037049 lagTime: 0 isExpiredStylus: false ( 955.0, 222.0 )
+01-17 07:07:08.146: D/PointerTracker(23736): processUpTouch pointerID: 1
+01-17 07:07:08.146: V/PointerTracker(23736): logUpTouch  there was no stylus touch
+01-17 07:07:08.146: D/PointerTracker(23736): cleanup checking: sequenceNumber: 7 id: 0 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.10000001. Age: 0 event time: 12037049 lagTime: 0 isExpiredStylus: false ( 1009.0, 395.0 )
+01-17 07:07:08.146: D/PointerTracker(23736): remove touch 1 size 2 removed: true  size 1
+01-17 07:07:08.146: I/PointerTracker(23736):   touches count 1 , pressure: 0.0 stylus false
+01-17 07:07:08.146: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:08.146: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.146: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.146: I/TrackedPointer(23736): updating Pointer - size/old size: 0.0
+01-17 07:07:08.156: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:08.156: D/PointerTracker(23736): zero pressure with age: 33
+01-17 07:07:08.156: V/PointerTracker(23736): pointers: 1, Number of events: 3
+01-17 07:07:08.156: I/PointerTracker(23736):   touches count 1 , pressure: 0.0 stylus false
+01-17 07:07:08.156: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:08.156: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.156: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.156: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:08.156: D/PointerTracker(23736): zero pressure with age: 34
+01-17 07:07:08.156: V/PointerTracker(23736): pointers: 1, Number of events: 1
+01-17 07:07:08.156: I/PointerTracker(23736):   touches count 2 , pressure: 0.0 stylus false
+01-17 07:07:08.156: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:08.156: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.156: W/PointerTracker(23736): there is a stylus touch: false
+01-17 07:07:08.156: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12037083
+01-17 07:07:08.156: D/PointerTracker(23736): adding tracked touch sequenceNumber: 8 id: 1 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.07254902. Age: 0 event time: 12037083 lagTime: 0 isExpiredStylus: false ( 167.0, 315.0 ) to list of size 1
+01-17 07:07:08.156: D/PointerTracker(23736): existing: sequenceNumber: 7 id: 0 type: TOOL_TYPE_UNKNOWN age:34 isrejected: false isReadyToRemove:false Size: 0.0. Age: 34 event time: 12037083 lagTime: 0 isExpiredStylus: false ( 948.0, 214.0 )
+01-17 07:07:08.156: V/PointerTracker(23736): pointers: 2, Number of events: 1
+01-17 07:07:08.156: W/PointerTracker(23736): more than one unknown pointer
+01-17 07:07:08.156: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:08.156: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:08.156: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.156: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.156: W/PointerTracker(23736): there is a stylus touch: false
+01-17 07:07:08.156: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12037083
+01-17 07:07:08.156: D/PointerTracker(23736): adding tracked touch sequenceNumber: 9 id: 2 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.12352942. Age: 0 event time: 12037083 lagTime: 0 isExpiredStylus: false ( 1008.0, 382.0 ) to list of size 2
+01-17 07:07:08.156: D/PointerTracker(23736): existing: sequenceNumber: 7 id: 0 type: TOOL_TYPE_UNKNOWN age:34 isrejected: false isReadyToRemove:false Size: 0.0. Age: 34 event time: 12037083 lagTime: 0 isExpiredStylus: false ( 948.0, 214.0 )
+01-17 07:07:08.166: D/PointerTracker(23736): existing: sequenceNumber: 8 id: 1 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.07254902. Age: 0 event time: 12037083 lagTime: 0 isExpiredStylus: false ( 167.0, 315.0 )
+01-17 07:07:08.166: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:08.166: W/PointerTracker(23736): more than one unknown pointer
+01-17 07:07:08.166: W/PointerTracker(23736): more than one unknown pointer
+01-17 07:07:08.166: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:08.166: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.166: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.166: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.166: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.166: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9189189
+01-17 07:07:08.166: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.166: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:08.166: D/PointerTracker(23736): zero pressure with age: 15
+01-17 07:07:08.176: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:08.176: W/PointerTracker(23736): more than one unknown pointer
+01-17 07:07:08.176: W/PointerTracker(23736): more than one unknown pointer
+01-17 07:07:08.186: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:08.186: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.186: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.186: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.186: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.186: I/TrackedPointer(23736): updating Pointer - size/old size: 0.97058827
+01-17 07:07:08.186: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.186: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:08.186: D/PointerTracker(23736): zero pressure with age: 32
+01-17 07:07:08.186: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:08.186: W/PointerTracker(23736): more than one unknown pointer
+01-17 07:07:08.186: W/PointerTracker(23736): more than one unknown pointer
+01-17 07:07:08.196: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.206: I/PointerTracker(23736):   touches count 3 , pressure: 0.32896355 stylus false
+01-17 07:07:08.206: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.206: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.206: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.206: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.206: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.206: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9848485
+01-17 07:07:08.206: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:08.206: D/PointerTracker(23736): setting touch 2 as stylus. Age: 39
+01-17 07:07:08.206: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:08.206: I/PointerTracker(23736):   touches count 3 , pressure: 0.32896355 stylus true
+01-17 07:07:08.206: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.206: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.206: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.206: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.206: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.206: I/TrackedPointer(23736): updating Pointer - size/old size: 0.0
+01-17 07:07:08.216: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:08.226: I/PointerTracker(23736):   touches count 3 , pressure: 0.32896355 stylus true
+01-17 07:07:08.226: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.226: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.226: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.226: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.226: I/TrackedPointer(23736): updating Pointer - size/old size: 0.969697
+01-17 07:07:08.226: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.226: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:08.246: I/PointerTracker(23736):   touches count 3 , pressure: 0.32896355 stylus true
+01-17 07:07:08.246: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.246: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.246: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.246: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.246: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9375
+01-17 07:07:08.246: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.256: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.256: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.256: V/PointerTracker(23736): pointers: 3, Number of events: 3
+01-17 07:07:08.266: I/PointerTracker(23736):   touches count 3 , pressure: 0.39573944 stylus true
+01-17 07:07:08.266: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.266: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.266: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.266: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.266: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.276: V/PointerTracker(23736): pointers: 3, Number of events: 4
+01-17 07:07:08.296: I/PointerTracker(23736):   touches count 3 , pressure: 0.39573944 stylus true
+01-17 07:07:08.296: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.296: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.296: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.296: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.296: I/TrackedPointer(23736): updating Pointer - size/old size: 0.96774197
+01-17 07:07:08.296: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.296: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.296: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.296: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:08.316: I/PointerTracker(23736):   touches count 3 , pressure: 0.57968044 stylus true
+01-17 07:07:08.316: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.316: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.316: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.316: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.316: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.326: V/PointerTracker(23736): pointers: 3, Number of events: 3
+01-17 07:07:08.326: I/PointerTracker(23736):   touches count 3 , pressure: 0.57968044 stylus true
+01-17 07:07:08.326: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.326: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.326: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.326: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.326: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.326: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:08.346: I/PointerTracker(23736):   touches count 3 , pressure: 0.57968044 stylus true
+01-17 07:07:08.346: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.346: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.346: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.346: W/TrackedPointer(23736): rejecting touch at pointer 0
+01-17 07:07:08.346: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.346: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.346: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.346: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.346: V/PointerTracker(23736): pointers: 3, Number of events: 3
+01-17 07:07:08.366: I/PointerTracker(23736):   touches count 3 , pressure: 0.6501434 stylus true
+01-17 07:07:08.366: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.366: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.366: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.366: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.366: W/TrackedPointer(23736): rejecting touch at pointer 1
+01-17 07:07:08.366: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.376: V/PointerTracker(23736): pointers: 3, Number of events: 3
+01-17 07:07:08.376: I/PointerTracker(23736):   touches count 3 , pressure: 0.6501434 stylus true
+01-17 07:07:08.376: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.376: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.376: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.376: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.376: I/TrackedPointer(23736): updating Pointer - size/old size: 0.93939394
+01-17 07:07:08.376: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.376: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:08.386: I/PointerTracker(23736):   touches count 3 , pressure: 0.6501434 stylus true
+01-17 07:07:08.386: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.386: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.386: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.386: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.386: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.396: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:08.396: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.406: I/PointerTracker(23736):   touches count 3 , pressure: 0.6710365 stylus true
+01-17 07:07:08.406: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.406: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.406: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.406: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.406: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.406: V/PointerTracker(23736): pointers: 3, Number of events: 3
+01-17 07:07:08.426: I/PointerTracker(23736):   touches count 3 , pressure: 0.6710365 stylus true
+01-17 07:07:08.426: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.426: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.426: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.426: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.426: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.426: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:08.436: I/PointerTracker(23736):   touches count 3 , pressure: 0.6710365 stylus true
+01-17 07:07:08.436: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerUp xxxxxxxxxxx------------------------
+01-17 07:07:08.436: I/PointerTracker(23736): wentUp size: 0.0 tracked size 0.0 TOOL_TYPE_STYLUS age: 255
+01-17 07:07:08.436: V/TRACKED POINTER(23736): setting pointer 2 went up. Is stylus: true
+01-17 07:07:08.436: I/PointerTracker(23736): touch.wentUp() sequenceNumber: 9 id: 2 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:true Size: 0.0. Age: 255 event time: 12037338 lagTime: 0 isExpiredStylus: false ( 1007.0, 390.0 ) size: 3
+01-17 07:07:08.436: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:08.436: V/PointerTracker(23736): ---cleanup when necessary. size: 3
+01-17 07:07:08.436: I/WacomUtil(23736):  %%tt: sequenceNumber: 7 id: 0 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 289 event time: 12037338 lagTime: 0 isExpiredStylus: false ( 934.0, 201.0 ) of 3
+01-17 07:07:08.436: I/WacomUtil(23736):  %%tt: sequenceNumber: 8 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.07450981. Age: 255 event time: 12037338 lagTime: 0 isExpiredStylus: false ( 193.0, 312.0 ) of 3
+01-17 07:07:08.436: I/WacomUtil(23736):  %%tt: sequenceNumber: 9 id: 2 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:true Size: 0.0. Age: 255 event time: 12037338 lagTime: 0 isExpiredStylus: false ( 1007.0, 390.0 ) of 3
+01-17 07:07:08.436: D/PointerTracker(23736): ---------------cleanup   trackedTouches size 3-----------
+01-17 07:07:08.436: D/PointerTracker(23736): cleanup checking: sequenceNumber: 7 id: 0 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 289 event time: 12037338 lagTime: 0 isExpiredStylus: false ( 934.0, 201.0 )
+01-17 07:07:08.436: D/PointerTracker(23736): cleanup checking: sequenceNumber: 8 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.07450981. Age: 255 event time: 12037338 lagTime: 0 isExpiredStylus: false ( 193.0, 312.0 )
+01-17 07:07:08.436: D/PointerTracker(23736): cleanup checking: sequenceNumber: 9 id: 2 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:true Size: 0.0. Age: 255 event time: 12037338 lagTime: 0 isExpiredStylus: false ( 1007.0, 390.0 )
+01-17 07:07:08.436: D/PointerTracker(23736): processUpTouch pointerID: 2
+01-17 07:07:08.436: W/PointerTracker(23736): thereIsAStylusTouch  clearing stylus touch
+01-17 07:07:08.436: E/PointerTracker(23736): *************nulling out the stylus touch************
+01-17 07:07:08.436: I/TrackedPointer(23736): clearing stylus
+01-17 07:07:08.436: W/TrackedPointer(23736): removing or canceling pointer ID 2 which was stylus
+01-17 07:07:08.436: D/PointerTracker(23736): remove touch 2 size 3 removed: true  size 2
+01-17 07:07:08.436: V/DrawView(23736): pointer up action index: 2. pointer up id 2
+01-17 07:07:08.436: I/PointerTracker(23736):   touches count 2 , pressure: 0.6710365 stylus false
+01-17 07:07:08.436: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 2
+01-17 07:07:08.436: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.436: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.436: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.446: V/PointerTracker(23736): pointers: 2, Number of events: 3
+01-17 07:07:08.446: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.446: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.456: I/ConnectionManager(23736): Check for Connecting Timeout runs: DIDN'T CANCEL
+01-17 07:07:08.456: I/PointerTracker(23736):   touches count 2 , pressure: 0.6972552 stylus false
+01-17 07:07:08.456: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 2
+01-17 07:07:08.456: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.456: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.456: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.456: V/PointerTracker(23736): pointers: 2, Number of events: 2
+01-17 07:07:08.466: I/PointerTracker(23736):   touches count 2 , pressure: 0.6972552 stylus false
+01-17 07:07:08.466: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 2
+01-17 07:07:08.466: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.466: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.466: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.466: I/TrackedPointer(23736): updating Pointer - size/old size: 0.95
+01-17 07:07:08.466: V/PointerTracker(23736): pointers: 2, Number of events: 2
+01-17 07:07:08.476: I/PointerTracker(23736):   touches count 2 , pressure: 0.6972552 stylus false
+01-17 07:07:08.476: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 2
+01-17 07:07:08.476: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.476: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.476: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.476: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9736842
+01-17 07:07:08.476: V/PointerTracker(23736): pointers: 2, Number of events: 1
+01-17 07:07:08.476: I/PointerTracker(23736):   touches count 3 , pressure: 0.6972552 stylus false
+01-17 07:07:08.476: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:08.476: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.476: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.476: W/PointerTracker(23736): there is a stylus touch: false
+01-17 07:07:08.476: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12037394
+01-17 07:07:08.476: D/PointerTracker(23736): setting touch 2 as stylus. Age: 0
+01-17 07:07:08.476: D/PointerTracker(23736): adding tracked touch sequenceNumber: 10 id: 2 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:false Size: 0.0. Age: 0 event time: 12037394 lagTime: 0 isExpiredStylus: false ( 1007.0, 388.0 ) to list of size 2
+01-17 07:07:08.476: D/PointerTracker(23736): existing: sequenceNumber: 7 id: 0 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 345 event time: 12037394 lagTime: 0 isExpiredStylus: false ( 952.0, 198.0 )
+01-17 07:07:08.476: D/PointerTracker(23736): existing: sequenceNumber: 8 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.07254902. Age: 311 event time: 12037394 lagTime: 0 isExpiredStylus: false ( 202.0, 315.0 )
+01-17 07:07:08.476: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:08.496: I/PointerTracker(23736):   touches count 3 , pressure: 0.6972552 stylus true
+01-17 07:07:08.496: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerUp xxxxxxxxxxx------------------------
+01-17 07:07:08.496: I/PointerTracker(23736): wentUp size: 0.0 tracked size 0.0 TOOL_TYPE_STYLUS age: 0
+01-17 07:07:08.496: V/TRACKED POINTER(23736): setting pointer 2 went up. Is stylus: true
+01-17 07:07:08.496: I/PointerTracker(23736): touch.wentUp() sequenceNumber: 10 id: 2 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:true Size: 0.0. Age: 0 event time: 12037394 lagTime: 0 isExpiredStylus: false ( 1007.0, 388.0 ) size: 3
+01-17 07:07:08.496: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.496: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.496: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:08.496: V/PointerTracker(23736): ---cleanup when necessary. size: 3
+01-17 07:07:08.496: I/WacomUtil(23736):  %%tt: sequenceNumber: 7 id: 0 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 345 event time: 12037394 lagTime: 0 isExpiredStylus: false ( 952.0, 198.0 ) of 3
+01-17 07:07:08.496: I/WacomUtil(23736):  %%tt: sequenceNumber: 8 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.07254902. Age: 311 event time: 12037394 lagTime: 0 isExpiredStylus: false ( 202.0, 315.0 ) of 3
+01-17 07:07:08.496: I/WacomUtil(23736):  %%tt: sequenceNumber: 10 id: 2 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:true Size: 0.0. Age: 0 event time: 12037394 lagTime: 0 isExpiredStylus: false ( 1007.0, 388.0 ) of 3
+01-17 07:07:08.496: D/PointerTracker(23736): ---------------cleanup   trackedTouches size 3-----------
+01-17 07:07:08.496: D/PointerTracker(23736): cleanup checking: sequenceNumber: 7 id: 0 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 345 event time: 12037394 lagTime: 0 isExpiredStylus: false ( 952.0, 198.0 )
+01-17 07:07:08.496: D/PointerTracker(23736): cleanup checking: sequenceNumber: 8 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.07254902. Age: 311 event time: 12037394 lagTime: 0 isExpiredStylus: false ( 202.0, 315.0 )
+01-17 07:07:08.496: D/PointerTracker(23736): cleanup checking: sequenceNumber: 10 id: 2 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:true Size: 0.0. Age: 0 event time: 12037394 lagTime: 0 isExpiredStylus: false ( 1007.0, 388.0 )
+01-17 07:07:08.496: D/PointerTracker(23736): processUpTouch pointerID: 2
+01-17 07:07:08.496: W/PointerTracker(23736): thereIsAStylusTouch  clearing stylus touch
+01-17 07:07:08.496: E/PointerTracker(23736): *************nulling out the stylus touch************
+01-17 07:07:08.496: I/TrackedPointer(23736): clearing stylus
+01-17 07:07:08.496: W/TrackedPointer(23736): removing or canceling pointer ID 2 which was stylus
+01-17 07:07:08.496: D/PointerTracker(23736): remove touch 2 size 3 removed: true  size 2
+01-17 07:07:08.496: V/DrawView(23736): pointer up action index: 2. pointer up id 2
+01-17 07:07:08.496: I/PointerTracker(23736):   touches count 2 , pressure: 0.60671854 stylus false
+01-17 07:07:08.496: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 2
+01-17 07:07:08.496: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.496: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.496: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.496: I/TrackedPointer(23736): updating Pointer - size/old size: 0.8378379
+01-17 07:07:08.506: V/PointerTracker(23736): pointers: 2, Number of events: 3
+01-17 07:07:08.506: I/PointerTracker(23736):   touches count 2 , pressure: 0.60671854 stylus false
+01-17 07:07:08.506: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 2
+01-17 07:07:08.506: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.506: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.506: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.506: V/PointerTracker(23736): pointers: 2, Number of events: 1
+01-17 07:07:08.516: I/PointerTracker(23736):   touches count 3 , pressure: 0.60671854 stylus false
+01-17 07:07:08.516: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:08.516: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.516: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.516: W/PointerTracker(23736): there is a stylus touch: false
+01-17 07:07:08.516: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12037427
+01-17 07:07:08.516: D/PointerTracker(23736): setting touch 2 as stylus. Age: 0
+01-17 07:07:08.516: D/PointerTracker(23736): adding tracked touch sequenceNumber: 11 id: 2 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:false Size: 0.13333334. Age: 0 event time: 12037427 lagTime: 0 isExpiredStylus: false ( 1007.0, 388.0 ) to list of size 2
+01-17 07:07:08.516: D/PointerTracker(23736): existing: sequenceNumber: 7 id: 0 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 378 event time: 12037427 lagTime: 0 isExpiredStylus: false ( 946.0, 197.0 )
+01-17 07:07:08.516: D/PointerTracker(23736): existing: sequenceNumber: 8 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.060784318. Age: 344 event time: 12037427 lagTime: 0 isExpiredStylus: false ( 205.0, 311.0 )
+01-17 07:07:08.516: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:08.536: I/PointerTracker(23736):   touches count 3 , pressure: 0.60671854 stylus true
+01-17 07:07:08.536: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.536: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.536: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.536: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.536: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.536: V/PointerTracker(23736): pointers: 3, Number of events: 3
+01-17 07:07:08.536: I/PointerTracker(23736):   touches count 3 , pressure: 0.60671854 stylus true
+01-17 07:07:08.546: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:08.546: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.546: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:08.546: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.546: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.546: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9736842
+01-17 07:07:08.546: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:08.546: I/TrackedPointer(23736): updating Pointer - size/old size: 0.0
+01-17 07:07:08.546: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:08.556: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):144.0 eccen:-1.0
+01-17 07:07:08.556: I/PointerTracker(23736):   touches count 3 , pressure: 0.6136829 stylus true
+01-17 07:07:08.556: E/PointerTracker(23736): UPDATE TOUCHES ACTION CANCEL
+01-17 07:07:08.556: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:08.556: W/DrawView(23736): end fill in cancel
+01-17 07:07:08.586: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):144.0 eccen:-1.0
+01-17 07:07:08.586: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.596: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.606: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):144.0 eccen:-1.0
+01-17 07:07:08.616: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):146.0 eccen:-1.0
+01-17 07:07:08.636: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):144.0 eccen:-1.0
+01-17 07:07:08.636: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.646: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):148.0 eccen:-1.0
+01-17 07:07:08.666: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):146.0 eccen:-1.0
+01-17 07:07:08.686: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):150.0 eccen:-1.0
+01-17 07:07:08.686: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.736: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.786: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.836: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.836: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.836: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.836: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.886: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.886: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.926: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.956: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):152.0 eccen:-1.0
+01-17 07:07:08.956: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):152.0 eccen:-1.0
+01-17 07:07:08.966: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):152.0 eccen:-1.0
+01-17 07:07:08.976: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.976: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:08.986: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):150.0 eccen:-1.0
+01-17 07:07:08.996: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):144.0 eccen:-1.0
+01-17 07:07:09.016: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):142.0 eccen:-1.0
+01-17 07:07:09.026: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.036: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):144.0 eccen:-1.0
+01-17 07:07:09.046: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):144.0 eccen:-1.0
+01-17 07:07:09.066: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):146.0 eccen:-1.0
+01-17 07:07:09.066: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):150.0 eccen:-1.0
+01-17 07:07:09.076: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.076: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.086: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):150.0 eccen:-1.0
+01-17 07:07:09.126: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.176: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.176: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.226: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.226: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.276: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.276: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.276: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):154.0 eccen:-1.0
+01-17 07:07:09.286: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):154.0 eccen:-1.0
+01-17 07:07:09.326: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.366: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.366: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.386: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):146.0 eccen:-1.0
+01-17 07:07:09.396: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):146.0 eccen:-1.0
+01-17 07:07:09.406: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):146.0 eccen:-1.0
+01-17 07:07:09.416: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):152.0 eccen:-1.0
+01-17 07:07:09.416: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):154.0 eccen:-1.0
+01-17 07:07:09.416: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.436: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):156.0 eccen:-1.0
+01-17 07:07:09.446: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):150.0 eccen:-1.0
+01-17 07:07:09.466: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):154.0 eccen:-1.0
+01-17 07:07:09.466: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.466: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.486: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):150.0 eccen:-1.0
+01-17 07:07:09.496: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):158.0 eccen:-1.0
+01-17 07:07:09.506: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):150.0 eccen:-1.0
+01-17 07:07:09.506: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):152.0 eccen:-1.0
+01-17 07:07:09.516: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):152.0 eccen:-1.0
+01-17 07:07:09.516: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.516: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.546: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):146.0 eccen:-1.0
+01-17 07:07:09.566: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.566: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):146.0 eccen:-1.0
+01-17 07:07:09.586: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):146.0 eccen:-1.0
+01-17 07:07:09.616: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.616: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.666: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.666: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:09.706: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.096: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.146: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.156: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.196: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.246: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.246: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.276: D/ViewRootImpl(23736): ViewPostImeInputStage ACTION_DOWN
+01-17 07:07:10.276: I/PointerTracker(23736):   touches count 1 , pressure: 0.7492831 stylus true
+01-17 07:07:10.276: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:10.276: E/PointerTracker(23736): manually resetting list was size 0
+01-17 07:07:10.276: W/PointerTracker(23736): reset trackedTouchList
+01-17 07:07:10.276: E/PointerTracker(23736): *************nulling out the stylus touch************
+01-17 07:07:10.276: I/TrackedPointer(23736): clearing stylus
+01-17 07:07:10.276: W/TrackedPointer(23736): removing or canceling pointer ID 2 which was stylus
+01-17 07:07:10.276: W/PointerTracker(23736): there is a stylus touch: false
+01-17 07:07:10.276: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12039198
+01-17 07:07:10.276: D/PointerTracker(23736): setting touch 0 as stylus. Age: 0
+01-17 07:07:10.276: D/PointerTracker(23736): adding tracked touch sequenceNumber: 12 id: 0 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:false Size: 0.07254902. Age: 0 event time: 12039198 lagTime: 0 isExpiredStylus: false ( 173.0, 311.0 ) to list of size 0
+01-17 07:07:10.276: V/PointerTracker(23736): pointers: 1, Number of events: 1
+01-17 07:07:10.286: I/PointerTracker(23736):   touches count 1 , pressure: 0.7492831 stylus true
+01-17 07:07:10.286: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.286: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.286: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.286: I/TrackedPointer(23736): updating Pointer - size/old size: 0.945946
+01-17 07:07:10.286: V/PointerTracker(23736): pointers: 1, Number of events: 10
+01-17 07:07:10.296: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.296: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.306: I/PointerTracker(23736):   touches count 1 , pressure: 0.80376893 stylus true
+01-17 07:07:10.306: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.306: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.306: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.306: I/TrackedPointer(23736): updating Pointer - size/old size: 0.94285715
+01-17 07:07:10.306: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:10.316: I/PointerTracker(23736):   touches count 1 , pressure: 0.80376893 stylus true
+01-17 07:07:10.316: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.316: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.316: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.316: V/PointerTracker(23736): pointers: 1, Number of events: 3
+01-17 07:07:10.326: I/PointerTracker(23736):   touches count 1 , pressure: 0.80376893 stylus true
+01-17 07:07:10.326: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.326: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.326: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.326: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:10.336: I/PointerTracker(23736):   touches count 1 , pressure: 0.80376893 stylus true
+01-17 07:07:10.336: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.336: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.336: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.336: I/TrackedPointer(23736): updating Pointer - size/old size: 0.94285715
+01-17 07:07:10.336: V/PointerTracker(23736): pointers: 1, Number of events: 3
+01-17 07:07:10.346: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.356: I/PointerTracker(23736):   touches count 1 , pressure: 0.80335927 stylus true
+01-17 07:07:10.356: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.356: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.356: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.356: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:10.376: I/PointerTracker(23736):   touches count 1 , pressure: 0.80335927 stylus true
+01-17 07:07:10.376: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.376: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.376: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.376: V/PointerTracker(23736): pointers: 1, Number of events: 3
+01-17 07:07:10.396: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.396: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.406: I/PointerTracker(23736):   touches count 1 , pressure: 0.90249896 stylus true
+01-17 07:07:10.406: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.406: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.406: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.406: V/PointerTracker(23736): pointers: 1, Number of events: 4
+01-17 07:07:10.426: I/PointerTracker(23736):   touches count 1 , pressure: 0.90249896 stylus true
+01-17 07:07:10.426: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.426: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.426: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.426: I/TrackedPointer(23736): updating Pointer - size/old size: 0.8780488
+01-17 07:07:10.426: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:10.446: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.446: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.446: I/PointerTracker(23736):   touches count 1 , pressure: 0.90127 stylus true
+01-17 07:07:10.446: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.446: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.446: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.446: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9722222
+01-17 07:07:10.446: V/PointerTracker(23736): pointers: 1, Number of events: 3
+01-17 07:07:10.466: I/PointerTracker(23736):   touches count 1 , pressure: 0.90127 stylus true
+01-17 07:07:10.466: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.466: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.466: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.466: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9714286
+01-17 07:07:10.476: V/PointerTracker(23736): pointers: 1, Number of events: 4
+01-17 07:07:10.486: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.496: I/PointerTracker(23736):   touches count 1 , pressure: 0.9070053 stylus true
+01-17 07:07:10.496: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.496: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.496: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.496: I/TrackedPointer(23736): updating Pointer - size/old size: 0.97058827
+01-17 07:07:10.496: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:10.516: I/PointerTracker(23736):   touches count 1 , pressure: 0.9070053 stylus true
+01-17 07:07:10.516: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.516: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.516: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.516: V/PointerTracker(23736): pointers: 1, Number of events: 4
+01-17 07:07:10.536: I/PointerTracker(23736):   touches count 1 , pressure: 0.9070053 stylus true
+01-17 07:07:10.536: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.536: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.536: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.536: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.546: V/PointerTracker(23736): pointers: 1, Number of events: 3
+01-17 07:07:10.546: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.556: I/PointerTracker(23736):   touches count 1 , pressure: 0.8349037 stylus true
+01-17 07:07:10.556: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.556: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.556: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.566: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:10.586: I/PointerTracker(23736):   touches count 1 , pressure: 0.8349037 stylus true
+01-17 07:07:10.586: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.586: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.586: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.586: V/PointerTracker(23736): pointers: 1, Number of events: 3
+01-17 07:07:10.586: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.606: I/PointerTracker(23736):   touches count 1 , pressure: 0.84473574 stylus true
+01-17 07:07:10.606: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.606: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.606: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.606: V/PointerTracker(23736): pointers: 1, Number of events: 4
+01-17 07:07:10.626: I/PointerTracker(23736):   touches count 1 , pressure: 0.84473574 stylus true
+01-17 07:07:10.626: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.626: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.626: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.626: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9714286
+01-17 07:07:10.626: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:10.636: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.646: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.646: I/PointerTracker(23736):   touches count 1 , pressure: 0.98238426 stylus true
+01-17 07:07:10.646: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.646: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.646: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.646: V/PointerTracker(23736): pointers: 1, Number of events: 3
+01-17 07:07:10.666: I/PointerTracker(23736):   touches count 1 , pressure: 0.98238426 stylus true
+01-17 07:07:10.666: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.666: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.666: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.666: I/TrackedPointer(23736): updating Pointer - size/old size: 0.8780488
+01-17 07:07:10.666: V/PointerTracker(23736): pointers: 1, Number of events: 3
+01-17 07:07:10.676: I/PointerTracker(23736):   touches count 1 , pressure: 0.98238426 stylus true
+01-17 07:07:10.676: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.676: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.676: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.676: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9722222
+01-17 07:07:10.676: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:10.686: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.686: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.686: I/PointerTracker(23736):   touches count 1 , pressure: 0.99672264 stylus true
+01-17 07:07:10.686: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.686: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.686: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.686: I/TrackedPointer(23736): updating Pointer - size/old size: 0.94285715
+01-17 07:07:10.696: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:10.706: I/PointerTracker(23736):   touches count 1 , pressure: 0.99672264 stylus true
+01-17 07:07:10.706: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.706: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.706: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.706: I/TrackedPointer(23736): updating Pointer - size/old size: 0.969697
+01-17 07:07:10.716: V/PointerTracker(23736): pointers: 1, Number of events: 3
+01-17 07:07:10.736: I/PointerTracker(23736):   touches count 1 , pressure: 0.99672264 stylus true
+01-17 07:07:10.736: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.736: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.736: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.736: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.736: V/PointerTracker(23736): pointers: 1, Number of events: 4
+01-17 07:07:10.756: I/PointerTracker(23736):   touches count 1 , pressure: 0.9991807 stylus true
+01-17 07:07:10.756: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.756: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.756: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.756: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:10.776: I/PointerTracker(23736):   touches count 1 , pressure: 0.9991807 stylus true
+01-17 07:07:10.776: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.776: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.776: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.776: V/PointerTracker(23736): pointers: 1, Number of events: 3
+01-17 07:07:10.786: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.786: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.796: I/PointerTracker(23736):   touches count 1 , pressure: 1.0 stylus true
+01-17 07:07:10.796: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.796: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.796: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.796: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:10.816: I/PointerTracker(23736):   touches count 1 , pressure: 1.0 stylus true
+01-17 07:07:10.816: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.816: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.816: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.816: V/PointerTracker(23736): pointers: 1, Number of events: 3
+01-17 07:07:10.826: I/PointerTracker(23736):   touches count 1 , pressure: 1.0 stylus true
+01-17 07:07:10.826: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.826: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.826: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.826: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:10.836: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.836: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.836: I/PointerTracker(23736):   touches count 1 , pressure: 1.0 stylus true
+01-17 07:07:10.836: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.836: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.836: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.846: V/PointerTracker(23736): pointers: 1, Number of events: 3
+01-17 07:07:10.856: I/PointerTracker(23736):   touches count 1 , pressure: 1.0 stylus true
+01-17 07:07:10.856: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.856: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.856: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.866: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:10.876: I/PointerTracker(23736):   touches count 1 , pressure: 1.0 stylus true
+01-17 07:07:10.876: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.876: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.876: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.876: I/TrackedPointer(23736): updating Pointer - size/old size: 0.85365856
+01-17 07:07:10.876: V/PointerTracker(23736): pointers: 1, Number of events: 3
+01-17 07:07:10.886: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.906: I/PointerTracker(23736):   touches count 1 , pressure: 1.0 stylus true
+01-17 07:07:10.906: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.906: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.906: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.906: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9142857
+01-17 07:07:10.906: V/PointerTracker(23736): pointers: 1, Number of events: 4
+01-17 07:07:10.926: I/PointerTracker(23736):   touches count 1 , pressure: 1.0 stylus true
+01-17 07:07:10.926: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 1
+01-17 07:07:10.926: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.926: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.926: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.936: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.936: V/PointerTracker(23736): pointers: 1, Number of events: 2
+01-17 07:07:10.936: I/PointerTracker(23736):   touches count 2 , pressure: 1.0 stylus true
+01-17 07:07:10.936: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:10.936: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.936: W/PointerTracker(23736): there is a stylus touch: true
+01-17 07:07:10.936: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12039853
+01-17 07:07:10.936: W/PointerTracker(23736):  case 1a - rejected pointer 1, already is a stylus at id: 0, touches size: 1
+01-17 07:07:10.936: D/PointerTracker(23736): adding tracked touch sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.078431375. Age: 0 event time: 12039853 lagTime: 0 isExpiredStylus: false ( 982.0, 227.0 ) to list of size 1
+01-17 07:07:10.936: D/PointerTracker(23736): existing: sequenceNumber: 12 id: 0 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:false Size: 0.06666667. Age: 655 event time: 12039853 lagTime: 0 isExpiredStylus: false ( 271.0, 278.0 )
+01-17 07:07:10.946: V/PointerTracker(23736): pointers: 2, Number of events: 1
+01-17 07:07:10.946: I/PointerTracker(23736):   touches count 2 , pressure: 1.0 stylus true
+01-17 07:07:10.946: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 2
+01-17 07:07:10.946: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.946: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.946: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.946: V/PointerTracker(23736): pointers: 2, Number of events: 2
+01-17 07:07:10.956: I/PointerTracker(23736):   touches count 2 , pressure: 1.0 stylus true
+01-17 07:07:10.956: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 2
+01-17 07:07:10.956: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.956: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.956: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9722222
+01-17 07:07:10.956: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.966: V/PointerTracker(23736): pointers: 2, Number of events: 2
+01-17 07:07:10.976: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:10.976: I/PointerTracker(23736):   touches count 2 , pressure: 1.0 stylus true
+01-17 07:07:10.976: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 2
+01-17 07:07:10.976: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.976: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.976: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9714286
+01-17 07:07:10.976: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.976: I/TrackedPointer(23736): updating Pointer - size/old size: 0.0
+01-17 07:07:10.986: V/PointerTracker(23736): pointers: 2, Number of events: 1
+01-17 07:07:10.986: I/PointerTracker(23736):   touches count 3 , pressure: 1.0 stylus true
+01-17 07:07:10.986: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:10.986: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.986: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.986: W/PointerTracker(23736): there is a stylus touch: true
+01-17 07:07:10.986: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12039887
+01-17 07:07:10.986: W/PointerTracker(23736):  case 1a - rejected pointer 2, already is a stylus at id: 0, touches size: 2
+01-17 07:07:10.986: D/PointerTracker(23736): adding tracked touch sequenceNumber: 14 id: 2 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 0 event time: 12039887 lagTime: 0 isExpiredStylus: false ( 1030.0, 364.0 ) to list of size 2
+01-17 07:07:10.986: D/PointerTracker(23736): existing: sequenceNumber: 12 id: 0 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:false Size: 0.06666667. Age: 689 event time: 12039887 lagTime: 0 isExpiredStylus: false ( 262.0, 269.0 )
+01-17 07:07:10.986: D/PointerTracker(23736): existing: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 34 event time: 12039887 lagTime: 0 isExpiredStylus: false ( 978.0, 205.0 )
+01-17 07:07:10.986: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:10.986: I/PointerTracker(23736):   touches count 3 , pressure: 1.0 stylus true
+01-17 07:07:10.986: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:10.986: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:10.986: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.986: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.986: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:10.996: V/PointerTracker(23736): pointers: 3, Number of events: 3
+01-17 07:07:11.006: I/PointerTracker(23736):   touches count 3 , pressure: 1.0 stylus true
+01-17 07:07:11.006: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:11.006: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.006: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.006: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.006: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.016: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:11.026: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.026: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.036: I/PointerTracker(23736):   touches count 3 , pressure: 1.0 stylus true
+01-17 07:07:11.036: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:11.036: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.036: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.036: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.036: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.036: V/PointerTracker(23736): pointers: 3, Number of events: 3
+01-17 07:07:11.056: I/PointerTracker(23736):   touches count 3 , pressure: 1.0 stylus true
+01-17 07:07:11.056: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:11.056: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.056: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.056: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9736842
+01-17 07:07:11.056: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.056: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.066: V/PointerTracker(23736): pointers: 3, Number of events: 4
+01-17 07:07:11.076: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.076: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.086: I/PointerTracker(23736):   touches count 3 , pressure: 1.0 stylus true
+01-17 07:07:11.086: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:11.086: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.086: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.086: I/TrackedPointer(23736): updating Pointer - size/old size: 0.8918919
+01-17 07:07:11.086: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.086: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.086: V/PointerTracker(23736): pointers: 3, Number of events: 4
+01-17 07:07:11.106: I/PointerTracker(23736):   touches count 3 , pressure: 1.0 stylus true
+01-17 07:07:11.106: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:11.106: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.106: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.106: I/TrackedPointer(23736): updating Pointer - size/old size: 0.969697
+01-17 07:07:11.106: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.106: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.116: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:11.126: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.136: I/PointerTracker(23736):   touches count 3 , pressure: 0.91437936 stylus true
+01-17 07:07:11.136: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:11.136: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.136: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.136: I/TrackedPointer(23736): updating Pointer - size/old size: 0.90625
+01-17 07:07:11.136: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.136: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.146: V/PointerTracker(23736): pointers: 3, Number of events: 3
+01-17 07:07:11.146: I/PointerTracker(23736):   touches count 3 , pressure: 0.91437936 stylus true
+01-17 07:07:11.146: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:11.146: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.146: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.146: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.146: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.146: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:11.156: I/PointerTracker(23736):   touches count 4 , pressure: 0.91437936 stylus true
+01-17 07:07:11.156: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:11.156: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.156: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.156: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.156: W/PointerTracker(23736): there is a stylus touch: true
+01-17 07:07:11.156: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12040066
+01-17 07:07:11.156: W/PointerTracker(23736):  case 1a - rejected pointer 3, already is a stylus at id: 0, touches size: 3
+01-17 07:07:11.156: D/PointerTracker(23736): adding tracked touch sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.16078432. Age: 0 event time: 12040066 lagTime: 0 isExpiredStylus: false ( 1219.0, 799.0 ) to list of size 3
+01-17 07:07:11.156: D/PointerTracker(23736): existing: sequenceNumber: 12 id: 0 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:false Size: 0.0627451. Age: 868 event time: 12040066 lagTime: 0 isExpiredStylus: false ( 266.0, 271.0 )
+01-17 07:07:11.156: D/PointerTracker(23736): existing: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 213 event time: 12040066 lagTime: 0 isExpiredStylus: false ( 952.0, 181.0 )
+01-17 07:07:11.156: D/PointerTracker(23736): existing: sequenceNumber: 14 id: 2 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 179 event time: 12040066 lagTime: 0 isExpiredStylus: false ( 1023.0, 387.0 )
+01-17 07:07:11.156: V/PointerTracker(23736): pointers: 4, Number of events: 1
+01-17 07:07:11.166: I/PointerTracker(23736):   touches count 4 , pressure: 0.91437936 stylus true
+01-17 07:07:11.166: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.166: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.166: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.166: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.166: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.166: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.176: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.176: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.176: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.186: I/PointerTracker(23736):   touches count 4 , pressure: 0.9360918 stylus true
+01-17 07:07:11.186: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.186: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.186: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.186: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.186: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.186: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.186: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.206: I/PointerTracker(23736):   touches count 4 , pressure: 0.9360918 stylus true
+01-17 07:07:11.206: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.206: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.206: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.206: I/TrackedPointer(23736): updating Pointer - size/old size: 0.7380953
+01-17 07:07:11.206: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.206: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.206: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.206: I/TrackedPointer(23736): updating Pointer - size/old size: 0.96428573
+01-17 07:07:11.206: V/PointerTracker(23736): pointers: 4, Number of events: 4
+01-17 07:07:11.226: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.236: I/PointerTracker(23736):   touches count 4 , pressure: 0.93854976 stylus true
+01-17 07:07:11.236: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.236: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.236: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.236: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.236: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.236: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.246: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.246: I/PointerTracker(23736):   touches count 4 , pressure: 0.93854976 stylus true
+01-17 07:07:11.246: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.246: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.246: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.246: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.246: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.246: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.246: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9756098
+01-17 07:07:11.256: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.266: I/PointerTracker(23736):   touches count 4 , pressure: 0.93854976 stylus true
+01-17 07:07:11.266: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.266: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.266: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.266: I/TrackedPointer(23736): updating Pointer - size/old size: 0.969697
+01-17 07:07:11.266: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.266: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.266: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.266: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9875
+01-17 07:07:11.276: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.276: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.276: I/PointerTracker(23736):   touches count 4 , pressure: 0.93650144 stylus true
+01-17 07:07:11.276: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.276: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.276: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.276: I/TrackedPointer(23736): updating Pointer - size/old size: 0.96875
+01-17 07:07:11.276: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.276: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.276: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.286: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.296: I/PointerTracker(23736):   touches count 4 , pressure: 0.93650144 stylus true
+01-17 07:07:11.296: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.296: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.296: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.296: I/TrackedPointer(23736): updating Pointer - size/old size: 0.96774197
+01-17 07:07:11.306: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.306: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.306: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.306: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9875
+01-17 07:07:11.306: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.316: I/PointerTracker(23736):   touches count 4 , pressure: 0.93650144 stylus true
+01-17 07:07:11.316: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.316: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.316: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.316: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.316: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.316: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.316: I/TrackedPointer(23736): updating Pointer - size/old size: 0.98734176
+01-17 07:07:11.316: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.316: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.326: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.326: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.336: I/PointerTracker(23736):   touches count 4 , pressure: 0.9397788 stylus true
+01-17 07:07:11.336: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.336: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.336: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.336: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.336: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.336: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.346: V/PointerTracker(23736): pointers: 4, Number of events: 4
+01-17 07:07:11.356: I/PointerTracker(23736):   touches count 4 , pressure: 0.9397788 stylus true
+01-17 07:07:11.356: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.356: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.356: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.356: I/TrackedPointer(23736): updating Pointer - size/old size: 0.96875
+01-17 07:07:11.356: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.356: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.356: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.366: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.366: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.376: I/PointerTracker(23736):   touches count 4 , pressure: 0.9397788 stylus true
+01-17 07:07:11.376: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.376: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.376: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.376: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.376: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.376: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.376: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9871795
+01-17 07:07:11.376: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.396: I/PointerTracker(23736):   touches count 4 , pressure: 0.9397788 stylus true
+01-17 07:07:11.396: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.396: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.396: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.396: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.396: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.396: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.396: V/PointerTracker(23736): pointers: 4, Number of events: 1
+01-17 07:07:11.396: I/PointerTracker(23736):   touches count 4 , pressure: 0.9397788 stylus true
+01-17 07:07:11.396: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerUp xxxxxxxxxxx------------------------
+01-17 07:07:11.396: I/PointerTracker(23736): wentUp size: 0.0 tracked size 0.0 TOOL_TYPE_FINGER age: 412
+01-17 07:07:11.396: V/TRACKED POINTER(23736): setting pointer 2 went up. Is stylus: false
+01-17 07:07:11.396: I/PointerTracker(23736): touch.wentUp() sequenceNumber: 14 id: 2 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:true Size: 0.0. Age: 412 event time: 12040299 lagTime: 0 isExpiredStylus: false ( 1023.0, 421.0 ) size: 4
+01-17 07:07:11.396: V/PointerTracker(23736): pointers: 4, Number of events: 1
+01-17 07:07:11.396: V/PointerTracker(23736): ---cleanup when necessary. size: 4
+01-17 07:07:11.406: I/WacomUtil(23736):  %%tt: sequenceNumber: 12 id: 0 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:false Size: 0.068627454. Age: 1101 event time: 12040299 lagTime: 0 isExpiredStylus: false ( 364.0, 300.0 ) of 4
+01-17 07:07:11.406: I/WacomUtil(23736):  %%tt: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 446 event time: 12040299 lagTime: 0 isExpiredStylus: false ( 949.0, 186.0 ) of 4
+01-17 07:07:11.406: I/WacomUtil(23736):  %%tt: sequenceNumber: 14 id: 2 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:true Size: 0.0. Age: 412 event time: 12040299 lagTime: 0 isExpiredStylus: false ( 1023.0, 421.0 ) of 4
+01-17 07:07:11.406: I/WacomUtil(23736):  %%tt: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.1509804. Age: 233 event time: 12040299 lagTime: 0 isExpiredStylus: false ( 1214.0, 799.0 ) of 4
+01-17 07:07:11.406: D/PointerTracker(23736): ---------------cleanup   trackedTouches size 4-----------
+01-17 07:07:11.406: D/PointerTracker(23736): cleanup checking: sequenceNumber: 12 id: 0 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:false Size: 0.068627454. Age: 1101 event time: 12040299 lagTime: 0 isExpiredStylus: false ( 364.0, 300.0 )
+01-17 07:07:11.406: D/PointerTracker(23736): cleanup checking: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 446 event time: 12040299 lagTime: 0 isExpiredStylus: false ( 949.0, 186.0 )
+01-17 07:07:11.406: D/PointerTracker(23736): cleanup checking: sequenceNumber: 14 id: 2 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:true Size: 0.0. Age: 412 event time: 12040299 lagTime: 0 isExpiredStylus: false ( 1023.0, 421.0 )
+01-17 07:07:11.406: D/PointerTracker(23736): processUpTouch pointerID: 2
+01-17 07:07:11.406: W/PointerTracker(23736): thereIsAStylusTouch  ---but this removed touch (id: 2) wasn't it
+01-17 07:07:11.406: D/PointerTracker(23736): cleanup checking: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.1509804. Age: 233 event time: 12040299 lagTime: 0 isExpiredStylus: false ( 1214.0, 799.0 )
+01-17 07:07:11.406: D/PointerTracker(23736): remove touch 2 size 4 removed: true  size 3
+01-17 07:07:11.406: V/DrawView(23736): pointer up action index: 2. pointer up id 2
+01-17 07:07:11.406: I/PointerTracker(23736):   touches count 3 , pressure: 0.9397788 stylus true
+01-17 07:07:11.406: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:11.406: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.406: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.406: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.406: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.406: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:11.416: I/PointerTracker(23736):   touches count 4 , pressure: 0.9397788 stylus true
+01-17 07:07:11.416: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:11.416: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.416: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.416: W/PointerTracker(23736): there is a stylus touch: true
+01-17 07:07:11.416: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12040322
+01-17 07:07:11.416: W/PointerTracker(23736):  case 1a - rejected pointer 2, already is a stylus at id: 0, touches size: 3
+01-17 07:07:11.416: D/PointerTracker(23736): adding tracked touch sequenceNumber: 16 id: 2 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 0 event time: 12040322 lagTime: 0 isExpiredStylus: false ( 1021.0, 410.0 ) to list of size 3
+01-17 07:07:11.416: D/PointerTracker(23736): existing: sequenceNumber: 12 id: 0 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:false Size: 0.08039216. Age: 1124 event time: 12040322 lagTime: 0 isExpiredStylus: false ( 371.0, 297.0 )
+01-17 07:07:11.416: D/PointerTracker(23736): existing: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 469 event time: 12040322 lagTime: 0 isExpiredStylus: false ( 937.0, 182.0 )
+01-17 07:07:11.416: D/PointerTracker(23736): existing: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.15294118. Age: 256 event time: 12040322 lagTime: 0 isExpiredStylus: false ( 1214.0, 799.0 )
+01-17 07:07:11.416: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.416: V/PointerTracker(23736): pointers: 4, Number of events: 1
+01-17 07:07:11.416: I/PointerTracker(23736):   touches count 4 , pressure: 0.9397788 stylus true
+01-17 07:07:11.416: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.416: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.416: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.416: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.416: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.416: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.416: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9871795
+01-17 07:07:11.416: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.416: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.416: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.426: I/PointerTracker(23736):   touches count 4 , pressure: 0.9397788 stylus true
+01-17 07:07:11.426: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.426: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.426: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.426: I/TrackedPointer(23736): updating Pointer - size/old size: 0.8780488
+01-17 07:07:11.426: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.426: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.426: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.426: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.436: I/PointerTracker(23736):   touches count 4 , pressure: 0.9397788 stylus true
+01-17 07:07:11.436: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.436: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.436: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.436: I/TrackedPointer(23736): updating Pointer - size/old size: 0.8888889
+01-17 07:07:11.436: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.436: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.436: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.436: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9871795
+01-17 07:07:11.446: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.456: I/PointerTracker(23736):   touches count 4 , pressure: 0.9397788 stylus true
+01-17 07:07:11.456: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.456: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.456: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.456: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9375
+01-17 07:07:11.456: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.456: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.456: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.466: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.466: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.466: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.486: I/PointerTracker(23736):   touches count 4 , pressure: 0.94059813 stylus true
+01-17 07:07:11.486: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.486: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.486: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.486: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.486: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.486: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.486: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.496: I/PointerTracker(23736):   touches count 4 , pressure: 0.94059813 stylus true
+01-17 07:07:11.496: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.496: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.496: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.496: I/TrackedPointer(23736): updating Pointer - size/old size: 0.96875
+01-17 07:07:11.496: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.496: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.496: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.496: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.506: I/PointerTracker(23736):   touches count 4 , pressure: 0.94059813 stylus true
+01-17 07:07:11.506: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.506: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.506: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.506: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.506: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.506: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.506: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.516: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.526: I/PointerTracker(23736):   touches count 4 , pressure: 0.93854976 stylus true
+01-17 07:07:11.526: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.526: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.526: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.526: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.526: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.526: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.536: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.546: I/PointerTracker(23736):   touches count 4 , pressure: 0.93854976 stylus true
+01-17 07:07:11.546: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.546: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.546: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.546: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9411765
+01-17 07:07:11.546: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.546: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.546: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.546: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9871795
+01-17 07:07:11.556: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.556: I/PointerTracker(23736):   touches count 4 , pressure: 0.93854976 stylus true
+01-17 07:07:11.556: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.556: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.556: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.556: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.556: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.556: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.566: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.566: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.566: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.576: I/PointerTracker(23736):   touches count 4 , pressure: 0.9381401 stylus true
+01-17 07:07:11.576: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.576: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.576: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.576: I/TrackedPointer(23736): updating Pointer - size/old size: 0.96875
+01-17 07:07:11.576: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.576: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.576: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.576: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.596: I/PointerTracker(23736):   touches count 4 , pressure: 0.9381401 stylus true
+01-17 07:07:11.596: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.596: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.596: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.596: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.596: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.596: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.596: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.616: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.616: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.616: I/PointerTracker(23736):   touches count 4 , pressure: 0.93732077 stylus true
+01-17 07:07:11.616: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.616: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.616: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.616: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.616: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.616: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.616: I/TrackedPointer(23736): updating Pointer - size/old size: 0.974359
+01-17 07:07:11.626: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.626: I/PointerTracker(23736):   touches count 4 , pressure: 0.93732077 stylus true
+01-17 07:07:11.626: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.626: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.626: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.626: I/TrackedPointer(23736): updating Pointer - size/old size: 0.925
+01-17 07:07:11.626: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.626: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.626: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.626: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.636: I/PointerTracker(23736):   touches count 4 , pressure: 0.93732077 stylus true
+01-17 07:07:11.636: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.636: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.636: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.636: I/TrackedPointer(23736): updating Pointer - size/old size: 0.972973
+01-17 07:07:11.636: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.636: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.636: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.636: I/TrackedPointer(23736): updating Pointer - size/old size: 0.987013
+01-17 07:07:11.646: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.656: I/PointerTracker(23736):   touches count 4 , pressure: 0.93732077 stylus true
+01-17 07:07:11.656: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.656: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.656: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.656: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.656: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.656: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.666: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.666: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.686: I/PointerTracker(23736):   touches count 4 , pressure: 0.94059813 stylus true
+01-17 07:07:11.686: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.686: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.686: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.686: I/TrackedPointer(23736): updating Pointer - size/old size: 0.94736844
+01-17 07:07:11.686: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.686: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.686: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.686: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.696: I/PointerTracker(23736):   touches count 4 , pressure: 0.94059813 stylus true
+01-17 07:07:11.696: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.696: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.696: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.696: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.696: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.696: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.696: I/TrackedPointer(23736): updating Pointer - size/old size: 0.987013
+01-17 07:07:11.696: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.706: I/PointerTracker(23736):   touches count 4 , pressure: 0.94059813 stylus true
+01-17 07:07:11.706: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.706: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.706: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.706: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.706: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.706: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.706: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.706: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.706: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.726: I/PointerTracker(23736):   touches count 4 , pressure: 0.9422368 stylus true
+01-17 07:07:11.726: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.726: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.726: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.726: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.726: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.726: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.726: I/TrackedPointer(23736): updating Pointer - size/old size: 0.987013
+01-17 07:07:11.726: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.746: I/PointerTracker(23736):   touches count 4 , pressure: 0.9422368 stylus true
+01-17 07:07:11.746: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.746: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.746: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.746: I/TrackedPointer(23736): updating Pointer - size/old size: 0.8717949
+01-17 07:07:11.746: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.746: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.746: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.756: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.756: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.756: I/PointerTracker(23736):   touches count 4 , pressure: 0.9422368 stylus true
+01-17 07:07:11.756: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.756: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.756: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.756: I/TrackedPointer(23736): updating Pointer - size/old size: 0.91176474
+01-17 07:07:11.756: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.756: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.756: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.756: I/TrackedPointer(23736): updating Pointer - size/old size: 0.974359
+01-17 07:07:11.766: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.776: I/PointerTracker(23736):   touches count 4 , pressure: 0.9422368 stylus true
+01-17 07:07:11.776: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.776: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.776: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.776: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.776: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.776: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.776: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.806: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.806: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.816: I/PointerTracker(23736):   touches count 4 , pressure: 0.9299467 stylus true
+01-17 07:07:11.816: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.816: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.816: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.816: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.816: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.816: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.826: V/PointerTracker(23736): pointers: 4, Number of events: 4
+01-17 07:07:11.826: I/PointerTracker(23736):   touches count 4 , pressure: 0.9299467 stylus true
+01-17 07:07:11.826: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.826: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.826: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.826: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.826: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.826: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.826: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.846: I/PointerTracker(23736):   touches count 4 , pressure: 0.9299467 stylus true
+01-17 07:07:11.846: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.846: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.846: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.846: I/TrackedPointer(23736): updating Pointer - size/old size: 0.97058827
+01-17 07:07:11.846: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.846: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.846: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.856: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.856: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.856: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.856: I/PointerTracker(23736):   touches count 4 , pressure: 0.8131913 stylus true
+01-17 07:07:11.856: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.856: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.856: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.856: I/TrackedPointer(23736): updating Pointer - size/old size: 0.969697
+01-17 07:07:11.856: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.856: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.856: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.856: I/TrackedPointer(23736): updating Pointer - size/old size: 0.987013
+01-17 07:07:11.866: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.876: I/PointerTracker(23736):   touches count 4 , pressure: 0.8131913 stylus true
+01-17 07:07:11.876: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.876: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.876: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.876: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.876: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.876: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.876: V/PointerTracker(23736): pointers: 4, Number of events: 3
+01-17 07:07:11.906: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.916: I/PointerTracker(23736):   touches count 4 , pressure: 0.5981155 stylus true
+01-17 07:07:11.916: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.916: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.916: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.916: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.916: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.916: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.926: V/PointerTracker(23736): pointers: 4, Number of events: 4
+01-17 07:07:11.926: I/PointerTracker(23736):   touches count 4 , pressure: 0.5981155 stylus true
+01-17 07:07:11.926: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.926: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.926: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.926: I/TrackedPointer(23736): updating Pointer - size/old size: 0.975
+01-17 07:07:11.926: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.926: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.926: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.926: I/TrackedPointer(23736): updating Pointer - size/old size: 0.987013
+01-17 07:07:11.926: V/PointerTracker(23736): pointers: 4, Number of events: 2
+01-17 07:07:11.956: I/PointerTracker(23736):   touches count 4 , pressure: 0.5981155 stylus true
+01-17 07:07:11.956: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 4
+01-17 07:07:11.956: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.956: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.956: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.956: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.956: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.956: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.956: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:11.956: V/PointerTracker(23736): pointers: 4, Number of events: 4
+
+
+
+01-17 07:07:11.966: I/PointerTracker(23736):   touches count 4 , pressure: 0.0 stylus true
+
+01-17 07:07:11.966: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerUp xxxxxxxxxxx------------------------
+01-17 07:07:11.966: I/PointerTracker(23736): wentUp size: 0.0 tracked size 0.0 TOOL_TYPE_FINGER age: 559
+01-17 07:07:11.966: V/TRACKED POINTER(23736): setting pointer 2 went up. Is stylus: false
+01-17 07:07:11.966: I/PointerTracker(23736): touch.wentUp() sequenceNumber: 16 id: 2 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:true Size: 0.0. Age: 559 event time: 12040881 lagTime: 0 isExpiredStylus: false ( 1021.0, 407.5 ) size: 4
+01-17 07:07:11.966: V/PointerTracker(23736): pointers: 4, Number of events: 1
+01-17 07:07:11.966: V/PointerTracker(23736): ---cleanup when necessary. size: 4
+01-17 07:07:11.966: I/WacomUtil(23736):  %%tt: sequenceNumber: 12 id: 0 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:false Size: 0.08431373. Age: 1683 event time: 12040881 lagTime: 0 isExpiredStylus: false ( 508.0, 258.5 ) of 4
+01-17 07:07:11.966: I/WacomUtil(23736):  %%tt: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1028 event time: 12040881 lagTime: 0 isExpiredStylus: false ( 917.0, 177.0 ) of 4
+01-17 07:07:11.966: I/WacomUtil(23736):  %%tt: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.1509804. Age: 815 event time: 12040881 lagTime: 0 isExpiredStylus: false ( 1216.0, 799.0 ) of 4
+01-17 07:07:11.966: I/WacomUtil(23736):  %%tt: sequenceNumber: 16 id: 2 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:true Size: 0.0. Age: 559 event time: 12040881 lagTime: 0 isExpiredStylus: false ( 1021.0, 407.5 ) of 4
+01-17 07:07:11.966: D/PointerTracker(23736): ---------------cleanup   trackedTouches size 4-----------
+01-17 07:07:11.976: D/PointerTracker(23736): cleanup checking: sequenceNumber: 12 id: 0 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:false Size: 0.08431373. Age: 1683 event time: 12040881 lagTime: 0 isExpiredStylus: false ( 508.0, 258.5 )
+01-17 07:07:11.976: D/PointerTracker(23736): cleanup checking: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1028 event time: 12040881 lagTime: 0 isExpiredStylus: false ( 917.0, 177.0 )
+01-17 07:07:11.976: D/PointerTracker(23736): cleanup checking: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.1509804. Age: 815 event time: 12040881 lagTime: 0 isExpiredStylus: false ( 1216.0, 799.0 )
+01-17 07:07:11.976: D/PointerTracker(23736): cleanup checking: sequenceNumber: 16 id: 2 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:true Size: 0.0. Age: 559 event time: 12040881 lagTime: 0 isExpiredStylus: false ( 1021.0, 407.5 )
+01-17 07:07:11.976: D/PointerTracker(23736): processUpTouch pointerID: 2
+01-17 07:07:11.976: W/PointerTracker(23736): thereIsAStylusTouch  ---but this removed touch (id: 2) wasn't it
+01-17 07:07:11.976: D/PointerTracker(23736): remove touch 2 size 4 removed: true  size 3
+01-17 07:07:11.976: V/DrawView(23736): pointer up action index: 2. pointer up id 2
+01-17 07:07:11.986: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus true
+01-17 07:07:11.986: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:11.986: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:11.986: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.986: I/TrackedPointer(23736): updating Pointer - size/old size: 0.0
+01-17 07:07:11.986: W/TrackedPointer(23736):  pen jumped more than 200 
+01-17 07:07:11.986: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.986: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:11.986: V/TrackedPointer(23736): ------------------------xxxxxxxxx excededLagBounds xxxxxxxxxxx------------------------
+01-17 07:07:11.996: V/PointerTracker(23736): pointers: 3, Number of events: 4
+
+
+
+01-17 07:07:11.996: W/Brush(23736): distance between points: 532.8567 Point: 12040886 508.0 258.5 0.5981155 0.0 Point: 12040886 1022.0 399.0 0.5981155 0.0
+
+
+01-17 07:07:12.006: D/BluetoothGatt(23736): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-17 07:07:12.166: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus true
+01-17 07:07:12.166: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.166: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.166: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.166: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.166: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.166: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9506173
+01-17 07:07:12.166: V/TrackedPointer(23736): ------------------------xxxxxxxxx excededLagBounds xxxxxxxxxxx------------------------
+01-17 07:07:12.166: W/TrackedPointer(23736): lag time (stylus no pressure) here 159
+01-17 07:07:12.176: V/PointerTracker(23736): pointers: 3, Number of events: 14
+01-17 07:07:12.186: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus true
+01-17 07:07:12.186: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerUp xxxxxxxxxxx------------------------
+01-17 07:07:12.186: I/PointerTracker(23736): wentUp size: 0.0 tracked size 0.0 TOOL_TYPE_STYLUS age: 1876
+01-17 07:07:12.186: V/TRACKED POINTER(23736): setting pointer 0 went up. Is stylus: true
+01-17 07:07:12.186: I/PointerTracker(23736): touch.wentUp() sequenceNumber: 12 id: 0 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:true Size: 0.0. Age: 1876 event time: 12041074 lagTime: 159 isExpiredStylus: false ( 1022.0, 405.0 ) size: 3
+01-17 07:07:12.186: I/PointerTracker(23736): We have stylus that went up
+01-17 07:07:12.186: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:12.186: V/PointerTracker(23736): ---cleanup when necessary. size: 3
+01-17 07:07:12.186: I/WacomUtil(23736):  %%tt: sequenceNumber: 12 id: 0 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:true Size: 0.0. Age: 1876 event time: 12041074 lagTime: 159 isExpiredStylus: false ( 1022.0, 405.0 ) of 3
+01-17 07:07:12.186: I/WacomUtil(23736):  %%tt: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1221 event time: 12041074 lagTime: 0 isExpiredStylus: false ( 928.0, 180.0 ) of 3
+01-17 07:07:12.186: I/WacomUtil(23736):  %%tt: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.1509804. Age: 1008 event time: 12041074 lagTime: 0 isExpiredStylus: false ( 1216.0, 799.0 ) of 3
+
+
+
+
+
+
+01-17 07:07:12.186: D/PointerTracker(23736): ---------------cleanup   trackedTouches size 3-----------
+01-17 07:07:12.186: D/PointerTracker(23736): cleanup checking: sequenceNumber: 12 id: 0 type: TOOL_TYPE_STYLUS isrejected: false isReadyToRemove:true Size: 0.0. Age: 1876 event time: 12041074 lagTime: 159 isExpiredStylus: false ( 1022.0, 405.0 )
+01-17 07:07:12.186: D/PointerTracker(23736): processUpTouch pointerID: 0
+01-17 07:07:12.186: W/PointerTracker(23736): thereIsAStylusTouch  clearing stylus touch
+01-17 07:07:12.186: D/PointerTracker(23736): cleanup checking: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1221 event time: 12041074 lagTime: 0 isExpiredStylus: false ( 928.0, 180.0 )
+01-17 07:07:12.186: D/PointerTracker(23736): cleanup checking: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.1509804. Age: 1008 event time: 12041074 lagTime: 0 isExpiredStylus: false ( 1216.0, 799.0 )
+01-17 07:07:12.186: E/PointerTracker(23736): *************nulling out the stylus touch************
+01-17 07:07:12.186: I/TrackedPointer(23736): clearing stylus
+01-17 07:07:12.186: W/TrackedPointer(23736): removing or canceling pointer ID 0 which was stylus
+01-17 07:07:12.196: D/PointerTracker(23736): remove touch 0 size 3 removed: true  size 2
+01-17 07:07:12.196: V/DrawView(23736): pointer up action index: 0. pointer up id 0
+01-17 07:07:12.196: I/PointerTracker(23736):   touches count 2 , pressure: 0.0 stylus false
+01-17 07:07:12.196: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 1 pointer count: 2
+01-17 07:07:12.196: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.196: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.196: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.196: V/PointerTracker(23736): pointers: 2, Number of events: 2
+01-17 07:07:12.196: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.196: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:12.196: W/PointerTracker(23736): there is a stylus touch: false
+01-17 07:07:12.196: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12041096
+01-17 07:07:12.196: D/PointerTracker(23736): adding tracked touch sequenceNumber: 17 id: 0 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.0. Age: 0 event time: 12041096 lagTime: 0 isExpiredStylus: false ( 1022.0, 399.0 ) to list of size 2
+01-17 07:07:12.196: D/PointerTracker(23736): existing: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1243 event time: 12041096 lagTime: 0 isExpiredStylus: false ( 920.0, 172.0 )
+01-17 07:07:12.196: D/PointerTracker(23736): existing: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.15490197. Age: 1030 event time: 12041096 lagTime: 0 isExpiredStylus: false ( 1216.0, 799.0 )
+01-17 07:07:12.196: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.196: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.196: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:12.216: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.216: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.216: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.216: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.216: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.216: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.216: I/TrackedPointer(23736): updating Pointer - size/old size: 0.98734176
+01-17 07:07:12.216: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.216: D/PointerTracker(23736): zero pressure with age: 39
+01-17 07:07:12.226: V/PointerTracker(23736): pointers: 3, Number of events: 4
+01-17 07:07:12.226: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.226: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.226: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.226: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.226: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.226: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.226: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.226: D/PointerTracker(23736): zero pressure with age: 52
+01-17 07:07:12.226: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.236: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.236: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.236: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.236: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.236: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.236: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.236: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9875
+01-17 07:07:12.236: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.236: D/PointerTracker(23736): zero pressure with age: 61
+01-17 07:07:12.236: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.236: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.236: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.236: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.236: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.236: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.236: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.236: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.236: D/PointerTracker(23736): zero pressure with age: 69
+01-17 07:07:12.236: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.266: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.266: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.266: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.266: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.266: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.266: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.266: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9876543
+01-17 07:07:12.266: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.266: D/PointerTracker(23736): zero pressure with age: 94
+01-17 07:07:12.266: V/PointerTracker(23736): pointers: 3, Number of events: 3
+01-17 07:07:12.276: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.276: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.276: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.276: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.276: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.276: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.276: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.276: D/PointerTracker(23736): zero pressure with age: 102
+01-17 07:07:12.276: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.286: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.286: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.286: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.286: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.286: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.286: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.286: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.286: D/PointerTracker(23736): zero pressure with age: 111
+01-17 07:07:12.296: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:12.296: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.296: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerUp xxxxxxxxxxx------------------------
+01-17 07:07:12.296: I/PointerTracker(23736): wentUp size: 0.0 tracked size 0.0 TOOL_TYPE_UNKNOWN age:111 age: 111
+01-17 07:07:12.296: V/TRACKED POINTER(23736): setting pointer 0 went up. Is stylus: false
+01-17 07:07:12.296: I/PointerTracker(23736): touch.wentUp() sequenceNumber: 17 id: 0 type: TOOL_TYPE_UNKNOWN age:111 isrejected: false isReadyToRemove:true Size: 0.0. Age: 111 event time: 12041207 lagTime: 0 isExpiredStylus: false ( 1022.0, 405.0 ) size: 3
+01-17 07:07:12.296: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:12.296: V/PointerTracker(23736): ---cleanup when necessary. size: 3
+01-17 07:07:12.306: I/WacomUtil(23736):  %%tt: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1354 event time: 12041207 lagTime: 0 isExpiredStylus: false ( 932.0, 183.0 ) of 3
+01-17 07:07:12.306: I/WacomUtil(23736):  %%tt: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.16078432. Age: 1141 event time: 12041207 lagTime: 0 isExpiredStylus: false ( 1215.0, 799.0 ) of 3
+01-17 07:07:12.306: I/WacomUtil(23736):  %%tt: sequenceNumber: 17 id: 0 type: TOOL_TYPE_UNKNOWN age:111 isrejected: false isReadyToRemove:true Size: 0.0. Age: 111 event time: 12041207 lagTime: 0 isExpiredStylus: false ( 1022.0, 405.0 ) of 3
+01-17 07:07:12.306: D/PointerTracker(23736): ---------------cleanup   trackedTouches size 3-----------
+01-17 07:07:12.306: D/PointerTracker(23736): cleanup checking: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1354 event time: 12041207 lagTime: 0 isExpiredStylus: false ( 932.0, 183.0 )
+01-17 07:07:12.306: D/PointerTracker(23736): cleanup checking: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.16078432. Age: 1141 event time: 12041207 lagTime: 0 isExpiredStylus: false ( 1215.0, 799.0 )
+01-17 07:07:12.306: D/PointerTracker(23736): cleanup checking: sequenceNumber: 17 id: 0 type: TOOL_TYPE_UNKNOWN age:111 isrejected: false isReadyToRemove:true Size: 0.0. Age: 111 event time: 12041207 lagTime: 0 isExpiredStylus: false ( 1022.0, 405.0 )
+01-17 07:07:12.306: D/PointerTracker(23736): processUpTouch pointerID: 0
+01-17 07:07:12.306: V/PointerTracker(23736): logUpTouch  there was no stylus touch
+01-17 07:07:12.306: D/PointerTracker(23736): remove touch 0 size 3 removed: true  size 2
+01-17 07:07:12.306: I/PointerTracker(23736):   touches count 2 , pressure: 0.0 stylus false
+01-17 07:07:12.306: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 1 pointer count: 2
+01-17 07:07:12.306: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.306: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.306: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.306: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9878049
+01-17 07:07:12.306: V/PointerTracker(23736): pointers: 2, Number of events: 3
+01-17 07:07:12.306: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.306: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:12.306: W/PointerTracker(23736): there is a stylus touch: false
+01-17 07:07:12.306: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12041229
+01-17 07:07:12.306: D/PointerTracker(23736): adding tracked touch sequenceNumber: 18 id: 0 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.0. Age: 0 event time: 12041229 lagTime: 0 isExpiredStylus: false ( 1022.0, 398.0 ) to list of size 2
+01-17 07:07:12.306: D/PointerTracker(23736): existing: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1379 event time: 12041232 lagTime: 0 isExpiredStylus: false ( 900.4449, 152.0033 )
+01-17 07:07:12.306: D/PointerTracker(23736): existing: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.15882353. Age: 1166 event time: 12041232 lagTime: 0 isExpiredStylus: false ( 1215.0, 799.0 )
+01-17 07:07:12.306: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.306: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.316: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:12.336: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.336: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.336: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.336: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.336: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.336: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.336: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.336: D/PointerTracker(23736): zero pressure with age: 28
+01-17 07:07:12.336: V/PointerTracker(23736): pointers: 3, Number of events: 3
+01-17 07:07:12.346: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.346: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.346: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.346: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.346: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.346: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.346: I/TrackedPointer(23736): updating Pointer - size/old size: 0.97530866
+01-17 07:07:12.346: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.346: D/PointerTracker(23736): zero pressure with age: 36
+01-17 07:07:12.346: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.356: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.356: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.356: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.356: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.356: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.356: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.356: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.356: D/PointerTracker(23736): zero pressure with age: 44
+01-17 07:07:12.366: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:12.366: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.366: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerUp xxxxxxxxxxx------------------------
+01-17 07:07:12.366: I/PointerTracker(23736): wentUp size: 0.0 tracked size 0.0 TOOL_TYPE_UNKNOWN age:44 age: 44
+01-17 07:07:12.366: V/TRACKED POINTER(23736): setting pointer 0 went up. Is stylus: false
+01-17 07:07:12.366: I/PointerTracker(23736): touch.wentUp() sequenceNumber: 18 id: 0 type: TOOL_TYPE_UNKNOWN age:44 isrejected: false isReadyToRemove:true Size: 0.0. Age: 44 event time: 12041273 lagTime: 0 isExpiredStylus: false ( 1022.0, 401.0 ) size: 3
+01-17 07:07:12.366: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:12.366: V/PointerTracker(23736): ---cleanup when necessary. size: 3
+01-17 07:07:12.366: I/WacomUtil(23736):  %%tt: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1420 event time: 12041273 lagTime: 0 isExpiredStylus: false ( 925.0, 179.0 ) of 3
+01-17 07:07:12.366: I/WacomUtil(23736):  %%tt: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.15490197. Age: 1207 event time: 12041273 lagTime: 0 isExpiredStylus: false ( 1215.0, 799.0 ) of 3
+01-17 07:07:12.366: I/WacomUtil(23736):  %%tt: sequenceNumber: 18 id: 0 type: TOOL_TYPE_UNKNOWN age:44 isrejected: false isReadyToRemove:true Size: 0.0. Age: 44 event time: 12041273 lagTime: 0 isExpiredStylus: false ( 1022.0, 401.0 ) of 3
+01-17 07:07:12.366: D/PointerTracker(23736): ---------------cleanup   trackedTouches size 3-----------
+01-17 07:07:12.366: D/PointerTracker(23736): cleanup checking: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1420 event time: 12041273 lagTime: 0 isExpiredStylus: false ( 925.0, 179.0 )
+01-17 07:07:12.366: D/PointerTracker(23736): cleanup checking: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.15490197. Age: 1207 event time: 12041273 lagTime: 0 isExpiredStylus: false ( 1215.0, 799.0 )
+01-17 07:07:12.366: D/PointerTracker(23736): cleanup checking: sequenceNumber: 18 id: 0 type: TOOL_TYPE_UNKNOWN age:44 isrejected: false isReadyToRemove:true Size: 0.0. Age: 44 event time: 12041273 lagTime: 0 isExpiredStylus: false ( 1022.0, 401.0 )
+01-17 07:07:12.366: D/PointerTracker(23736): processUpTouch pointerID: 0
+01-17 07:07:12.366: V/PointerTracker(23736): logUpTouch  there was no stylus touch
+01-17 07:07:12.366: D/PointerTracker(23736): remove touch 0 size 3 removed: true  size 2
+01-17 07:07:12.366: I/PointerTracker(23736):   touches count 2 , pressure: 0.0 stylus false
+01-17 07:07:12.366: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 1 pointer count: 2
+01-17 07:07:12.366: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.366: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.376: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.376: I/TrackedPointer(23736): updating Pointer - size/old size: 0.98734176
+01-17 07:07:12.376: V/PointerTracker(23736): pointers: 2, Number of events: 2
+01-17 07:07:12.376: I/PointerTracker(23736):   touches count 2 , pressure: 0.0 stylus false
+01-17 07:07:12.376: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 1 pointer count: 2
+01-17 07:07:12.376: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.376: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.376: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.376: V/PointerTracker(23736): pointers: 2, Number of events: 1
+01-17 07:07:12.376: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.376: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:12.376: W/PointerTracker(23736): there is a stylus touch: false
+01-17 07:07:12.376: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12041296
+01-17 07:07:12.376: D/PointerTracker(23736): adding tracked touch sequenceNumber: 19 id: 0 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.0. Age: 0 event time: 12041296 lagTime: 0 isExpiredStylus: false ( 1022.0, 399.0 ) to list of size 2
+01-17 07:07:12.376: D/PointerTracker(23736): existing: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1443 event time: 12041296 lagTime: 0 isExpiredStylus: false ( 916.0, 173.0 )
+01-17 07:07:12.376: D/PointerTracker(23736): existing: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.16078432. Age: 1230 event time: 12041296 lagTime: 0 isExpiredStylus: false ( 1215.0, 799.0 )
+01-17 07:07:12.376: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.376: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.376: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:12.386: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.386: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.386: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.386: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.386: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.386: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.386: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.386: D/PointerTracker(23736): zero pressure with age: 19
+01-17 07:07:12.386: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.396: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.396: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.396: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.396: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.396: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.396: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.396: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.406: D/PointerTracker(23736): zero pressure with age: 27
+01-17 07:07:12.406: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.406: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.406: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.406: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.406: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.406: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.406: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.406: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9634146
+01-17 07:07:12.406: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.406: D/PointerTracker(23736): zero pressure with age: 36
+01-17 07:07:12.406: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.416: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.416: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.416: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.416: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.416: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.416: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.416: I/TrackedPointer(23736): updating Pointer - size/old size: 0.98734176
+01-17 07:07:12.416: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.416: D/PointerTracker(23736): zero pressure with age: 52
+01-17 07:07:12.416: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.436: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.436: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.436: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.436: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.436: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.436: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.436: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.436: D/PointerTracker(23736): zero pressure with age: 60
+01-17 07:07:12.436: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.436: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.436: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.436: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.436: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.436: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.436: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.436: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.436: D/PointerTracker(23736): zero pressure with age: 69
+01-17 07:07:12.446: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.446: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.446: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.446: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.446: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.446: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.446: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.446: I/TrackedPointer(23736): updating Pointer - size/old size: 0.98734176
+01-17 07:07:12.446: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.446: D/PointerTracker(23736): zero pressure with age: 86
+01-17 07:07:12.456: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.466: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.466: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.466: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.466: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.466: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.466: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.466: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.466: D/PointerTracker(23736): zero pressure with age: 94
+01-17 07:07:12.466: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.476: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.476: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.476: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.476: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.476: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.476: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.476: I/TrackedPointer(23736): updating Pointer - size/old size: 0.97530866
+01-17 07:07:12.476: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.476: D/PointerTracker(23736): zero pressure with age: 102
+01-17 07:07:12.476: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.496: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.496: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.496: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.496: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.496: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.496: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.496: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.496: D/PointerTracker(23736): zero pressure with age: 111
+01-17 07:07:12.496: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:12.496: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.496: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerUp xxxxxxxxxxx------------------------
+01-17 07:07:12.496: I/PointerTracker(23736): wentUp size: 0.0 tracked size 0.0 TOOL_TYPE_UNKNOWN age:111 age: 111
+01-17 07:07:12.496: V/TRACKED POINTER(23736): setting pointer 0 went up. Is stylus: false
+01-17 07:07:12.496: I/PointerTracker(23736): touch.wentUp() sequenceNumber: 19 id: 0 type: TOOL_TYPE_UNKNOWN age:111 isrejected: false isReadyToRemove:true Size: 0.0. Age: 111 event time: 12041407 lagTime: 0 isExpiredStylus: false ( 1022.0, 402.0 ) size: 3
+01-17 07:07:12.496: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:12.496: V/PointerTracker(23736): ---cleanup when necessary. size: 3
+01-17 07:07:12.496: I/WacomUtil(23736):  %%tt: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1554 event time: 12041407 lagTime: 0 isExpiredStylus: false ( 919.0, 179.0 ) of 3
+01-17 07:07:12.496: I/WacomUtil(23736):  %%tt: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.15882353. Age: 1341 event time: 12041407 lagTime: 0 isExpiredStylus: false ( 1215.0, 799.0 ) of 3
+01-17 07:07:12.496: I/WacomUtil(23736):  %%tt: sequenceNumber: 19 id: 0 type: TOOL_TYPE_UNKNOWN age:111 isrejected: false isReadyToRemove:true Size: 0.0. Age: 111 event time: 12041407 lagTime: 0 isExpiredStylus: false ( 1022.0, 402.0 ) of 3
+01-17 07:07:12.496: D/PointerTracker(23736): ---------------cleanup   trackedTouches size 3-----------
+01-17 07:07:12.496: D/PointerTracker(23736): cleanup checking: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1554 event time: 12041407 lagTime: 0 isExpiredStylus: false ( 919.0, 179.0 )
+01-17 07:07:12.496: D/PointerTracker(23736): cleanup checking: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.15882353. Age: 1341 event time: 12041407 lagTime: 0 isExpiredStylus: false ( 1215.0, 799.0 )
+01-17 07:07:12.496: D/PointerTracker(23736): cleanup checking: sequenceNumber: 19 id: 0 type: TOOL_TYPE_UNKNOWN age:111 isrejected: false isReadyToRemove:true Size: 0.0. Age: 111 event time: 12041407 lagTime: 0 isExpiredStylus: false ( 1022.0, 402.0 )
+01-17 07:07:12.496: D/PointerTracker(23736): processUpTouch pointerID: 0
+01-17 07:07:12.496: V/PointerTracker(23736): logUpTouch  there was no stylus touch
+01-17 07:07:12.496: D/PointerTracker(23736): remove touch 0 size 3 removed: true  size 2
+01-17 07:07:12.506: I/PointerTracker(23736):   touches count 2 , pressure: 0.0 stylus false
+01-17 07:07:12.506: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 1 pointer count: 2
+01-17 07:07:12.506: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.506: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.506: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.506: I/TrackedPointer(23736): updating Pointer - size/old size: 0.97530866
+01-17 07:07:12.506: V/PointerTracker(23736): pointers: 2, Number of events: 2
+01-17 07:07:12.506: I/PointerTracker(23736):   touches count 2 , pressure: 0.0 stylus false
+01-17 07:07:12.506: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 1 pointer count: 2
+01-17 07:07:12.506: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.506: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.506: W/TrackedPointer(23736):  pen jumped more than 200 
+01-17 07:07:12.506: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.506: V/PointerTracker(23736): pointers: 2, Number of events: 2
+01-17 07:07:12.506: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.506: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:12.506: W/PointerTracker(23736): there is a stylus touch: false
+01-17 07:07:12.506: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12041428
+01-17 07:07:12.506: D/PointerTracker(23736): adding tracked touch sequenceNumber: 20 id: 0 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.0. Age: 0 event time: 12041428 lagTime: 0 isExpiredStylus: false ( 1023.0, 396.0 ) to list of size 2
+01-17 07:07:12.506: D/PointerTracker(23736): existing: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1579 event time: 12041432 lagTime: 0 isExpiredStylus: false ( 897.46564, 145.19777 )
+01-17 07:07:12.506: D/PointerTracker(23736): existing: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.16078432. Age: 1366 event time: 12041432 lagTime: 0 isExpiredStylus: false ( 1215.0, 799.0 )
+01-17 07:07:12.506: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.506: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.516: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:12.536: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.536: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.536: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.536: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.536: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.536: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.536: I/TrackedPointer(23736): updating Pointer - size/old size: 0.9634146
+01-17 07:07:12.536: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.536: D/PointerTracker(23736): zero pressure with age: 28
+01-17 07:07:12.536: V/PointerTracker(23736): pointers: 3, Number of events: 3
+01-17 07:07:12.536: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.536: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.536: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.536: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.536: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.536: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.536: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.536: D/PointerTracker(23736): zero pressure with age: 37
+01-17 07:07:12.546: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.566: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.566: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.566: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.566: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.566: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.566: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.566: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.566: D/PointerTracker(23736): zero pressure with age: 61
+01-17 07:07:12.566: V/PointerTracker(23736): pointers: 3, Number of events: 3
+01-17 07:07:12.576: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.576: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerUp xxxxxxxxxxx------------------------
+01-17 07:07:12.576: I/PointerTracker(23736): wentUp size: 0.0 tracked size 0.0 TOOL_TYPE_UNKNOWN age:61 age: 61
+01-17 07:07:12.576: V/TRACKED POINTER(23736): setting pointer 0 went up. Is stylus: false
+01-17 07:07:12.576: I/PointerTracker(23736): touch.wentUp() sequenceNumber: 20 id: 0 type: TOOL_TYPE_UNKNOWN age:61 isrejected: false isReadyToRemove:true Size: 0.0. Age: 61 event time: 12041489 lagTime: 0 isExpiredStylus: false ( 1021.5, 398.0 ) size: 3
+01-17 07:07:12.576: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:12.576: V/PointerTracker(23736): ---cleanup when necessary. size: 3
+01-17 07:07:12.576: I/WacomUtil(23736):  %%tt: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1636 event time: 12041489 lagTime: 0 isExpiredStylus: false ( 918.0, 174.0 ) of 3
+01-17 07:07:12.576: I/WacomUtil(23736):  %%tt: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.15882353. Age: 1423 event time: 12041489 lagTime: 0 isExpiredStylus: false ( 1215.0, 799.0 ) of 3
+01-17 07:07:12.576: I/WacomUtil(23736):  %%tt: sequenceNumber: 20 id: 0 type: TOOL_TYPE_UNKNOWN age:61 isrejected: false isReadyToRemove:true Size: 0.0. Age: 61 event time: 12041489 lagTime: 0 isExpiredStylus: false ( 1021.5, 398.0 ) of 3
+01-17 07:07:12.576: D/PointerTracker(23736): ---------------cleanup   trackedTouches size 3-----------
+01-17 07:07:12.576: D/PointerTracker(23736): cleanup checking: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1636 event time: 12041489 lagTime: 0 isExpiredStylus: false ( 918.0, 174.0 )
+01-17 07:07:12.576: D/PointerTracker(23736): cleanup checking: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.15882353. Age: 1423 event time: 12041489 lagTime: 0 isExpiredStylus: false ( 1215.0, 799.0 )
+01-17 07:07:12.576: D/PointerTracker(23736): cleanup checking: sequenceNumber: 20 id: 0 type: TOOL_TYPE_UNKNOWN age:61 isrejected: false isReadyToRemove:true Size: 0.0. Age: 61 event time: 12041489 lagTime: 0 isExpiredStylus: false ( 1021.5, 398.0 )
+01-17 07:07:12.576: D/PointerTracker(23736): processUpTouch pointerID: 0
+01-17 07:07:12.576: V/PointerTracker(23736): logUpTouch  there was no stylus touch
+01-17 07:07:12.576: D/PointerTracker(23736): remove touch 0 size 3 removed: true  size 2
+01-17 07:07:12.576: I/PointerTracker(23736):   touches count 2 , pressure: 0.0 stylus false
+01-17 07:07:12.576: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 1 pointer count: 2
+01-17 07:07:12.576: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.576: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.576: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.576: I/TrackedPointer(23736): updating Pointer - size/old size: 0.962963
+01-17 07:07:12.576: V/PointerTracker(23736): pointers: 2, Number of events: 2
+01-17 07:07:12.586: I/PointerTracker(23736):   touches count 2 , pressure: 0.0 stylus false
+01-17 07:07:12.586: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 1 pointer count: 2
+01-17 07:07:12.586: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.586: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.586: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.586: V/PointerTracker(23736): pointers: 2, Number of events: 1
+01-17 07:07:12.586: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.586: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerDown xxxxxxxxxxx------------------------
+01-17 07:07:12.586: W/PointerTracker(23736): there is a stylus touch: false
+01-17 07:07:12.586: I/TrackedPointer(23736): creating Tracked Pointer eventTime: 12041506
+01-17 07:07:12.586: D/PointerTracker(23736): adding tracked touch sequenceNumber: 21 id: 0 type: TOOL_TYPE_UNKNOWN age:0 isrejected: false isReadyToRemove:false Size: 0.0. Age: 0 event time: 12041506 lagTime: 0 isExpiredStylus: false ( 1022.0, 398.0 ) to list of size 2
+01-17 07:07:12.586: D/PointerTracker(23736): existing: sequenceNumber: 13 id: 1 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.0. Age: 1653 event time: 12041506 lagTime: 0 isExpiredStylus: false ( 914.0, 173.0 )
+01-17 07:07:12.586: D/PointerTracker(23736): existing: sequenceNumber: 15 id: 3 type: TOOL_TYPE_FINGER isrejected: true isReadyToRemove:false Size: 0.15882353. Age: 1440 event time: 12041506 lagTime: 0 isExpiredStylus: false ( 1215.0, 799.0 )
+01-17 07:07:12.586: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.596: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.596: V/PointerTracker(23736): pointers: 3, Number of events: 1
+01-17 07:07:12.596: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.596: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.596: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.596: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.596: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.596: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.596: I/TrackedPointer(23736): updating Pointer - size/old size: 0.97530866
+01-17 07:07:12.596: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.596: D/PointerTracker(23736): zero pressure with age: 17
+01-17 07:07:12.606: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.606: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.606: V/PointerTracker(23736): POINTER_MOVE idx0 ID: 0 pointer count: 3
+01-17 07:07:12.606: V/PointerTracker(23736): ------------------------xxxxxxxxx updateTouchesPointerMove xxxxxxxxxxx------------------------
+01-17 07:07:12.606: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.606: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.606: I/TrackedPointer(23736): creating Tracked Update Pointer
+01-17 07:07:12.606: I/TrackedPointer(23736): updating Pointer - size/old size: 0.98734176
+01-17 07:07:12.606: V/PointerTracker(23736): ------------------------xxxxxxxxx determineIfStylusTouchOnMove xxxxxxxxxxx------------------------
+01-17 07:07:12.606: D/PointerTracker(23736): zero pressure with age: 26
+01-17 07:07:12.606: V/PointerTracker(23736): pointers: 3, Number of events: 2
+01-17 07:07:12.636: D/ViewRootImpl(23736): [ViewRootImpl] action cancel - 1, s:0 s(atmel):190.0 eccen:-1.0
+01-17 07:07:12.636: I/PointerTracker(23736):   touches count 3 , pressure: 0.0 stylus false
+01-17 07:07:12.636: E/PointerTracker(23736): UPDATE TOUCHES ACTION CANCEL
+01-17 07:07:12.636: V/PointerTracker(23736): pointers: 3, Number of events: 3
+01-17 07:07:13.236: I/ConnectionManager(23736): scan timeout runs
