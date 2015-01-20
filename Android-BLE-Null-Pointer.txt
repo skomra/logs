@@ -1,0 +1,28 @@
+01-21 06:51:54.871: D/BluetoothGatt(12666): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-21 06:51:54.871: D/BluetoothGatt(12666): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-21 06:51:54.921: D/BluetoothGatt(12666): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-21 06:51:54.921: D/BluetoothGatt(12666): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-21 06:51:54.921: I/Client(12666): onPause
+01-21 06:51:54.921: I/WacomLibrary(12666): onPause
+01-21 06:51:54.931: E/WacomLibrary(12666): rubensltexx _______ strokes. cuttoff :200[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] strokes: 41. averagesIncludingZero: 0.0. averagesOfNonZero: -1.0. percentNonZero: 0.0 max delay 0 standard deviation: -1.0 count beyond 2 SD 41. % > 100: NaN maxSize 0.098039225
+01-21 06:51:54.931: I/WacomLibrary(12666): append to file /storage/emulated/0/Android/data/com.wacom.android.example.app/wacom_log.txt .
+01-21 06:51:54.941: D/WacomLibrary(12666): disconnectBluetoothGatt
+01-21 06:51:54.941: D/BluetoothGatt(12666): cancelOpen() - device: C7:4D:CF:BF:A1:1B
+01-21 06:51:54.941: I/ConnectionManager(12666): identifying state as disconnected
+01-21 06:51:54.941: D/BluetoothGatt(12666): close()
+01-21 06:51:54.941: D/BluetoothGatt(12666): unregisterApp() - mClientIf=6
+01-21 06:51:54.941: D/BluetoothGatt(12666): onClientConnectionState() - status=0 clientIf=6 device=C7:4D:CF:BF:A1:1B
+01-21 06:51:54.941: W/BluetoothGatt(12666): Unhandled exception in callback
+01-21 06:51:54.941: W/BluetoothGatt(12666): java.lang.NullPointerException
+01-21 06:51:54.941: W/BluetoothGatt(12666): 	at android.bluetooth.BluetoothGatt$1.onClientConnectionState(BluetoothGatt.java:173)
+01-21 06:51:54.941: W/BluetoothGatt(12666): 	at android.bluetooth.IBluetoothGattCallback$Stub.onTransact(IBluetoothGattCallback.java:71)
+01-21 06:51:54.941: W/BluetoothGatt(12666): 	at android.os.Binder.execTransact(Binder.java:404)
+01-21 06:51:54.941: W/BluetoothGatt(12666): 	at dalvik.system.NativeStart.run(Native Method)
+01-21 06:51:54.941: E/offset table(12666): allstring 0
+01-21 06:51:54.941: E/WacomLibrary(12666): bad_y	offset		freq	skip	count
+01-21 06:51:54.941: E/WacomLibrary(12666): -----------
+01-21 06:51:54.941: E/WacomLibrary(12666): file created? true
+01-21 06:51:54.941: D/Client(12666): onPause Complete
+01-21 06:51:54.971: D/MediaScannerConnection(12666): Scanning file 7klwibgf7fvntblfd7(7Budiwrd7dblb7cwv5obcwv5budiwrd5fxbvhtf5bhh7obcwv_twg5lxl
+01-21 06:51:54.981: D/MediaScannerConnection(12666): Scanning file 7klwibgf7fvntblfd7(7Budiwrd7dblb7cwv5obcwv5budiwrd5fxbvhtf5bhh7:(/*,_vntlr_hbkk_weefklk5lxl
+01-21 06:51:55.521: I/Client(12666): onStop
