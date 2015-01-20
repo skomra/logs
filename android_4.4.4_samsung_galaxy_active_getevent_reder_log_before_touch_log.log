@@ -1,0 +1,515 @@
+01-20 08:55:41.059: I/DrawView(31033): postTranslate 0.0, 0.0
+01-20 08:55:41.059: I/DrawView(31033): got density 1.3312500715255737
+01-20 08:55:41.059: I/Brush(31033): size 7
+01-20 08:55:41.059: I/Brush(31033): got brush size 7
+01-20 08:55:41.099: D/AbsListView(31033): Get MotionRecognitionManager
+01-20 08:55:41.119: I/Client(31033): onStart
+01-20 08:55:41.119: I/Client(31033): onResume
+01-20 08:55:41.119: D/Activity(31033): #1 setTransGradationModeColor false
+01-20 08:55:41.119: D/Activity(31033): #4 setTransGradationMode to false:
+01-20 08:55:41.119: I/Client(31033): initLibrary
+01-20 08:55:41.119: I/WacomLibrary(31033): -------------------constructor-----------------
+01-20 08:55:41.119: V/ParserFactory(31033): filtering level 7 7
+01-20 08:55:41.119: V/ParserFactory(31033): not setting sss
+01-20 08:55:41.119: W/EventFilter(31033): set filtering level to 7
+01-20 08:55:41.129: E/CoordinateOfsetter(31033): view dimensions 0,0
+01-20 08:55:41.129: W/CoordinateOfsetter(31033): settingHandedness0
+01-20 08:55:41.129: I/CoordinateOfsetter(31033): attempting to set device: rubensltexx
+01-20 08:55:41.129: W/CoordinateOfsetter(31033): unknown device name, setting to default device
+01-20 08:55:41.129: I/WacomLibrary(31033): Debug-infos:
+01-20 08:55:41.129: I/WacomLibrary(31033):  OS Version: 3.4.0-2859502(T365XXU1ANIB)
+01-20 08:55:41.129: I/WacomLibrary(31033):  Codename: REL
+01-20 08:55:41.129: I/WacomLibrary(31033):  Release: 4.4.4
+01-20 08:55:41.129: I/WacomLibrary(31033):  OS API Level: 19
+01-20 08:55:41.129: I/WacomLibrary(31033):  Device: rubenslte
+01-20 08:55:41.129: I/WacomLibrary(31033):  Model (and Product): SM-T365 (rubensltexx)
+01-20 08:55:41.129: I/WacomLibrary(31033): CONTEXT: orientation == Configuration.ORIENTATION_LANDSCAPE
+01-20 08:55:41.129: W/WacomLibrary(31033): network false
+01-20 08:55:41.129: E/WacomLibrary(31033): ------initializeBluetoothAdapter()------
+01-20 08:55:41.149: I/WacomLibrary(31033): initializeBluetoothAdapter() true
+01-20 08:55:41.149: I/CoordinateOfsetter(31033): coordinate offsetter dimensions set to 1280,800
+01-20 08:55:41.149: W/ConnectionManager(31033): setting disconnected when already disconnected
+01-20 08:55:41.149: I/ConnectionManager(31033): identifying state as disconnected
+01-20 08:55:41.149: I/WacomLibrary(31033): ON RESUME LIBRARY BT address is  STATE_DISCONNECTED_FROM_STYLUS, pressureNotificationsRequested false, bluetoothAddress null
+01-20 08:55:41.149: I/ConnectionManager(31033): requestAddressAsyncscan == null STATE_DISCONNECTED_FROM_STYLUS, pressureNotificationsRequested false, bluetoothAddress null
+01-20 08:55:41.149: I/ConnectionManager(31033): setting state STATE_SCANNING_FOR_STYLUS
+01-20 08:55:41.149: I/ConnectionManager(31033): setting state STATE_SCANNING_FOR_STYLUS
+01-20 08:55:41.159: I/DeviceScan(31033): minRSSI is -81
+01-20 08:55:41.159: I/DeviceScan(31033): Adapter android.bluetooth.BluetoothAdapter@4266bcb8 mHandler Handler (android.os.Handler) {426616a0} wsc com.wacom.android.library.ConnectionManager$1@42666e48 mcontext: android.app.ContextImpl@4258c560 mScanning false mLeScanCallback null
+01-20 08:55:41.159: W/DeviceScan(31033): creating callback in device scan
+01-20 08:55:41.159: W/DeviceScan(31033): ------scanLeDevice() is now going to run : true
+01-20 08:55:41.159: D/BluetoothAdapter(31033): startLeScan(): null
+01-20 08:55:41.199: D/BluetoothAdapter(31033): onClientRegistered() - status=0 clientIf=6
+01-20 08:55:41.199: I/DeviceScan(31033): Adapter android.bluetooth.BluetoothAdapter@4266bcb8 mHandler Handler (android.os.Handler) {426616a0} wsc com.wacom.android.library.ConnectionManager$1@42666e48 mcontext: android.app.ContextImpl@4258c560 mScanning true mLeScanCallback com.wacom.android.library.DeviceScan$2@426719c0
+01-20 08:55:41.199: E/CoordinateOfsetter(31033): view dimensions 0,0
+01-20 08:55:41.199: D/Client(31033): onresume Complete
+01-20 08:55:41.229: I/Adreno-EGL(31033): <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build: AU_LINUX_ANDROID_LNX.LA.3.5.1_RB1.04.04.04.048.065_msm8226_LNX.LA.3.5.1_RB1__release_AU ()
+01-20 08:55:41.229: I/Adreno-EGL(31033): OpenGL ES Shader Compiler Version: E031.24.00.15
+01-20 08:55:41.229: I/Adreno-EGL(31033): Build Date: 06/30/14 Mon
+01-20 08:55:41.229: I/Adreno-EGL(31033): Local Branch: 
+01-20 08:55:41.229: I/Adreno-EGL(31033): Remote Branch: quic/LNX.LA.3.5.1_RB1.2
+01-20 08:55:41.229: I/Adreno-EGL(31033): Local Patches: NONE
+01-20 08:55:41.229: I/Adreno-EGL(31033): Reconstruct Branch: AU_LINUX_ANDROID_LNX.LA.3.5.1_RB1.04.04.04.048.065 +  NOTHING
+01-20 08:55:41.249: W/DeviceScan(31033): onLeScan
+01-20 08:55:41.249: V/DeviceScan(31033): uuid 00001523-1212-efde-1523-785feabcd123
+01-20 08:55:41.249: I/DeviceScan(31033): found supported device 
+01-20 08:55:41.249: I/DeviceScan(31033): result C7:4D:CF:BF:A1:1B rssi: -50 is wacom: true
+01-20 08:55:41.249: W/DeviceScan(31033): ------scanLeDevice() is now going to run : false
+01-20 08:55:41.249: D/BluetoothAdapter(31033): stopLeScan()
+01-20 08:55:41.259: I/HWUI(31033): EGLImpl-HWUI Protected EGL context created
+01-20 08:55:41.269: D/OpenGLRenderer(31033): Enabling debug mode 0
+01-20 08:55:41.309: I/DrawView(31033): postTranslate 0.0, 0.0
+01-20 08:55:41.359: I/DeviceScan(31033): Calling wsc.returnAddress()
+01-20 08:55:41.359: I/ConnectionManager(31033): managerScanCallback
+01-20 08:55:41.359: V/WacomLibrary(31033): scan returned address C7:4D:CF:BF:A1:1B STATE_SCANNING_FOR_STYLUS, pressureNotificationsRequested false, bluetoothAddress C7:4D:CF:BF:A1:1B
+01-20 08:55:41.359: I/WacomLibrary(31033): **startConnecting C7:4D:CF:BF:A1:1B old:  STATE_SCANNING_FOR_STYLUS, pressureNotificationsRequested false, bluetoothAddress C7:4D:CF:BF:A1:1B
+01-20 08:55:41.359: D/WacomLibrary(31033): Trying to create a new connection samsungFriendlyConnectGatt.
+01-20 08:55:41.359: I/ConnectionManager(31033): setting state STATE_CONNECTING_TO_STYLUS
+01-20 08:55:41.419: I/DrawView(31033): postTranslate 0.0, 0.0
+01-20 08:55:41.459: D/BluetoothGatt(31033): connect() - device: C7:4D:CF:BF:A1:1B, auto: false
+01-20 08:55:41.459: D/BluetoothGatt(31033): registerApp()
+01-20 08:55:41.459: D/BluetoothGatt(31033): registerApp() - UUID=5517face-344b-411c-8d16-daf8f06391e7
+01-20 08:55:41.469: I/BluetoothGatt(31033): Client registered, waiting for callback
+01-20 08:55:41.469: D/BluetoothGatt(31033): onClientRegistered() - status=0 clientIf=6
+01-20 08:55:41.489: I/DrawView(31033): postTranslate 0.0, 0.0
+01-20 08:55:41.529: D/BluetoothGatt(31033): onClientConnectionState() - status=0 clientIf=6 device=C7:4D:CF:BF:A1:1B
+01-20 08:55:41.529: I/WacomLibrary(31033): onConnectionStateChange 0
+01-20 08:55:41.529: I/ConnectionManager(31033): setting state STATE_CONNECTED_TO_STYLUS
+01-20 08:55:41.529: I/WacomLibrary(31033): Connected to GATT server.Resumed is: true
+01-20 08:55:41.529: D/BluetoothGatt(31033): discoverServices() - device: C7:4D:CF:BF:A1:1B
+01-20 08:55:41.529: I/WacomLibrary(31033): Attempting to start service discovery:true
+01-20 08:55:41.529: D/BluetoothGatt(31033): onGetService() - Device=C7:4D:CF:BF:A1:1B UUID=00001800-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.529: D/BluetoothGatt(31033): onGetService() - Device=C7:4D:CF:BF:A1:1B UUID=00001801-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.539: D/BluetoothGatt(31033): onGetService() - Device=C7:4D:CF:BF:A1:1B UUID=00001523-1212-efde-1523-785feabcd123
+01-20 08:55:41.539: D/BluetoothGatt(31033): onGetService() - Device=C7:4D:CF:BF:A1:1B UUID=0000180f-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.539: D/BluetoothGatt(31033): onGetService() - Device=C7:4D:CF:BF:A1:1B UUID=0000180a-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.539: D/BluetoothGatt(31033): onGetService() - Device=C7:4D:CF:BF:A1:1B UUID=6e400001-b5a3-f393-e0a9-e50e24dcca9e
+01-20 08:55:41.539: D/BluetoothGatt(31033): onGetCharacteristic() - Device=C7:4D:CF:BF:A1:1B UUID=00002a00-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.539: D/BluetoothGatt(31033): onGetCharacteristic() - Device=C7:4D:CF:BF:A1:1B UUID=00002a01-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.539: D/BluetoothGatt(31033): onGetCharacteristic() - Device=C7:4D:CF:BF:A1:1B UUID=00002a04-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.539: D/BluetoothGatt(31033): onGetCharacteristic() - Device=C7:4D:CF:BF:A1:1B UUID=00002a05-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.549: D/BluetoothGatt(31033): onGetCharacteristic() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:41.549: D/BluetoothGatt(31033): onGetCharacteristic() - Device=C7:4D:CF:BF:A1:1B UUID=00001525-1212-efde-1523-785feabcd123
+01-20 08:55:41.549: D/BluetoothGatt(31033): onGetCharacteristic() - Device=C7:4D:CF:BF:A1:1B UUID=00002a19-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.559: D/BluetoothGatt(31033): onGetCharacteristic() - Device=C7:4D:CF:BF:A1:1B UUID=00002a29-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.559: D/BluetoothGatt(31033): onGetCharacteristic() - Device=C7:4D:CF:BF:A1:1B UUID=00002a24-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.559: D/BluetoothGatt(31033): onGetCharacteristic() - Device=C7:4D:CF:BF:A1:1B UUID=00002a25-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.559: D/BluetoothGatt(31033): onGetCharacteristic() - Device=C7:4D:CF:BF:A1:1B UUID=00002a26-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.569: D/BluetoothGatt(31033): onGetCharacteristic() - Device=C7:4D:CF:BF:A1:1B UUID=00002a28-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.569: D/BluetoothGatt(31033): onGetCharacteristic() - Device=C7:4D:CF:BF:A1:1B UUID=00002a50-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.569: D/BluetoothGatt(31033): onGetCharacteristic() - Device=C7:4D:CF:BF:A1:1B UUID=6e400002-b5a3-f393-e0a9-e50e24dcca9e
+01-20 08:55:41.569: D/BluetoothGatt(31033): onGetDescriptor() - Device=C7:4D:CF:BF:A1:1B UUID=00002902-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.569: D/BluetoothGatt(31033): onGetDescriptor() - Device=C7:4D:CF:BF:A1:1B UUID=00002902-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.569: D/BluetoothGatt(31033): onGetDescriptor() - Device=C7:4D:CF:BF:A1:1B UUID=00002902-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.579: D/BluetoothGatt(31033): onSearchComplete() = Device=C7:4D:CF:BF:A1:1B Status=0
+01-20 08:55:41.579: I/WacomLibrary(31033): onServicesDiscovered
+01-20 08:55:41.579: I/WacomLibrary(31033): onServicesDiscovered, GATT_SUCCESS received status: 0
+01-20 08:55:41.579: E/WacomLibrary(31033):  batteryCharacteristic == null
+01-20 08:55:41.579: E/WacomLibrary(31033):  pressureCharacteristic == null
+01-20 08:55:41.579: E/ServiceHelper(31033): bgsDeviceInformationService is not null
+01-20 08:55:41.579: D/BluetoothGatt(31033): readCharacteristic() - uuid: 00002a29-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.649: D/BluetoothGatt(31033): onCharacteristicRead() - Device=C7:4D:CF:BF:A1:1B UUID=00002a29-0000-1000-8000-00805f9b34fb Status=0
+01-20 08:55:41.649: D/BluetoothGatt(31033): readCharacteristic() - uuid: 00002a24-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.839: D/BluetoothGatt(31033): onCharacteristicRead() - Device=C7:4D:CF:BF:A1:1B UUID=00002a24-0000-1000-8000-00805f9b34fb Status=0
+01-20 08:55:41.839: D/BluetoothGatt(31033): readCharacteristic() - uuid: 00002a25-0000-1000-8000-00805f9b34fb
+01-20 08:55:41.939: D/BluetoothGatt(31033): onCharacteristicRead() - Device=C7:4D:CF:BF:A1:1B UUID=00002a25-0000-1000-8000-00805f9b34fb Status=0
+01-20 08:55:41.939: D/BluetoothGatt(31033): readCharacteristic() - uuid: 00002a26-0000-1000-8000-00805f9b34fb
+01-20 08:55:42.039: D/BluetoothGatt(31033): onCharacteristicRead() - Device=C7:4D:CF:BF:A1:1B UUID=00002a26-0000-1000-8000-00805f9b34fb Status=0
+01-20 08:55:42.039: D/BluetoothGatt(31033): readCharacteristic() - uuid: 00002a28-0000-1000-8000-00805f9b34fb
+01-20 08:55:42.129: D/BluetoothGatt(31033): onCharacteristicRead() - Device=C7:4D:CF:BF:A1:1B UUID=00002a28-0000-1000-8000-00805f9b34fb Status=0
+01-20 08:55:42.129: D/BluetoothGatt(31033): readCharacteristic() - uuid: 00002a50-0000-1000-8000-00805f9b34fb
+01-20 08:55:42.229: D/BluetoothGatt(31033): onCharacteristicRead() - Device=C7:4D:CF:BF:A1:1B UUID=00002a50-0000-1000-8000-00805f9b34fb Status=0
+01-20 08:55:42.229: W/ConnectionManager(31033): setting connected when already connected
+01-20 08:55:42.229: I/ConnectionManager(31033): setting state STATE_CONNECTED_TO_STYLUS
+01-20 08:55:42.229: V/WacomLibrary(31033): 0x56a 0x328 0x1
+01-20 08:55:42.229: V/WacomLibrary(31033): all servicesDiscovered, requesting pressure notificationandroid.bluetooth.BluetoothGatt@42c961b0
+01-20 08:55:42.229: D/ServiceHelper(31033): call to iterateServices
+01-20 08:55:42.229: V/WacomIdentifiers(31033): entry for 00001801-0000-1000-8000-00805f9b34fb not found
+01-20 08:55:42.229: D/ServiceHelper(31033): Service->Wacom Pressure Service
+01-20 08:55:42.229: V/WacomUtil(31033): ------------------------xxxxxxxxxxxxxxxxxxxx------------------------
+01-20 08:55:42.229: D/ServiceHelper(31033): Characteristic UUID 00001524-1212-efde-1523-785feabcd123
+01-20 08:55:42.229: D/ServiceHelper(31033): 	Characteristic->Wacom Stylus Pressure
+01-20 08:55:42.229: V/WacomUtil(31033): ------------------------xxxxxxxxxxxxxxxxxxxx------------------------
+01-20 08:55:42.229: D/ServiceHelper(31033): Characteristic UUID 00001525-1212-efde-1523-785feabcd123
+01-20 08:55:42.229: V/WacomIdentifiers(31033): entry for 00001525-1212-efde-1523-785feabcd123 not found
+01-20 08:55:42.229: D/ServiceHelper(31033): 	Characteristic->uknown characteristic
+01-20 08:55:42.229: D/ServiceHelper(31033): Service->Battery Service
+01-20 08:55:42.229: V/WacomUtil(31033): ------------------------xxxxxxxxxxxxxxxxxxxx------------------------
+01-20 08:55:42.229: D/ServiceHelper(31033): Characteristic UUID 00002a19-0000-1000-8000-00805f9b34fb
+01-20 08:55:42.229: D/ServiceHelper(31033): 	Characteristic->Battery Level
+01-20 08:55:42.229: V/WacomIdentifiers(31033): entry for 6e400001-b5a3-f393-e0a9-e50e24dcca9e not found
+01-20 08:55:42.229: D/WacomLibrary(31033): setCharacteristicNotification for android.bluetooth.BluetoothGattCharacteristic@42c9b6f0
+01-20 08:55:42.229: D/BluetoothGatt(31033): setCharacteristicNotification() - uuid: 00001524-1212-efde-1523-785feabcd123 enable: true
+01-20 08:55:42.239: D/BluetoothGatt(31033): writeDescriptor() - uuid: 00002902-0000-1000-8000-00805f9b34fb
+01-20 08:55:42.239: I/WacomLibrary(31033): Wacom stylus pressure enabled
+01-20 08:55:42.329: D/BluetoothGatt(31033): onDescriptorWrite() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:42.579: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:42.579: V/dispatch hover(31033): MotionEvent { action=ACTION_HOVER_ENTER, id[0]=-1, x[0]=640.0, y[0]=400.0, toolType[0]=TOOL_TYPE_STYLUS, buttonState=BUTTON_PRIMARY, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=22003841, downTime=22003841, deviceId=0, source=0x5002 }
+01-20 08:55:42.579: V/dispatch hover(31033): x precision: 1.0 y precision: 1.0
+01-20 08:55:42.579: V/dispatch hover(31033): event    received at 22003841--------------------
+01-20 08:55:42.579: V/dispatch hover(31033): event   processed at 22003848 with 7 delay 
+01-20 08:55:42.579: V/Event Dump(31033): pointer index: 0 id:-1 tt:2 touch size: 0.0
+01-20 08:55:42.579: V/dispatch hover(31033): --------------------------------------------
+01-20 08:55:42.579: D/Client(31033): button: 1
+01-20 08:55:42.719: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:43.739: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:43.789: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:43.839: D/ViewRootImpl(31033): ViewPostImeInputStage ACTION_DOWN
+01-20 08:55:43.839: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:43.839: I/WacomLibrary(31033): 22005083  ptr id 0 (190.0, 295.0, sz: 0.068627454, p: 1.0)  
+01-20 08:55:43.839: E/CoordinateOfsetter(31033): setting first event
+01-20 08:55:43.839: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:43.839: D/zzTRANSFORM(31033): view.getlocationonscreen :0, 0
+01-20 08:55:43.839: E/CoordinateOfsetter(31033): setting transform
+01-20 08:55:43.839: E/CoordinateOfsetter(31033): view dimensions 1280,800
+01-20 08:55:43.839: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:43.839: D/CoordinateOfsetter maxtrix(31033): Matrix{[1.0, 0.0, 0.0][0.0, 1.0, 0.0][0.0, 0.0, 1.0]}
+01-20 08:55:43.849: I/WacomLibrary(31033): 22005093  ptr id 0 (190.0, 295.0, sz: 0.08235294, p:1.0)  
+01-20 08:55:43.849: I/WacomLibrary(31033): 22005091  ptr id 0 (190.0, 295.0, sz: 0.08235294, p:1.0)  
+01-20 08:55:43.849: I/WacomLibrary(31033): 22005096  ptr id 0 (190.0, 292.0, sz: 0.08235294, p:1.0)  
+01-20 08:55:43.849: I/WacomLibrary(31033): 22005089  ptr id 0 (190.0, 289.0, sz: 0.08235294, p:1.0)  
+01-20 08:55:43.849: I/WacomLibrary(31033): 22005095  ptr id 0 (190.0, 280.0, sz: 0.08235294, p:1.0)  
+01-20 08:55:43.849: I/WacomLibrary(31033): 22005090  ptr id 0 (190.0, 274.0, sz: 0.08235294, p: 1.0)  
+01-20 08:55:43.869: I/WacomLibrary(31033): 22005097  ptr id 0 (190.0, 268.0, sz: 0.08235294, p:1.0)  
+01-20 08:55:43.869: I/WacomLibrary(31033): 22005104  ptr id 0 (190.0, 264.83182, sz: 0.08235294, p: 1.0)  
+01-20 08:55:43.879: I/WacomLibrary(31033): 22005108  ptr id 0 (190.0, 263.0, sz: 0.06666667, p:1.0)  
+01-20 08:55:43.879: I/WacomLibrary(31033): 22005119  ptr id 0 (190.0, 260.0, sz: 0.06666667, p:1.0)  
+01-20 08:55:43.879: I/WacomLibrary(31033): 22005131  ptr id 0 (190.0, 257.0, sz: 0.06666667, p:1.0)  
+01-20 08:55:43.879: I/WacomLibrary(31033): 22005138  ptr id 0 (190.6353, 255.72939, sz: 0.06666667, p: 1.0)  
+01-20 08:55:43.889: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:43.889: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:43.909: I/WacomLibrary(31033): 22005142  ptr id 0 (191.0, 255.0, sz: 0.064705886, p:1.0)  
+01-20 08:55:43.909: I/WacomLibrary(31033): 22005153  ptr id 0 (192.0, 254.0, sz: 0.064705886, p:1.0)  
+01-20 08:55:43.909: I/WacomLibrary(31033): 22005158  ptr id 0 (192.5, 253.5, sz: 0.064705886, p: 1.0)  
+01-20 08:55:43.919: I/WacomLibrary(31033): 22005164  ptr id 0 (193.0, 253.0, sz: 0.0627451, p:1.0)  
+01-20 08:55:43.919: I/WacomLibrary(31033): 22005171  ptr id 0 (193.65437, 253.0, sz: 0.0627451, p: 1.0)  
+01-20 08:55:43.929: I/WacomLibrary(31033): 22005175  ptr id 0 (194.0, 253.0, sz: 0.064705886, p:1.0)  
+01-20 08:55:43.929: I/WacomLibrary(31033): 22005180  ptr id 0 (194.5, 253.0, sz: 0.064705886, p: 1.0)  
+01-20 08:55:43.929: I/WacomLibrary(31033): 22005186  ptr id 0 (195.0, 252.0, sz: 0.06666667, p:1.0)  
+01-20 08:55:43.929: I/WacomLibrary(31033): 22005188  ptr id 0 (195.15099, 251.84901, sz: 0.06666667, p: 1.0)  
+01-20 08:55:43.939: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:43.959: I/WacomLibrary(31033): 22005197  ptr id 0 (197.0, 252.0, sz: 0.08039216, p:1.0)  
+01-20 08:55:43.959: I/WacomLibrary(31033): 22005208  ptr id 0 (200.0, 253.0, sz: 0.08039216, p:1.0)  
+01-20 08:55:43.959: I/WacomLibrary(31033): 22005214  ptr id 0 (201.5, 253.5, sz: 0.08039216, p: 1.0)  
+01-20 08:55:43.969: I/WacomLibrary(31033): 22005219  ptr id 0 (203.0, 254.0, sz: 0.07647059, p:1.0)  
+01-20 08:55:43.969: I/WacomLibrary(31033): 22005221  ptr id 0 (203.47899, 254.15967, sz: 0.07647059, p: 1.0)  
+01-20 08:55:43.989: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:43.989: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:43.999: I/WacomLibrary(31033): 22005230  ptr id 0 (206.0, 255.0, sz: 0.07058824, p:1.0)  
+01-20 08:55:43.999: I/WacomLibrary(31033): 22005241  ptr id 0 (209.0, 256.0, sz: 0.07058824, p:1.0)  
+01-20 08:55:43.999: I/WacomLibrary(31033): 22005252  ptr id 0 (212.0, 257.0, sz: 0.07058824, p:1.0)  
+01-20 08:55:43.999: I/WacomLibrary(31033): 22005254  ptr id 0 (212.50043, 257.1668, sz: 0.07058824, p: 1.0)  
+01-20 08:55:44.009: I/WacomLibrary(31033): 22005264  ptr id 0 (215.0, 258.0, sz: 0.064705886, p:1.0)  
+01-20 08:55:44.009: I/WacomLibrary(31033): 22005271  ptr id 0 (217.01236, 258.67078, sz: 0.064705886, p: 1.0)  
+01-20 08:55:44.039: I/WacomLibrary(31033): 22005275  ptr id 0 (218.0, 259.0, sz: 0.0627451, p:1.0)  
+01-20 08:55:44.039: I/WacomLibrary(31033): 22005286  ptr id 0 (221.0, 260.0, sz: 0.0627451, p:1.0)  
+01-20 08:55:44.039: I/WacomLibrary(31033): 22005288  ptr id 0 (221.4376, 260.14587, sz: 0.0627451, p: 1.0)  
+01-20 08:55:44.039: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.039: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.059: I/WacomLibrary(31033): 22005297  ptr id 0 (224.0, 261.0, sz: 0.064705886, p:1.0)  
+01-20 08:55:44.059: I/WacomLibrary(31033): 22005304  ptr id 0 (225.33688, 261.0, sz: 0.064705886, p: 1.0)  
+01-20 08:55:44.079: I/WacomLibrary(31033): 22005308  ptr id 0 (226.0, 261.0, sz: 0.06666667, p:1.0)  
+01-20 08:55:44.079: I/WacomLibrary(31033): 22005319  ptr id 0 (228.0, 261.0, sz: 0.06666667, p:1.0)  
+01-20 08:55:44.079: I/WacomLibrary(31033): 22005321  ptr id 0 (228.37868, 261.0, sz: 0.06666667, p: 1.0)  
+01-20 08:55:44.079: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.099: I/WacomLibrary(31033): 22005330  ptr id 0 (230.0, 261.0, sz: 0.078431375, p:1.0)  
+01-20 08:55:44.099: I/WacomLibrary(31033): 22005341  ptr id 0 (232.0, 261.0, sz: 0.078431375, p:1.0)  
+01-20 08:55:44.099: I/WacomLibrary(31033): 22005352  ptr id 0 (234.0, 261.0, sz: 0.078431375, p:1.0)  
+01-20 08:55:44.099: I/WacomLibrary(31033): 22005354  ptr id 0 (234.36427, 261.0, sz: 0.078431375, p: 1.0)  
+01-20 08:55:44.119: I/WacomLibrary(31033): 22005363  ptr id 0 (236.0, 260.0, sz: 0.08039216, p:1.0)  
+01-20 08:55:44.119: I/WacomLibrary(31033): 22005371  ptr id 0 (237.36827, 259.31586, sz: 0.08039216, p: 1.0)  
+01-20 08:55:44.139: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.139: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.139: I/WacomLibrary(31033): 22005375  ptr id 0 (238.0, 259.0, sz: 0.078431375, p:1.0)  
+01-20 08:55:44.139: I/WacomLibrary(31033): 22005386  ptr id 0 (239.0, 258.0, sz: 0.078431375, p:1.0)  
+01-20 08:55:44.139: I/WacomLibrary(31033): 22005388  ptr id 0 (239.19212, 257.80786, sz: 0.078431375, p: 1.0)  
+01-20 08:55:44.159: I/WacomLibrary(31033): 22005397  ptr id 0 (241.0, 257.0, sz: 0.08235294, p:1.0)  
+01-20 08:55:44.159: I/WacomLibrary(31033): 22005408  ptr id 0 (243.0, 256.0, sz: 0.08235294, p:1.0)  
+01-20 08:55:44.159: I/WacomLibrary(31033): 22005421  ptr id 0 (245.0, 255.0, sz: 0.08235294, p:1.0)  
+01-20 08:55:44.159: I/WacomLibrary(31033): 22005421  ptr id 0 (245.06111, 254.96944, sz: 0.08235294, p: 1.0)  
+01-20 08:55:44.179: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.189: I/WacomLibrary(31033): 22005430  ptr id 0 (247.0, 255.0, sz: 0.08431373, p:1.0)  
+01-20 08:55:44.189: I/WacomLibrary(31033): 22005438  ptr id 0 (249.11005, 255.0, sz: 0.08431373, p: 1.0)  
+01-20 08:55:44.209: I/WacomLibrary(31033): 22005441  ptr id 0 (250.0, 255.0, sz: 0.07254902, p:1.0)  
+01-20 08:55:44.209: I/WacomLibrary(31033): 22005452  ptr id 0 (253.0, 256.0, sz: 0.07254902, p:1.0)  
+01-20 08:55:44.209: I/WacomLibrary(31033): 22005454  ptr id 0 (253.65361, 256.21786, sz: 0.07254902, p: 1.0)  
+01-20 08:55:44.229: I/WacomLibrary(31033): 22005463  ptr id 0 (257.0, 257.0, sz: 0.064705886, p:1.0)  
+01-20 08:55:44.229: I/WacomLibrary(31033): 22005471  ptr id 0 (259.8832, 258.44162, sz: 0.064705886, p: 1.0)  
+01-20 08:55:44.229: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.249: I/WacomLibrary(31033): 22005474  ptr id 0 (261.0, 259.0, sz: 0.0627451, p:1.0)  
+01-20 08:55:44.249: I/WacomLibrary(31033): 22005485  ptr id 0 (265.0, 261.0, sz: 0.0627451, p:1.0)  
+01-20 08:55:44.249: I/WacomLibrary(31033): 22005491  ptr id 0 (267.0, 262.0, sz: 0.0627451, p: 1.0)  
+01-20 08:55:44.249: I/WacomLibrary(31033): 22005496  ptr id 0 (269.0, 263.0, sz: 0.064705886, p:1.0)  
+01-20 08:55:44.249: I/WacomLibrary(31033): 22005504  ptr id 0 (272.63507, 264.45404, sz: 0.064705886, p: 1.0)  
+01-20 08:55:44.269: I/WacomLibrary(31033): 22005507  ptr id 0 (274.0, 265.0, sz: 0.064705886, p:1.0)  
+01-20 08:55:44.269: I/WacomLibrary(31033): 22005518  ptr id 0 (279.0, 267.0, sz: 0.064705886, p:1.0)  
+01-20 08:55:44.269: I/WacomLibrary(31033): 22005521  ptr id 0 (280.16998, 267.468, sz: 0.064705886, p: 1.0)  
+01-20 08:55:44.279: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.279: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.279: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.289: I/WacomLibrary(31033): 22005530  ptr id 0 (283.0, 269.0, sz: 0.0627451, p:1.0)  
+01-20 08:55:44.289: I/WacomLibrary(31033): 22005538  ptr id 0 (285.91544, 270.4577, sz: 0.0627451, p: 1.0)  
+01-20 08:55:44.309: I/WacomLibrary(31033): 22005541  ptr id 0 (287.0, 271.0, sz: 0.0627451, p:1.0)  
+01-20 08:55:44.309: I/WacomLibrary(31033): 22005552  ptr id 0 (291.0, 273.0, sz: 0.0627451, p:1.0)  
+01-20 08:55:44.309: I/WacomLibrary(31033): 22005554  ptr id 0 (291.97568, 273.48785, sz: 0.0627451, p: 1.0)  
+01-20 08:55:44.329: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.329: I/WacomLibrary(31033): 22005563  ptr id 0 (294.0, 274.0, sz: 0.060784318, p:1.0)  
+01-20 08:55:44.329: I/WacomLibrary(31033): 22005574  ptr id 0 (297.0, 274.0, sz: 0.060784318, p:1.0)  
+01-20 08:55:44.329: I/WacomLibrary(31033): 22005579  ptr id 0 (298.5, 274.0, sz: 0.060784318, p: 1.0)  
+01-20 08:55:44.339: I/WacomLibrary(31033): 22005585  ptr id 0 (300.0, 274.0, sz: 0.060784318, p:1.0)  
+01-20 08:55:44.339: I/WacomLibrary(31033): 22005588  ptr id 0 (300.69717, 274.0, sz: 0.060784318, p: 1.0)  
+01-20 08:55:44.349: I/WacomLibrary(31033): 22005596  ptr id 0 (302.0, 274.0, sz: 0.060784318, p:1.0)  
+01-20 08:55:44.349: I/WacomLibrary(31033): 22005604  ptr id 0 (302.73975, 273.26025, sz: 0.060784318, p: 1.0)  
+01-20 08:55:44.369: I/WacomLibrary(31033): 22005607  ptr id 0 (303.0, 273.0, sz: 0.07450981, p:1.0)  
+01-20 08:55:44.369: I/WacomLibrary(31033): 22005618  ptr id 0 (305.0, 270.0, sz: 0.07450981, p:1.0)  
+01-20 08:55:44.369: I/WacomLibrary(31033): 22005621  ptr id 0 (305.5063, 269.24057, sz: 0.07450981, p: 1.0)  
+01-20 08:55:44.379: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.379: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.399: I/WacomLibrary(31033): 22005629  ptr id 0 (307.0, 265.0, sz: 0.060784318, p:1.0)  
+01-20 08:55:44.399: I/WacomLibrary(31033): 22005641  ptr id 0 (308.0, 259.0, sz: 0.060784318, p:1.0)  
+01-20 08:55:44.399: I/WacomLibrary(31033): 22005646  ptr id 0 (308.5, 256.0, sz: 0.060784318, p: 1.0)  
+01-20 08:55:44.399: I/WacomLibrary(31033): 22005652  ptr id 0 (308.0, 253.0, sz: 0.058823533, p: 1.0)  
+01-20 08:55:44.409: I/WacomLibrary(31033): 22005652  ptr id 0 (308.0, 253.0, sz: 0.058823533, p: 1.0)    ptr id 1 (958.0, 240.0, sz: 0.064705886, p: 1.0)  
+01-20 08:55:44.409: W/PointerTracker(31033):  case 1a - rejected pointer 1, already is a stylus at id: 0, touches size: 1
+01-20 08:55:44.419: I/WacomLibrary(31033): 22005663  ptr id 0 (308.0, 248.0, sz: 0.058823533, p:1.0)    ptr id 1 (958.0, 240.0, sz: 0.0627451, p:1.0)  
+01-20 08:55:44.419: I/WacomLibrary(31033): 22005671  ptr id 0 (307.31055, 244.5527, sz: 0.058823533, p: 1.0)    ptr id 1 (958.0, 240.0, sz: 0.0627451, p: 1.0)  
+01-20 08:55:44.429: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.429: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.439: I/WacomLibrary(31033): 22005674  ptr id 0 (307.0, 243.0, sz: 0.07450981, p:1.0)    ptr id 1 (958.0, 240.0, sz: 0.064705886, p:1.0)  
+01-20 08:55:44.439: I/WacomLibrary(31033): 22005686  ptr id 0 (306.0, 238.0, sz: 0.07450981, p:1.0)    ptr id 1 (958.0, 240.0, sz: 0.064705886, p:1.0)  
+01-20 08:55:44.439: I/WacomLibrary(31033): 22005688  ptr id 0 (305.81934, 237.0967, sz: 0.07450981, p: 1.0)    ptr id 1 (958.0, 240.0, sz: 0.064705886, p: 1.0)  
+01-20 08:55:44.459: I/WacomLibrary(31033): 22005697  ptr id 0 (305.0, 234.0, sz: 0.07058824, p:1.0)    ptr id 1 (958.0, 240.0, sz: 0.068627454, p:1.0)  
+01-20 08:55:44.459: I/WacomLibrary(31033): 22005704  ptr id 0 (304.34268, 231.37067, sz: 0.07058824, p: 1.0)    ptr id 1 (958.0, 240.0, sz: 0.068627454, p: 1.0)  
+01-20 08:55:44.469: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.479: I/WacomLibrary(31033): 22005708  ptr id 0 (304.0, 230.0, sz: 0.0627451, p:1.0)    ptr id 1 (958.0, 240.0, sz: 0.07450981, p:1.0)  
+01-20 08:55:44.479: I/WacomLibrary(31033): 22005719  ptr id 0 (303.0, 228.0, sz: 0.0627451, p:1.0)    ptr id 1 (958.0, 240.0, sz: 0.07450981, p:1.0)  
+01-20 08:55:44.479: I/WacomLibrary(31033): 22005725  ptr id 0 (302.5, 227.0, sz: 0.0627451, p: 1.0)    ptr id 1 (958.0, 240.0, sz: 0.07450981, p: 1.0)  
+01-20 08:55:44.489: I/WacomLibrary(31033): 22005731  ptr id 0 (302.0, 226.0, sz: 0.064705886, p:1.0)    ptr id 1 (959.0, 240.0, sz: 0.0882353, p:1.0)  
+01-20 08:55:44.489: I/WacomLibrary(31033): 22005738  ptr id 0 (301.36133, 225.36131, sz: 0.064705886, p: 1.0)    ptr id 1 (959.0, 240.0, sz: 0.0882353, p: 1.0)  
+01-20 08:55:44.499: I/WacomLibrary(31033): 22005741  ptr id 0 (301.0, 225.0, sz: 0.068627454, p:1.0)    ptr id 1 (959.0, 240.0, sz: 0.09019608, p:1.0)  
+01-20 08:55:44.499: I/WacomLibrary(31033): 22005753  ptr id 0 (300.0, 225.0, sz: 0.068627454, p:1.0)    ptr id 1 (959.0, 239.0, sz: 0.09019608, p:1.0)  
+01-20 08:55:44.499: I/WacomLibrary(31033): 22005754  ptr id 0 (299.84558, 225.0, sz: 0.068627454, p: 1.0)    ptr id 1 (959.0, 238.8456, sz: 0.09019608, p: 1.0)  
+01-20 08:55:44.519: I/WacomLibrary(31033): 22005764  ptr id 0 (300.0, 225.0, sz: 0.07450981, p: 1.0)    ptr id 1 (959.0, 237.0, sz: 0.10000001, p: 1.0)  
+01-20 08:55:44.519: I/WacomLibrary(31033): 22005764  ptr id 0 (300.0, 225.0, sz: 0.07450981, p: 1.0)    ptr id 1 (959.0, 237.0, sz: 0.10000001, p: 1.0)    ptr id 2 (998.0, 365.0, sz: 0.08039216, p: 1.0)  
+01-20 08:55:44.519: W/PointerTracker(31033):  case 1a - rejected pointer 2, already is a stylus at id: 0, touches size: 2
+01-20 08:55:44.519: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.519: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.539: I/WacomLibrary(31033): 22005775  ptr id 0 (300.0, 225.0, sz: 0.060784318, p:1.0)    ptr id 1 (960.0, 234.0, sz: 0.1254902, p:1.0)    ptr id 2 (998.0, 365.0, sz: 0.08627451, p:1.0)  
+01-20 08:55:44.539: I/WacomLibrary(31033): 22005786  ptr id 0 (300.0, 226.0, sz: 0.060784318, p:1.0)    ptr id 1 (961.0, 230.0, sz: 0.1254902, p:1.0)    ptr id 2 (998.0, 366.0, sz: 0.08627451, p:1.0)  
+01-20 08:55:44.539: I/WacomLibrary(31033): 22005788  ptr id 0 (300.0, 226.11427, sz: 0.060784318, p: 1.0)    ptr id 1 (961.11426, 229.54291, sz: 0.1254902, p: 1.0)    ptr id 2 (998.0, 366.11426, sz: 0.08627451, p: 1.0)  
+01-20 08:55:44.559: I/WacomLibrary(31033): 22005798  ptr id 0 (301.0, 227.0, sz: 0.060784318, p:1.0)    ptr id 1 (961.0, 225.0, sz: 0.0, p:1.0)    ptr id 2 (998.0, 367.0, sz: 0.10588236, p:1.0)  
+01-20 08:55:44.559: I/WacomLibrary(31033): 22005809  ptr id 0 (302.0, 229.0, sz: 0.060784318, p:1.0)    ptr id 1 (960.0, 219.0, sz: 0.0, p:1.0)    ptr id 2 (998.0, 369.0, sz: 0.10588236, p:1.0)  
+01-20 08:55:44.559: I/WacomLibrary(31033): 22005814  ptr id 0 (302.5, 230.0, sz: 0.060784318, p: 1.0)    ptr id 1 (959.5, 216.0, sz: 0.0, p: 1.0)    ptr id 2 (998.0, 370.0, sz: 0.10588236, p: 1.0)  
+01-20 08:55:44.569: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.569: I/WacomLibrary(31033): 22005820  ptr id 0 (302.5, 230.0, sz: 0.0627451, p: 1.0)    ptr id 1 (959.5, 216.0, sz: 0.0, p: 1.0)    ptr id 2 (998.0, 370.0, sz: 0.10588236, p: 1.0)  
+01-20 08:55:44.569: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.569: V/DrawView(31033): pointer up action index: 2. pointer up id 2
+01-20 08:55:44.579: I/WacomLibrary(31033): 22005820  ptr id 0 (304.0, 231.0, sz: 0.0627451, p:1.0)    ptr id 1 (967.0, 208.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.579: I/WacomLibrary(31033): 22005821  ptr id 0 (304.21524, 231.21524, sz: 0.0627451, p: 1.0)    ptr id 1 (967.75336, 206.8162, sz: 0.0, p: 1.0)  
+01-20 08:55:44.589: I/WacomLibrary(31033): 22005831  ptr id 0 (307.0, 234.0, sz: 0.06666667, p:1.0)    ptr id 1 (971.0, 201.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.589: I/WacomLibrary(31033): 22005842  ptr id 0 (310.0, 237.0, sz: 0.06666667, p: 1.0)    ptr id 1 (909.0, 183.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.589: I/WacomLibrary(31033): 22005842  ptr id 0 (310.0, 237.0, sz: 0.06666667, p: 1.0)    ptr id 1 (909.0, 183.0, sz: 0.0, p: 1.0)    ptr id 2 (999.0, 375.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.599: W/PointerTracker(31033):  case 1a - rejected pointer 2, already is a stylus at id: 0, touches size: 2
+01-20 08:55:44.599: I/WacomLibrary(31033): 22005854  ptr id 0 (315.0, 241.0, sz: 0.07647059, p:1.0)    ptr id 1 (906.0, 183.0, sz: 0.0, p:1.0)    ptr id 2 (999.0, 376.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.599: I/WacomLibrary(31033): 22005854  ptr id 0 (315.2942, 241.23535, sz: 0.07647059, p: 1.0)    ptr id 1 (905.8235, 183.0, sz: 0.0, p: 1.0)    ptr id 2 (999.0, 376.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.619: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.629: I/WacomLibrary(31033): 22005865  ptr id 0 (319.0, 245.0, sz: 0.05686275, p:1.0)    ptr id 1 (904.0, 183.0, sz: 0.0, p:1.0)    ptr id 2 (999.0, 377.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.629: I/WacomLibrary(31033): 22005876  ptr id 0 (323.0, 249.0, sz: 0.05686275, p:1.0)    ptr id 1 (902.0, 183.0, sz: 0.0, p:1.0)    ptr id 2 (999.0, 378.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.629: I/WacomLibrary(31033): 22005881  ptr id 0 (325.0, 251.0, sz: 0.05686275, p: 1.0)    ptr id 1 (901.0, 183.0, sz: 0.0, p: 1.0)    ptr id 2 (999.0, 378.5, sz: 0.0, p: 1.0)  
+01-20 08:55:44.639: I/WacomLibrary(31033): 22005887  ptr id 0 (328.0, 253.0, sz: 0.05686275, p:1.0)    ptr id 1 (900.0, 183.0, sz: 0.0, p:1.0)    ptr id 2 (999.0, 379.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.639: I/WacomLibrary(31033): 22005888  ptr id 0 (328.23813, 253.19049, sz: 0.05686275, p: 1.0)    ptr id 1 (899.9047, 183.0, sz: 0.0, p: 1.0)    ptr id 2 (999.0, 379.04764, sz: 0.0, p: 1.0)  
+01-20 08:55:44.649: I/WacomLibrary(31033): 22005898  ptr id 0 (333.0, 256.0, sz: 0.058823533, p:1.0)    ptr id 1 (899.0, 183.0, sz: 0.0, p:1.0)    ptr id 2 (999.0, 380.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.649: I/WacomLibrary(31033): 22005904  ptr id 0 (335.88525, 257.73117, sz: 0.058823533, p: 1.0)    ptr id 1 (898.423, 183.0, sz: 0.0, p: 1.0)    ptr id 2 (999.0, 380.57706, sz: 0.0, p: 1.0)  
+01-20 08:55:44.669: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.669: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.669: I/WacomLibrary(31033): 22005909  ptr id 0 (338.0, 259.0, sz: 0.064705886, p: 1.0)    ptr id 1 (898.0, 183.0, sz: 0.0, p: 1.0)    ptr id 2 (999.0, 381.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.679: I/WacomLibrary(31033): 22005920  ptr id 0 (342.0, 262.0, sz: 0.06666667, p: 1.0)    ptr id 1 (981.0, 179.0, sz: 0.0, p: 1.0)    ptr id 2 (999.0, 381.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.679: V/DrawView(31033): pointer up action index: 2. pointer up id 2
+01-20 08:55:44.679: I/WacomLibrary(31033): 22005920  ptr id 0 (342.0, 262.0, sz: 0.06666667, p:1.0)    ptr id 1 (981.0, 179.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.679: I/WacomLibrary(31033): 22005921  ptr id 0 (342.22723, 262.1704, sz: 0.06666667, p: 1.0)    ptr id 1 (985.71497, 178.77278, sz: 0.0, p: 1.0)  
+01-20 08:55:44.699: I/WacomLibrary(31033): 22005931  ptr id 0 (346.0, 264.0, sz: 0.05686275, p:1.0)    ptr id 1 (981.0, 179.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.699: I/WacomLibrary(31033): 22005942  ptr id 0 (351.0, 266.0, sz: 0.05686275, p:1.0)    ptr id 1 (895.0, 176.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.699: I/WacomLibrary(31033): 22005948  ptr id 0 (353.5, 267.0, sz: 0.05686275, p: 1.0)    ptr id 1 (852.0, 174.5, sz: 0.0, p: 1.0)  
+01-20 08:55:44.709: I/WacomLibrary(31033): 22005942  ptr id 0 (353.5, 267.0, sz: 0.05686275, p: 1.0)    ptr id 1 (852.0, 174.5, sz: 0.0, p: 1.0)    ptr id 2 (998.0, 385.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.709: W/PointerTracker(31033):  case 1a - rejected pointer 2, already is a stylus at id: 0, touches size: 2
+01-20 08:55:44.709: I/WacomLibrary(31033): 22005954  ptr id 0 (353.5, 267.0, sz: 0.058823533, p: 1.0)    ptr id 1 (852.0, 174.5, sz: 0.0, p: 1.0)    ptr id 2 (998.0, 385.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.709: V/DrawView(31033): pointer up action index: 2. pointer up id 2
+01-20 08:55:44.709: I/WacomLibrary(31033): 22005954  ptr id 0 (355.0, 267.0, sz: 0.058823533, p:1.0)    ptr id 1 (982.0, 177.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.709: I/WacomLibrary(31033): 22005954  ptr id 0 (355.25204, 267.06302, sz: 0.058823533, p: 1.0)    ptr id 1 (987.4821, 177.06302, sz: 0.0, p: 1.0)  
+01-20 08:55:44.719: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.719: I/WacomLibrary(31033): 22005965  ptr id 0 (359.0, 268.0, sz: 0.054901965, p: 1.0)    ptr id 1 (894.0, 176.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.729: I/WacomLibrary(31033): 22005965  ptr id 0 (359.0, 268.0, sz: 0.054901965, p: 1.0)    ptr id 1 (894.0, 176.0, sz: 0.0, p: 1.0)    ptr id 2 (998.0, 388.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.729: W/PointerTracker(31033):  case 1a - rejected pointer 2, already is a stylus at id: 0, touches size: 2
+01-20 08:55:44.729: I/WacomLibrary(31033): 22005975  ptr id 0 (363.0, 269.0, sz: 0.060784318, p: 1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p: 1.0)    ptr id 2 (998.0, 388.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.729: V/DrawView(31033): pointer up action index: 2. pointer up id 2
+01-20 08:55:44.739: I/WacomLibrary(31033): 22005975  ptr id 0 (363.0, 269.0, sz: 0.064705886, p:1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.739: I/WacomLibrary(31033): 22005986  ptr id 0 (368.0, 269.0, sz: 0.064705886, p:1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.739: I/WacomLibrary(31033): 22005988  ptr id 0 (368.53033, 269.0, sz: 0.064705886, p: 1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.749: I/WacomLibrary(31033): 22005998  ptr id 0 (372.0, 269.0, sz: 0.06666667, p:1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.749: I/WacomLibrary(31033): 22006004  ptr id 0 (374.45837, 269.6146, sz: 0.06666667, p: 1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.769: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.769: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.769: I/WacomLibrary(31033): 22006009  ptr id 0 (376.0, 270.0, sz: 0.0627451, p:1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.769: I/WacomLibrary(31033): 22006020  ptr id 0 (380.0, 270.0, sz: 0.0627451, p:1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.769: I/WacomLibrary(31033): 22006021  ptr id 0 (380.33023, 270.0, sz: 0.0627451, p: 1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.789: I/WacomLibrary(31033): 22006031  ptr id 0 (385.0, 271.0, sz: 0.058823533, p:1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.789: I/WacomLibrary(31033): 22006038  ptr id 0 (387.34286, 271.0, sz: 0.058823533, p: 1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.809: I/WacomLibrary(31033): 22006042  ptr id 0 (389.0, 271.0, sz: 0.060784318, p:1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.809: I/WacomLibrary(31033): 22006053  ptr id 0 (393.0, 271.0, sz: 0.060784318, p:1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.809: I/WacomLibrary(31033): 22006054  ptr id 0 (393.4763, 271.0, sz: 0.060784318, p: 1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.819: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.819: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.829: I/WacomLibrary(31033): 22006064  ptr id 0 (398.0, 272.0, sz: 0.06666667, p:1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.829: I/WacomLibrary(31033): 22006075  ptr id 0 (403.0, 273.0, sz: 0.06666667, p:1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.829: I/WacomLibrary(31033): 22006086  ptr id 0 (409.0, 274.0, sz: 0.06666667, p:1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.829: I/WacomLibrary(31033): 22006088  ptr id 0 (409.62335, 274.10388, sz: 0.06666667, p: 1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.859: I/WacomLibrary(31033): 22006097  ptr id 0 (415.0, 275.0, sz: 0.064705886, p:1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.859: I/WacomLibrary(31033): 22006104  ptr id 0 (418.8122, 275.63538, sz: 0.064705886, p: 1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.869: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.879: I/WacomLibrary(31033): 22006108  ptr id 0 (421.0, 276.0, sz: 0.068627454, p:1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.879: I/WacomLibrary(31033): 22006119  ptr id 0 (426.0, 278.0, sz: 0.068627454, p:1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.879: I/WacomLibrary(31033): 22006125  ptr id 0 (428.5, 279.0, sz: 0.068627454, p: 1.0)    ptr id 1 (983.0, 178.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.889: I/WacomLibrary(31033): 22006131  ptr id 0 (431.0, 280.0, sz: 0.07647059, p:1.0)    ptr id 1 (983.0, 179.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.889: I/WacomLibrary(31033): 22006138  ptr id 0 (434.77222, 281.25742, sz: 0.07647059, p: 1.0)    ptr id 1 (983.0, 179.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.899: I/WacomLibrary(31033): 22006142  ptr id 0 (437.0, 282.0, sz: 0.078431375, p:1.0)    ptr id 1 (983.0, 179.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.899: I/WacomLibrary(31033): 22006153  ptr id 0 (443.0, 284.0, sz: 0.078431375, p:1.0)    ptr id 1 (983.0, 179.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.899: I/WacomLibrary(31033): 22006154  ptr id 0 (443.86, 284.28665, sz: 0.078431375, p: 1.0)    ptr id 1 (983.0, 179.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.909: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.919: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.919: I/WacomLibrary(31033): 22006164  ptr id 0 (449.0, 286.0, sz: 0.068627454, p:1.0)    ptr id 1 (983.0, 179.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.919: I/WacomLibrary(31033): 22006171  ptr id 0 (452.1464, 287.25854, sz: 0.068627454, p: 1.0)    ptr id 1 (983.0, 179.62927, sz: 0.0, p: 1.0)  
+01-20 08:55:44.949: I/WacomLibrary(31033): 22006175  ptr id 0 (454.0, 288.0, sz: 0.064705886, p:1.0)    ptr id 1 (983.0, 180.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.949: I/WacomLibrary(31033): 22006186  ptr id 0 (459.0, 290.0, sz: 0.064705886, p:1.0)    ptr id 1 (983.0, 180.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.949: I/WacomLibrary(31033): 22006192  ptr id 0 (461.5, 291.0, sz: 0.064705886, p: 1.0)    ptr id 1 (983.0, 180.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.949: I/WacomLibrary(31033): 22006198  ptr id 0 (464.0, 291.0, sz: 0.064705886, p:1.0)    ptr id 1 (983.0, 180.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.949: I/WacomLibrary(31033): 22006204  ptr id 0 (467.09952, 291.6199, sz: 0.064705886, p: 1.0)    ptr id 1 (983.0, 180.6199, sz: 0.0, p: 1.0)  
+01-20 08:55:44.959: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:44.969: I/WacomLibrary(31033): 22006208  ptr id 0 (469.0, 292.0, sz: 0.07058824, p:1.0)    ptr id 1 (983.0, 181.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.969: I/WacomLibrary(31033): 22006219  ptr id 0 (474.0, 293.0, sz: 0.07058824, p:1.0)    ptr id 1 (983.0, 181.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.969: I/WacomLibrary(31033): 22006221  ptr id 0 (474.87958, 293.1759, sz: 0.07058824, p: 1.0)    ptr id 1 (983.0, 181.0, sz: 0.0, p: 1.0)  
+01-20 08:55:44.989: I/WacomLibrary(31033): 22006231  ptr id 0 (479.0, 294.0, sz: 0.0627451, p:1.0)    ptr id 1 (983.0, 181.0, sz: 0.0, p:1.0)  
+01-20 08:55:44.989: I/WacomLibrary(31033): 22006238  ptr id 0 (482.1713, 294.63425, sz: 0.0627451, p: 1.0)    ptr id 1 (983.0, 181.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.009: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:45.009: I/WacomLibrary(31033): 22006242  ptr id 0 (484.0, 295.0, sz: 0.0627451, p:1.0)    ptr id 1 (983.0, 181.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.009: I/WacomLibrary(31033): 22006252  ptr id 0 (488.0, 297.0, sz: 0.0627451, p:1.0)    ptr id 1 (983.0, 182.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.009: I/WacomLibrary(31033): 22006254  ptr id 0 (488.7032, 297.3516, sz: 0.0627451, p: 1.0)    ptr id 1 (983.0, 182.1758, sz: 0.0, p: 1.0)  
+01-20 08:55:45.019: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+
+
+01-20 08:55:45.019: I/WacomLibrary(31033): 22006264  ptr id 0 (493.0, 298.0, sz: 0.078431375, p: 1.0)    ptr id 1 (983.0, 182.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.019: I/WacomLibrary(31033): 22006274  ptr id 0 (983.0, 182.0, sz: 0.0, p: 1.0)    ptr id 1 (983.0, 182.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.029: V/DrawView(31033): pointer up action index: 1. pointer up id 1
+01-20 08:55:45.029: W/Brush(31033): distance between points: 503.54346 Point: 22006264 493.0 298.0 p: 0.816059 sz: 0.078431375
+01-20 08:55:45.029: W/Brush(31033):                                    Point: 22006274 983.0 182.0 p: 0.816059 sz: 0.0
+01-20 08:55:45.059: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:45.059: D/BluetoothGatt(31033): onNotify() - Device=C7:4D:CF:BF:A1:1B UUID=00001524-1212-efde-1523-785feabcd123
+01-20 08:55:45.169: I/WacomLibrary(31033): 22006274  ptr id 0 (983.0, 182.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.169: I/WacomLibrary(31033): 22006285  ptr id 0 (983.0, 182.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.169: I/WacomLibrary(31033): 22006296  ptr id 0 (983.0, 183.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.169: I/WacomLibrary(31033): 22006307  ptr id 0 (983.0, 183.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.169: I/WacomLibrary(31033): 22006318  ptr id 0 (983.0, 183.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.169: I/WacomLibrary(31033): 22006329  ptr id 0 (983.0, 183.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.169: I/WacomLibrary(31033): 22006340  ptr id 0 (983.0, 183.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.169: I/WacomLibrary(31033): 22006351  ptr id 0 (983.0, 184.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.169: I/WacomLibrary(31033): 22006362  ptr id 0 (983.0, 184.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.169: I/WacomLibrary(31033): 22006373  ptr id 0 (983.0, 184.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.169: I/WacomLibrary(31033): 22006385  ptr id 0 (983.0, 184.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.169: I/WacomLibrary(31033): 22006396  ptr id 0 (983.0, 185.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.169: I/WacomLibrary(31033): 22006407  ptr id 0 (983.0, 185.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.169: I/WacomLibrary(31033): 22006412  ptr id 0 (983.0, 185.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.169: W/TrackedPointer(31033): stylus now has size zero
+
+
+
+01-20 08:55:45.169: W/TrackedPointer(31033):  pen jumped more than 200 
+01-20 08:55:45.169: W/WacomEvent(31033): cloning event at 22006412
+01-20 08:55:45.169: W/WacomEvent(31033): cloning event at 22006412
+01-20 08:55:45.169: I/PointerTracker(31033): clearing expired stylus touch id: 0 TOOL_TYPE_STYLUS
+01-20 08:55:45.169: W/PointerTracker(31033): adding back touch from clearExpiredStylusState
+01-20 08:55:45.169: V/WacomEvent(31033): ------------------------xxxxxxxxx cancelAStylusTouchInAnEvent xxxxxxxxxxx------------------------
+01-20 08:55:45.169: V/WacomEvent(31033): 0 pointer prop id 0
+01-20 08:55:45.169: E/WacomEvent(31033):  bad event action 2, (old actionPointerId: 0) up: 1 down: 0
+01-20 08:55:45.169: E/WacomEvent(31033):  current stylus pointer id:0
+01-20 08:55:45.169: V/WacomEvent(31033): 0 pointer prop id 0
+01-20 08:55:45.179: V/DrawView(31033): pointer up action index: 0. pointer up id 0
+01-20 08:55:45.189: I/WacomLibrary(31033): 22006429  ptr id 0 (983.0, 185.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.189: I/WacomLibrary(31033): 22006438  ptr id 0 (983.0, 185.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.199: I/WacomLibrary(31033): 22006440  ptr id 0 (983.0, 185.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.199: I/WacomLibrary(31033): 22006445  ptr id 0 (983.0, 185.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.199: I/WacomLibrary(31033): 22006451  ptr id 0 (983.0, 185.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.199: I/WacomLibrary(31033): 22006454  ptr id 0 (983.0, 185.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.229: I/WacomLibrary(31033): 22006462  ptr id 0 (983.0, 185.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.229: I/WacomLibrary(31033): 22006473  ptr id 0 (983.0, 185.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.229: I/WacomLibrary(31033): 22006479  ptr id 0 (983.0, 185.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.259: I/WacomLibrary(31033): 22006496  ptr id 0 (983.0, 185.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.259: I/WacomLibrary(31033): 22006506  ptr id 0 (983.0, 185.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.259: I/WacomLibrary(31033): 22006512  ptr id 0 (983.0, 185.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.269: I/WacomLibrary(31033): 22006518  ptr id 0 (983.0, 185.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.269: I/WacomLibrary(31033): 22006521  ptr id 0 (983.0, 185.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.299: I/WacomLibrary(31033): 22006529  ptr id 0 (983.0, 185.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.299: I/WacomLibrary(31033): 22006540  ptr id 0 (983.0, 185.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.299: I/WacomLibrary(31033): 22006545  ptr id 0 (983.0, 185.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.299: I/WacomLibrary(31033): 22006551  ptr id 0 (983.0, 185.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.299: I/WacomLibrary(31033): 22006554  ptr id 0 (983.0, 185.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.329: I/WacomLibrary(31033): 22006573  ptr id 0 (983.0, 185.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.329: I/WacomLibrary(31033): 22006581  ptr id 0 (983.0, 185.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.359: I/WacomLibrary(31033): 22006595  ptr id 0 (983.0, 186.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.359: I/WacomLibrary(31033): 22006606  ptr id 0 (983.0, 186.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.359: I/WacomLibrary(31033): 22006612  ptr id 0 (983.0, 186.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.369: I/WacomLibrary(31033): 22006618  ptr id 0 (983.0, 186.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.369: I/WacomLibrary(31033): 22006621  ptr id 0 (983.0, 186.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.399: I/WacomLibrary(31033): 22006629  ptr id 0 (983.0, 186.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.399: I/WacomLibrary(31033): 22006640  ptr id 0 (983.0, 186.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.399: I/WacomLibrary(31033): 22006645  ptr id 0 (983.0, 186.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.399: I/WacomLibrary(31033): 22006651  ptr id 0 (983.0, 186.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.399: I/WacomLibrary(31033): 22006654  ptr id 0 (983.0, 186.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.429: I/WacomLibrary(31033): 22006662  ptr id 0 (983.0, 186.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.429: I/WacomLibrary(31033): 22006673  ptr id 0 (983.0, 186.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.429: I/WacomLibrary(31033): 22006678  ptr id 0 (983.0, 186.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.429: I/WacomLibrary(31033): 22006684  ptr id 0 (983.0, 186.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.429: I/WacomLibrary(31033): 22006688  ptr id 0 (983.0, 186.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.469: I/WacomLibrary(31033): 22006695  ptr id 0 (983.0, 186.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.469: I/WacomLibrary(31033): 22006706  ptr id 0 (983.0, 186.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.469: I/WacomLibrary(31033): 22006712  ptr id 0 (983.0, 186.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.479: I/WacomLibrary(31033): 22006717  ptr id 0 (983.0, 186.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.479: I/WacomLibrary(31033): 22006723  ptr id 0 (983.0, 186.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.479: I/WacomLibrary(31033): 22006730  ptr id 0 (983.0, 186.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.479: I/WacomLibrary(31033): 22006738  ptr id 0 (983.0, 186.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.499: I/WacomLibrary(31033): 22006739  ptr id 0 (983.0, 186.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.499: I/WacomLibrary(31033): 22006744  ptr id 0 (983.0, 186.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.499: I/WacomLibrary(31033): 22006750  ptr id 0 (983.0, 186.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.499: I/WacomLibrary(31033): 22006754  ptr id 0 (983.0, 186.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.529: I/WacomLibrary(31033): 22006762  ptr id 0 (983.0, 186.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.529: I/WacomLibrary(31033): 22006772  ptr id 0 (983.0, 187.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.529: I/WacomLibrary(31033): 22006778  ptr id 0 (983.0, 187.5, sz: 0.0, p: 1.0)  
+01-20 08:55:45.529: I/WacomLibrary(31033): 22006784  ptr id 0 (983.0, 187.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.529: I/WacomLibrary(31033): 22006788  ptr id 0 (983.0, 187.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.569: I/WacomLibrary(31033): 22006806  ptr id 0 (983.0, 188.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.569: I/WacomLibrary(31033): 22006814  ptr id 0 (983.0, 188.35815, sz: 0.0, p: 1.0)  
+01-20 08:55:45.569: I/WacomLibrary(31033): 22006817  ptr id 0 (983.0, 188.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.569: I/WacomLibrary(31033): 22006821  ptr id 0 (983.0, 188.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.599: I/WacomLibrary(31033): 22006839  ptr id 0 (982.0, 188.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.599: I/WacomLibrary(31033): 22006847  ptr id 0 (981.63654, 188.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.599: I/WacomLibrary(31033): 22006850  ptr id 0 (982.0, 188.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.599: I/WacomLibrary(31033): 22006854  ptr id 0 (982.0, 188.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.629: I/WacomLibrary(31033): 22006861  ptr id 0 (982.0, 188.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.629: I/WacomLibrary(31033): 22006872  ptr id 0 (982.0, 188.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.629: I/WacomLibrary(31033): 22006878  ptr id 0 (982.0, 188.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.629: I/WacomLibrary(31033): 22006883  ptr id 0 (982.0, 188.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.629: I/WacomLibrary(31033): 22006888  ptr id 0 (982.0, 188.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.659: I/WacomLibrary(31033): 22006894  ptr id 0 (982.0, 188.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.659: I/WacomLibrary(31033): 22006906  ptr id 0 (982.0, 188.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.659: I/WacomLibrary(31033): 22006911  ptr id 0 (982.0, 188.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.669: I/WacomLibrary(31033): 22006917  ptr id 0 (981.0, 189.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.669: I/WacomLibrary(31033): 22006921  ptr id 0 (980.60034, 189.39967, sz: 0.0, p: 1.0)  
+01-20 08:55:45.699: I/WacomLibrary(31033): 22006928  ptr id 0 (981.0, 190.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.699: I/WacomLibrary(31033): 22006939  ptr id 0 (972.0, 192.0, sz: 0.0, p:1.0)  
+01-20 08:55:45.699: I/WacomLibrary(31033): 22006944  ptr id 0 (967.5, 193.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.699: I/WacomLibrary(31033): 22006950  ptr id 0 (967.5, 193.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.959: D/ViewRootImpl(31033): ViewPostImeInputStage ACTION_DOWN
+01-20 08:55:45.959: I/WacomLibrary(31033): 22007200  ptr id 1 (982.0, 264.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.959: W/WacomEvent(31033): labeling MotionEvent pointer 1 as unknown
+01-20 08:55:45.959: I/WacomLibrary(31033): 22007200  ptr id 1 (978.0, 255.0, sz: 0.0, p: 1.0)  
+01-20 08:55:45.959: I/WacomLibrary(31033): 22007211  ptr id 1 (978.0, 255.0, sz: 0.0, p: 1.0)  
+01-20 08:55:48.869: I/ConnectionManager(31033): Check for Connecting Timeout runs: DIDN'T CANCEL
+
