@@ -1,0 +1,2160 @@
+[aas@localhost platform-tools]$ ./adb shell getevent -lt /dev/input/event1
+[   20130.219696] EV_ABS       ABS_MT_TRACKING_ID   0000039d            
+[   20130.219703] EV_ABS       003f                 00000010            
+[   20130.219709] EV_KEY       BTN_TOUCH            DOWN                
+[   20130.219712] EV_ABS       ABS_MT_POSITION_X    000001d2            
+[   20130.219715] EV_ABS       ABS_MT_POSITION_Y    00000084            
+[   20130.219718] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001a            
+[   20130.219721] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+[   20130.219748] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.230803] EV_ABS       003f                 0000000e            
+[   20130.230812] EV_ABS       ABS_MT_POSITION_X    000001d1            
+[   20130.230820] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.241848] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20130.241856] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.264019] EV_ABS       003f                 00000010            
+[   20130.264032] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001a            
+[   20130.264038] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.275087] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20130.275092] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+[   20130.275096] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.286218] EV_ABS       003f                 00000014            
+[   20130.286232] EV_ABS       ABS_MT_TOUCH_MINOR   0000000b            
+[   20130.286237] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.297269] EV_ABS       003f                 00000012            
+[   20130.297280] EV_ABS       ABS_MT_POSITION_X    000001d2            
+[   20130.297284] EV_ABS       ABS_MT_POSITION_Y    00000085            
+[   20130.297288] EV_ABS       ABS_MT_TOUCH_MINOR   0000000e            
+[   20130.297292] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.308366] EV_ABS       003f                 00000014            
+[   20130.308377] EV_ABS       ABS_MT_POSITION_X    000001d3            
+[   20130.308380] EV_ABS       ABS_MT_POSITION_Y    00000086            
+[   20130.308385] EV_ABS       ABS_MT_TOUCH_MINOR   00000011            
+[   20130.308389] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.319396] EV_ABS       ABS_MT_POSITION_X    000001d5            
+[   20130.319402] EV_ABS       ABS_MT_POSITION_Y    00000087            
+[   20130.319409] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.330579] EV_ABS       ABS_MT_POSITION_X    000001d8            
+[   20130.330631] EV_ABS       ABS_MT_POSITION_Y    00000088            
+[   20130.330636] EV_ABS       ABS_MT_TOUCH_MINOR   0000000c            
+[   20130.330640] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.341536] EV_ABS       ABS_MT_POSITION_X    000001dc            
+[   20130.341542] EV_ABS       ABS_MT_POSITION_Y    00000089            
+[   20130.341547] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+[   20130.341551] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.352652] EV_ABS       003f                 00000012            
+[   20130.352662] EV_ABS       ABS_MT_POSITION_X    000001e0            
+[   20130.352666] EV_ABS       ABS_MT_POSITION_Y    0000008a            
+[   20130.352670] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+[   20130.352674] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.363686] EV_ABS       003f                 0000000e            
+[   20130.363696] EV_ABS       ABS_MT_POSITION_X    000001e4            
+[   20130.363699] EV_ABS       ABS_MT_POSITION_Y    0000008c            
+[   20130.363706] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.374829] EV_ABS       ABS_MT_POSITION_X    000001e8            
+[   20130.374836] EV_ABS       ABS_MT_POSITION_Y    0000008d            
+[   20130.374841] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+[   20130.374844] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.385871] EV_ABS       003f                 00000012            
+[   20130.385882] EV_ABS       ABS_MT_POSITION_X    000001ed            
+[   20130.385886] EV_ABS       ABS_MT_POSITION_Y    0000008e            
+[   20130.385890] EV_ABS       ABS_MT_TOUCH_MINOR   0000000f            
+[   20130.385894] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.396935] EV_ABS       003f                 00000014            
+[   20130.396946] EV_ABS       ABS_MT_POSITION_X    000001f1            
+[   20130.396949] EV_ABS       ABS_MT_POSITION_Y    0000008f            
+[   20130.396953] EV_ABS       ABS_MT_TOUCH_MINOR   00000012            
+[   20130.396958] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.408002] EV_ABS       ABS_MT_POSITION_X    000001f5            
+[   20130.408008] EV_ABS       ABS_MT_POSITION_Y    00000090            
+[   20130.408012] EV_ABS       ABS_MT_TOUCH_MINOR   00000010            
+[   20130.408016] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.419113] EV_ABS       ABS_MT_POSITION_X    000001f8            
+[   20130.419119] EV_ABS       ABS_MT_POSITION_Y    00000091            
+[   20130.419124] EV_ABS       ABS_MT_TOUCH_MINOR   0000000d            
+[   20130.419128] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.430157] EV_ABS       ABS_MT_POSITION_X    000001fb            
+[   20130.430162] EV_ABS       ABS_MT_POSITION_Y    00000092            
+[   20130.430167] EV_ABS       ABS_MT_TOUCH_MINOR   0000000b            
+[   20130.430171] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.441289] EV_ABS       003f                 00000012            
+[   20130.441302] EV_ABS       ABS_MT_POSITION_X    000001fe            
+[   20130.441305] EV_ABS       ABS_MT_POSITION_Y    00000093            
+[   20130.441310] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+[   20130.441315] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.452310] EV_ABS       003f                 00000010            
+[   20130.452322] EV_ABS       ABS_MT_POSITION_X    00000201            
+[   20130.452325] EV_ABS       ABS_MT_POSITION_Y    00000094            
+[   20130.452329] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+[   20130.452333] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.463447] EV_ABS       ABS_MT_POSITION_X    00000204            
+[   20130.463455] EV_ABS       ABS_MT_POSITION_Y    00000095            
+[   20130.463463] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.474422] EV_ABS       003f                 0000000e            
+[   20130.474432] EV_ABS       ABS_MT_POSITION_X    00000207            
+[   20130.474435] EV_ABS       ABS_MT_POSITION_Y    00000096            
+[   20130.474442] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.485549] EV_ABS       003f                 00000010            
+[   20130.485559] EV_ABS       ABS_MT_POSITION_X    00000209            
+[   20130.485563] EV_ABS       ABS_MT_POSITION_Y    00000097            
+[   20130.485566] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20130.485571] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.496662] EV_ABS       003f                 00000012            
+[   20130.496673] EV_ABS       ABS_MT_POSITION_X    0000020b            
+[   20130.496676] EV_ABS       ABS_MT_POSITION_Y    00000098            
+[   20130.496679] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20130.496682] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+[   20130.496687] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.507716] EV_ABS       003f                 00000010            
+[   20130.507727] EV_ABS       ABS_MT_POSITION_X    0000020e            
+[   20130.507730] EV_ABS       ABS_MT_POSITION_Y    00000099            
+[   20130.507733] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20130.507736] EV_ABS       ABS_MT_TOUCH_MINOR   0000000b            
+[   20130.507740] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.518791] EV_ABS       003f                 00000014            
+[   20130.518803] EV_ABS       ABS_MT_POSITION_X    00000210            
+[   20130.518806] EV_ABS       ABS_MT_POSITION_Y    0000009a            
+[   20130.518811] EV_ABS       ABS_MT_TOUCH_MINOR   0000000e            
+[   20130.518815] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.529844] EV_ABS       ABS_MT_POSITION_X    00000212            
+[   20130.529851] EV_ABS       ABS_MT_POSITION_Y    0000009b            
+[   20130.529856] EV_ABS       ABS_MT_TOUCH_MINOR   00000011            
+[   20130.529859] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.541004] EV_ABS       ABS_MT_POSITION_X    00000214            
+[   20130.541012] EV_ABS       ABS_MT_POSITION_Y    0000009c            
+[   20130.541016] EV_ABS       ABS_MT_TOUCH_MINOR   00000012            
+[   20130.541021] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.552034] EV_ABS       ABS_MT_POSITION_X    00000216            
+[   20130.552042] EV_ABS       ABS_MT_POSITION_Y    0000009d            
+[   20130.552049] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.563145] EV_ABS       ABS_MT_POSITION_X    00000217            
+[   20130.563153] EV_ABS       ABS_MT_POSITION_Y    0000009e            
+[   20130.563162] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.574223] EV_ABS       ABS_MT_POSITION_X    00000218            
+[   20130.574229] EV_ABS       ABS_MT_POSITION_Y    000000a0            
+[   20130.574234] EV_ABS       ABS_MT_TOUCH_MINOR   00000010            
+[   20130.574238] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.585398] EV_ABS       ABS_MT_POSITION_Y    000000a2            
+[   20130.585405] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20130.585408] EV_ABS       ABS_MT_TOUCH_MINOR   0000000c            
+[   20130.585413] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.596310] EV_ABS       003f                 00000012            
+[   20130.596321] EV_ABS       ABS_MT_POSITION_Y    000000a4            
+[   20130.596326] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+[   20130.596330] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.607395] EV_ABS       ABS_MT_POSITION_Y    000000a6            
+[   20130.607403] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+[   20130.607407] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.618476] EV_ABS       003f                 00000010            
+[   20130.618488] EV_ABS       ABS_MT_POSITION_X    00000217            
+[   20130.618491] EV_ABS       ABS_MT_POSITION_Y    000000a9            
+[   20130.618499] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.629504] EV_ABS       003f                 0000000e            
+[   20130.629515] EV_ABS       ABS_MT_POSITION_X    00000216            
+[   20130.629518] EV_ABS       ABS_MT_POSITION_Y    000000ac            
+[   20130.629525] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.640631] EV_ABS       ABS_MT_POSITION_X    00000214            
+[   20130.640638] EV_ABS       ABS_MT_POSITION_Y    000000af            
+[   20130.640645] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.651775] EV_ABS       ABS_MT_POSITION_X    00000213            
+[   20130.651783] EV_ABS       ABS_MT_POSITION_Y    000000b2            
+[   20130.651787] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20130.651793] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.662792] EV_ABS       003f                 00000012            
+[   20130.662802] EV_ABS       ABS_MT_POSITION_X    00000211            
+[   20130.662805] EV_ABS       ABS_MT_POSITION_Y    000000b5            
+[   20130.662809] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20130.662811] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+[   20130.662815] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.673880] EV_ABS       ABS_MT_POSITION_X    0000020e            
+[   20130.673886] EV_ABS       ABS_MT_POSITION_Y    000000b8            
+[   20130.673891] EV_ABS       ABS_MT_TOUCH_MINOR   00000010            
+[   20130.673895] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.684997] EV_ABS       ABS_MT_POSITION_X    0000020b            
+[   20130.685004] EV_ABS       ABS_MT_POSITION_Y    000000bb            
+[   20130.685013] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.695988] EV_ABS       003f                 00000014            
+[   20130.695998] EV_ABS       ABS_MT_POSITION_X    00000207            
+[   20130.696001] EV_ABS       ABS_MT_POSITION_Y    000000be            
+[   20130.696004] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20130.696007] EV_ABS       ABS_MT_TOUCH_MINOR   0000000b            
+[   20130.696011] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.707129] EV_ABS       003f                 00000012            
+[   20130.707141] EV_ABS       ABS_MT_POSITION_X    00000203            
+[   20130.707145] EV_ABS       ABS_MT_POSITION_Y    000000c1            
+[   20130.707148] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20130.707151] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+[   20130.707156] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.718109] EV_ABS       ABS_MT_POSITION_X    00000200            
+[   20130.718115] EV_ABS       ABS_MT_POSITION_Y    000000c4            
+[   20130.718122] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.729280] EV_ABS       003f                 0000000e            
+[   20130.729293] EV_ABS       ABS_MT_POSITION_X    000001fd            
+[   20130.729297] EV_ABS       ABS_MT_POSITION_Y    000000c7            
+[   20130.729300] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001a            
+[   20130.729306] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.740370] EV_ABS       003f                 0000000c            
+[   20130.740381] EV_ABS       ABS_MT_POSITION_X    000001fa            
+[   20130.740384] EV_ABS       ABS_MT_POSITION_Y    000000ca            
+[   20130.740392] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.751373] EV_ABS       ABS_MT_POSITION_X    000001f8            
+[   20130.751379] EV_ABS       ABS_MT_POSITION_Y    000000cc            
+[   20130.751386] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.762475] EV_ABS       003f                 0000000e            
+[   20130.762486] EV_ABS       ABS_MT_POSITION_X    000001f6            
+[   20130.762489] EV_ABS       ABS_MT_POSITION_Y    000000ce            
+[   20130.762493] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20130.762498] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.773570] EV_ABS       ABS_MT_POSITION_X    000001f4            
+[   20130.773576] EV_ABS       ABS_MT_POSITION_Y    000000d1            
+[   20130.773579] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20130.773585] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.784689] EV_ABS       003f                 00000012            
+[   20130.784701] EV_ABS       ABS_MT_POSITION_X    000001f3            
+[   20130.784705] EV_ABS       ABS_MT_POSITION_Y    000000d3            
+[   20130.784713] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.795724] EV_ABS       ABS_MT_POSITION_X    000001f2            
+[   20130.795730] EV_ABS       ABS_MT_POSITION_Y    000000d5            
+[   20130.795733] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001d            
+[   20130.795738] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.806846] EV_ABS       ABS_MT_POSITION_X    000001f1            
+[   20130.806853] EV_ABS       ABS_MT_POSITION_Y    000000d7            
+[   20130.806862] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.817890] EV_ABS       ABS_MT_POSITION_X    000001f0            
+[   20130.817896] EV_ABS       ABS_MT_POSITION_Y    000000d9            
+[   20130.817903] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.828980] EV_ABS       003f                 00000010            
+[   20130.828994] EV_ABS       ABS_MT_POSITION_Y    000000da            
+[   20130.828998] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20130.829004] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.840108] EV_ABS       003f                 0000000e            
+[   20130.840120] EV_ABS       ABS_MT_POSITION_Y    000000db            
+[   20130.840127] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.851136] EV_ABS       003f                 00000010            
+[   20130.851148] EV_ABS       ABS_MT_POSITION_X    000001f1            
+[   20130.851151] EV_ABS       ABS_MT_POSITION_Y    000000dd            
+[   20130.851155] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20130.851158] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+[   20130.851163] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.862174] EV_ABS       003f                 00000014            
+[   20130.862184] EV_ABS       ABS_MT_POSITION_X    000001f2            
+[   20130.862187] EV_ABS       ABS_MT_POSITION_Y    000000de            
+[   20130.862192] EV_ABS       ABS_MT_TOUCH_MINOR   0000000e            
+[   20130.862196] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.873243] EV_ABS       ABS_MT_POSITION_X    000001f5            
+[   20130.873248] EV_ABS       ABS_MT_POSITION_Y    000000e0            
+[   20130.873253] EV_ABS       ABS_MT_TOUCH_MINOR   00000011            
+[   20130.873257] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.884372] EV_ABS       ABS_MT_POSITION_X    000001fa            
+[   20130.884379] EV_ABS       ABS_MT_POSITION_Y    000000e2            
+[   20130.884384] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+[   20130.884388] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.895545] EV_ABS       ABS_MT_POSITION_X    000001ff            
+[   20130.895552] EV_ABS       ABS_MT_POSITION_Y    000000e3            
+[   20130.895556] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20130.895559] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+[   20130.895563] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.906463] EV_ABS       003f                 00000010            
+[   20130.906473] EV_ABS       ABS_MT_POSITION_X    00000204            
+[   20130.906476] EV_ABS       ABS_MT_POSITION_Y    000000e4            
+[   20130.906479] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20130.906484] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.917563] EV_ABS       ABS_MT_POSITION_X    00000208            
+[   20130.917572] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+[   20130.917576] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.928614] EV_ABS       003f                 00000012            
+[   20130.928625] EV_ABS       ABS_MT_POSITION_X    0000020c            
+[   20130.928631] EV_ABS       ABS_MT_TOUCH_MINOR   0000000c            
+[   20130.928635] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.939717] EV_ABS       003f                 00000014            
+[   20130.939728] EV_ABS       ABS_MT_POSITION_X    00000210            
+[   20130.939734] EV_ABS       ABS_MT_TOUCH_MINOR   00000011            
+[   20130.939738] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.950857] EV_ABS       ABS_MT_POSITION_X    00000214            
+[   20130.950865] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20130.950871] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.961855] EV_ABS       ABS_MT_POSITION_X    00000218            
+[   20130.961863] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20130.961867] EV_ABS       ABS_MT_TOUCH_MINOR   0000000d            
+[   20130.961871] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.972971] EV_ABS       ABS_MT_POSITION_X    0000021b            
+[   20130.972980] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+[   20130.972984] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.984002] EV_ABS       003f                 00000012            
+[   20130.984012] EV_ABS       ABS_MT_POSITION_X    0000021e            
+[   20130.984018] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+[   20130.984023] EV_SYN       SYN_REPORT           00000000 
+           
+[   20130.995116] EV_ABS       ABS_MT_POSITION_X    00000220            
+[   20130.995122] EV_ABS       ABS_MT_POSITION_Y    000000e3            
+[   20130.995129] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.006159] EV_ABS       ABS_MT_POSITION_X    00000222            
+[   20131.006165] EV_ABS       ABS_MT_POSITION_Y    000000e2            
+[   20131.006172] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.017253] EV_ABS       ABS_MT_POSITION_X    00000224            
+[   20131.017264] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.028309] EV_ABS       003f                 0000000e            
+[   20131.028320] EV_ABS       ABS_MT_POSITION_X    00000225            
+[   20131.028328] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.039419] EV_ABS       ABS_MT_POSITION_X    00000226            
+[   20131.039426] EV_ABS       ABS_MT_POSITION_Y    000000e1            
+[   20131.039433] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.050512] EV_ABS       ABS_MT_POSITION_X    00000227            
+[   20131.050519] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20131.050525] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.061570] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20131.061579] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.072615] EV_ABS       003f                 00000012            
+[   20131.072632] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.116974] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20131.116980] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+[   20131.116984] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.127951] EV_ABS       003f                 00000014            
+[   20131.127964] EV_ABS       ABS_MT_TOUCH_MINOR   0000000b            
+[   20131.127968] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.139196] EV_ABS       003f                 00000012            
+[   20131.139211] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20131.139214] EV_ABS       ABS_MT_TOUCH_MINOR   0000000c            
+[   20131.139219] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.150185] EV_ABS       ABS_MT_POSITION_X    00000226            
+[   20131.150193] EV_ABS       ABS_MT_POSITION_Y    000000e2            
+[   20131.150198] EV_ABS       ABS_MT_TOUCH_MINOR   0000000f            
+[   20131.150203] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.161395] EV_ABS       003f                 00000014            
+[   20131.161408] EV_ABS       ABS_MT_POSITION_X    00000225            
+[   20131.161411] EV_ABS       ABS_MT_POSITION_Y    000000e3            
+[   20131.161415] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20131.161418] EV_ABS       ABS_MT_TOUCH_MINOR   00000012            
+[   20131.161423] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.172382] EV_ABS       ABS_MT_POSITION_X    00000224            
+[   20131.172388] EV_ABS       ABS_MT_POSITION_Y    000000e5            
+[   20131.172394] EV_ABS       ABS_MT_TOUCH_MINOR   00000011            
+[   20131.172398] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.183396] EV_ABS       ABS_MT_POSITION_X    00000223            
+[   20131.183403] EV_ABS       ABS_MT_POSITION_Y    000000e7            
+[   20131.183409] EV_ABS       ABS_MT_TOUCH_MINOR   0000000f            
+[   20131.183414] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.194786] EV_ABS       003f                 00000012            
+[   20131.194798] EV_ABS       ABS_MT_POSITION_X    00000222            
+[   20131.194802] EV_ABS       ABS_MT_POSITION_Y    000000e9            
+[   20131.194808] EV_ABS       ABS_MT_TOUCH_MINOR   0000000d            
+[   20131.194812] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.206199] EV_ABS       003f                 00000018            
+[   20131.206243] EV_ABS       ABS_MT_POSITION_X    00000220            
+[   20131.206247] EV_ABS       ABS_MT_POSITION_Y    000000ec            
+[   20131.206252] EV_ABS       ABS_MT_TOUCH_MINOR   0000000b            
+[   20131.206259] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.206261] EV_ABS       ABS_MT_TRACKING_ID   0000039e            
+[   20131.206266] EV_ABS       003f                 00000018            
+[   20131.206274] EV_ABS       ABS_MT_POSITION_X    00000234            
+[   20131.206277] EV_ABS       ABS_MT_POSITION_Y    00000422            
+[   20131.206281] EV_ABS       ABS_MT_TOUCH_MAJOR   00000014            
+[   20131.206285] EV_ABS       ABS_MT_TOUCH_MINOR   00000010            
+[   20131.206320] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.217264] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.217269] EV_ABS       003f                 00000016            
+[   20131.217278] EV_ABS       ABS_MT_POSITION_X    0000021f            
+[   20131.217282] EV_ABS       ABS_MT_POSITION_Y    000000ef            
+[   20131.217287] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+[   20131.217296] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.217298] EV_ABS       003f                 00000016            
+[   20131.217309] EV_ABS       ABS_MT_TOUCH_MAJOR   00000012            
+[   20131.217312] EV_ABS       ABS_MT_TOUCH_MINOR   0000000d            
+[   20131.217316] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.228566] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.228571] EV_ABS       003f                 0000001e            
+[   20131.228580] EV_ABS       ABS_MT_POSITION_X    0000021d            
+[   20131.228583] EV_ABS       ABS_MT_POSITION_Y    000000f1            
+[   20131.228587] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20131.228598] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.228600] EV_ABS       003f                 0000001e            
+[   20131.228607] EV_ABS       ABS_MT_POSITION_X    00000233            
+[   20131.228611] EV_ABS       ABS_MT_POSITION_Y    00000421            
+[   20131.228614] EV_ABS       ABS_MT_TOUCH_MAJOR   00000014            
+[   20131.228620] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.239791] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.239797] EV_ABS       ABS_MT_POSITION_X    0000021c            
+[   20131.239801] EV_ABS       ABS_MT_POSITION_Y    000000f4            
+[   20131.239807] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+[   20131.239823] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.239825] EV_ABS       ABS_MT_POSITION_Y    00000420            
+[   20131.239828] EV_ABS       ABS_MT_TOUCH_MAJOR   00000015            
+[   20131.239832] EV_ABS       ABS_MT_TOUCH_MINOR   0000000e            
+[   20131.239836] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.250930] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.250940] EV_ABS       ABS_MT_POSITION_X    0000021b            
+[   20131.250944] EV_ABS       ABS_MT_POSITION_Y    000000f7            
+[   20131.250948] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20131.250966] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.250968] EV_ABS       ABS_MT_POSITION_Y    0000041f            
+[   20131.250971] EV_ABS       ABS_MT_TOUCH_MAJOR   00000013            
+[   20131.250975] EV_ABS       ABS_MT_TOUCH_MINOR   0000000f            
+[   20131.250979] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.262278] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.262283] EV_ABS       003f                 0000001c            
+[   20131.262292] EV_ABS       ABS_MT_POSITION_X    00000219            
+[   20131.262296] EV_ABS       ABS_MT_POSITION_Y    000000fa            
+[   20131.262300] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20131.262310] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.262312] EV_ABS       003f                 0000001c            
+[   20131.262321] EV_ABS       ABS_MT_POSITION_Y    0000041e            
+[   20131.262325] EV_ABS       ABS_MT_TOUCH_MAJOR   00000016            
+[   20131.262328] EV_ABS       ABS_MT_TOUCH_MINOR   00000012            
+[   20131.262332] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.273658] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.273663] EV_ABS       003f                 0000002a            
+[   20131.273671] EV_ABS       ABS_MT_POSITION_X    00000217            
+[   20131.273674] EV_ABS       ABS_MT_POSITION_Y    000000fd            
+[   20131.273685] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.273687] EV_ABS       003f                 0000002a            
+[   20131.273694] EV_ABS       ABS_MT_POSITION_Y    0000041d            
+[   20131.273698] EV_ABS       ABS_MT_TOUCH_MINOR   00000016            
+[   20131.273701] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.284746] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.284751] EV_ABS       003f                 00000040            
+[   20131.284758] EV_ABS       ABS_MT_POSITION_X    00000215            
+[   20131.284761] EV_ABS       ABS_MT_POSITION_Y    00000100            
+[   20131.284765] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20131.284774] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.284775] EV_ABS       003f                 00000040            
+[   20131.284783] EV_ABS       ABS_MT_POSITION_Y    0000041c            
+[   20131.284786] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001a            
+[   20131.284789] EV_ABS       ABS_MT_TOUCH_MINOR   00000017            
+[   20131.284792] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.296313] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.296319] EV_ABS       003f                 00000050            
+[   20131.296326] EV_ABS       ABS_MT_POSITION_X    00000213            
+[   20131.296330] EV_ABS       ABS_MT_POSITION_Y    00000103            
+[   20131.296342] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.296344] EV_ABS       003f                 00000050            
+[   20131.296350] EV_ABS       ABS_MT_POSITION_X    00000234            
+[   20131.296355] EV_ABS       ABS_MT_TOUCH_MAJOR   00000000            
+[   20131.296357] EV_ABS       ABS_MT_TOUCH_MINOR   00000000            
+[   20131.296359] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.307493] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.307497] EV_ABS       003f                 0000005c            
+[   20131.307505] EV_ABS       ABS_MT_POSITION_X    00000211            
+[   20131.307508] EV_ABS       ABS_MT_POSITION_Y    00000106            
+[   20131.307519] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.307520] EV_ABS       003f                 0000005c            
+[   20131.307530] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.318385] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.318390] EV_ABS       003f                 00000066            
+[   20131.318399] EV_ABS       ABS_MT_POSITION_X    0000020f            
+[   20131.318402] EV_ABS       ABS_MT_POSITION_Y    00000109            
+[   20131.318414] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.318416] EV_ABS       003f                 00000066            
+[   20131.318422] EV_ABS       ABS_MT_POSITION_X    00000244            
+[   20131.318428] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.349518] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.349530] EV_ABS       003f                 00000070            
+[   20131.349538] EV_ABS       ABS_MT_POSITION_X    0000020e            
+[   20131.349541] EV_ABS       ABS_MT_POSITION_Y    0000010a            
+[   20131.349552] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.349553] EV_ABS       003f                 00000070            
+[   20131.349560] EV_ABS       ABS_MT_POSITION_X    00000247            
+[   20131.349565] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.360581] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.360589] EV_ABS       003f                 00000066            
+[   20131.360598] EV_ABS       ABS_MT_POSITION_X    0000020d            
+[   20131.360601] EV_ABS       ABS_MT_POSITION_Y    0000010b            
+[   20131.360613] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.360615] EV_ABS       003f                 00000066            
+[   20131.360621] EV_ABS       ABS_MT_POSITION_X    00000249            
+[   20131.360627] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.377106] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.377112] EV_ABS       ABS_MT_POSITION_X    0000020c            
+[   20131.377115] EV_ABS       ABS_MT_POSITION_Y    0000010c            
+[   20131.377131] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.377133] EV_ABS       ABS_MT_POSITION_X    0000024b            
+[   20131.377138] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.393733] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.393738] EV_ABS       ABS_MT_POSITION_X    0000020b            
+[   20131.393741] EV_ABS       ABS_MT_POSITION_Y    0000010d            
+[   20131.393757] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.393758] EV_ABS       ABS_MT_POSITION_X    0000024c            
+[   20131.393764] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.410368] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.410374] EV_ABS       003f                 0000006e            
+[   20131.410384] EV_ABS       ABS_MT_POSITION_Y    0000010f            
+[   20131.410387] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20131.410397] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.410399] EV_ABS       003f                 0000006e            
+[   20131.410405] EV_ABS       ABS_MT_POSITION_X    00000254            
+[   20131.410411] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.426949] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.426954] EV_ABS       003f                 00000074            
+[   20131.426962] EV_ABS       ABS_MT_POSITION_X    0000020a            
+[   20131.426965] EV_ABS       ABS_MT_POSITION_Y    00000112            
+[   20131.426970] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+[   20131.426978] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.426980] EV_ABS       003f                 00000074            
+[   20131.426986] EV_ABS       ABS_MT_POSITION_X    0000025b            
+[   20131.426992] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.443723] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.443727] EV_ABS       003f                 00000078            
+[   20131.443735] EV_ABS       ABS_MT_POSITION_X    00000209            
+[   20131.443739] EV_ABS       ABS_MT_POSITION_Y    00000115            
+[   20131.443750] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.443752] EV_ABS       003f                 00000078            
+[   20131.443758] EV_ABS       ABS_MT_POSITION_X    00000261            
+[   20131.443764] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.460089] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.460093] EV_ABS       ABS_MT_POSITION_X    00000208            
+[   20131.460097] EV_ABS       ABS_MT_POSITION_Y    00000118            
+[   20131.460100] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20131.460114] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.460116] EV_ABS       ABS_MT_POSITION_X    00000265            
+[   20131.460121] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.476691] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.476695] EV_ABS       003f                 00000076            
+[   20131.476704] EV_ABS       ABS_MT_POSITION_Y    0000011b            
+[   20131.476714] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.476716] EV_ABS       003f                 00000076            
+[   20131.476722] EV_ABS       ABS_MT_POSITION_X    00000268            
+[   20131.476728] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.493404] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.493408] EV_ABS       003f                 00000078            
+[   20131.493418] EV_ABS       ABS_MT_POSITION_Y    0000011f            
+[   20131.493422] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001a            
+[   20131.493431] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.493433] EV_ABS       003f                 00000078            
+[   20131.493440] EV_ABS       ABS_MT_POSITION_X    0000026a            
+[   20131.493443] EV_ABS       ABS_MT_POSITION_Y    0000041b            
+[   20131.493447] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.509885] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.509889] EV_ABS       ABS_MT_POSITION_Y    00000123            
+[   20131.509905] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.509907] EV_ABS       ABS_MT_POSITION_X    0000026c            
+[   20131.509912] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.526516] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.526520] EV_ABS       ABS_MT_POSITION_X    00000207            
+[   20131.526523] EV_ABS       ABS_MT_POSITION_Y    00000127            
+[   20131.526526] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20131.526540] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.526542] EV_ABS       ABS_MT_POSITION_X    0000026e            
+[   20131.526547] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.543089] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.543094] EV_ABS       003f                 0000007e            
+[   20131.543103] EV_ABS       ABS_MT_POSITION_Y    0000012b            
+[   20131.543114] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.543116] EV_ABS       003f                 0000007e            
+[   20131.543122] EV_ABS       ABS_MT_POSITION_X    0000026f            
+[   20131.543128] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.559676] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.559681] EV_ABS       003f                 0000007a            
+[   20131.559690] EV_ABS       ABS_MT_POSITION_Y    0000012f            
+[   20131.559694] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20131.559703] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.559705] EV_ABS       003f                 0000007a            
+[   20131.559711] EV_ABS       ABS_MT_POSITION_X    00000270            
+[   20131.559717] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.576355] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.576361] EV_ABS       003f                 0000007e            
+[   20131.576371] EV_ABS       ABS_MT_POSITION_Y    00000133            
+[   20131.576376] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20131.576385] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.576387] EV_ABS       003f                 0000007e            
+[   20131.576394] EV_ABS       ABS_MT_POSITION_X    00000271            
+[   20131.576399] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.592844] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.592849] EV_ABS       003f                 00000082            
+[   20131.592858] EV_ABS       ABS_MT_POSITION_Y    00000137            
+[   20131.592861] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20131.592871] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.592872] EV_ABS       003f                 00000082            
+[   20131.592879] EV_ABS       ABS_MT_POSITION_X    00000272            
+[   20131.592884] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.609437] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.609442] EV_ABS       003f                 00000086            
+[   20131.609452] EV_ABS       ABS_MT_POSITION_Y    0000013b            
+[   20131.609456] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+[   20131.609464] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.609466] EV_ABS       003f                 00000086            
+[   20131.609472] EV_ABS       ABS_MT_POSITION_X    00000273            
+[   20131.609478] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.625960] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.625964] EV_ABS       ABS_MT_POSITION_Y    0000013f            
+[   20131.625968] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20131.625982] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.625984] EV_ABS       ABS_MT_POSITION_X    00000274            
+[   20131.625989] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.642602] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.642607] EV_ABS       003f                 00000084            
+[   20131.642616] EV_ABS       ABS_MT_POSITION_Y    00000143            
+[   20131.642620] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001a            
+[   20131.642631] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.642632] EV_ABS       003f                 00000084            
+[   20131.642643] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.659211] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.659216] EV_ABS       003f                 00000080            
+[   20131.659224] EV_ABS       ABS_MT_POSITION_X    00000208            
+[   20131.659227] EV_ABS       ABS_MT_POSITION_Y    00000147            
+[   20131.659239] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.659240] EV_ABS       003f                 00000080            
+[   20131.659251] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.675893] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.675905] EV_ABS       ABS_MT_POSITION_X    00000209            
+[   20131.675909] EV_ABS       ABS_MT_POSITION_Y    0000014b            
+[   20131.675914] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20131.675933] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.675935] EV_ABS       ABS_MT_POSITION_X    00000275            
+[   20131.675942] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.692278] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.692283] EV_ABS       ABS_MT_POSITION_X    0000020a            
+[   20131.692287] EV_ABS       ABS_MT_POSITION_Y    00000150            
+[   20131.692290] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20131.692304] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.692305] EV_ABS       ABS_MT_POSITION_X    00000276            
+[   20131.692311] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.708852] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.708857] EV_ABS       ABS_MT_POSITION_X    0000020b            
+[   20131.708860] EV_ABS       ABS_MT_POSITION_Y    00000155            
+[   20131.708880] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.725463] EV_ABS       003f                 00000082            
+[   20131.725473] EV_ABS       ABS_MT_POSITION_X    0000020c            
+[   20131.725476] EV_ABS       ABS_MT_POSITION_Y    00000159            
+[   20131.725487] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.725489] EV_ABS       003f                 00000082            
+[   20131.725499] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.742022] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.742026] EV_ABS       003f                 00000080            
+[   20131.742036] EV_ABS       ABS_MT_POSITION_Y    0000015d            
+[   20131.742040] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20131.742049] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.742051] EV_ABS       003f                 00000080            
+[   20131.742061] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.758674] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.758679] EV_ABS       ABS_MT_POSITION_Y    00000161            
+[   20131.758699] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.775168] EV_ABS       003f                 00000082            
+[   20131.775179] EV_ABS       ABS_MT_POSITION_Y    00000165            
+[   20131.775189] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.775191] EV_ABS       003f                 00000082            
+[   20131.775201] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.791746] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.791750] EV_ABS       003f                 00000080            
+[   20131.791759] EV_ABS       ABS_MT_POSITION_Y    00000169            
+[   20131.791770] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.791772] EV_ABS       003f                 00000080            
+[   20131.791782] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.808319] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.808324] EV_ABS       003f                 0000007e            
+[   20131.808333] EV_ABS       ABS_MT_POSITION_Y    0000016d            
+[   20131.808344] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.808346] EV_ABS       003f                 0000007e            
+[   20131.808356] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.824956] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.824962] EV_ABS       003f                 00000080            
+[   20131.824972] EV_ABS       ABS_MT_POSITION_Y    00000170            
+[   20131.824984] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.824986] EV_ABS       003f                 00000080            
+[   20131.824996] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.841472] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.841477] EV_ABS       ABS_MT_POSITION_Y    00000173            
+[   20131.841480] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20131.841495] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.841497] EV_ABS       ABS_MT_POSITION_Y    0000041a            
+[   20131.841501] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.858110] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.858115] EV_ABS       003f                 00000082            
+[   20131.858123] EV_ABS       ABS_MT_POSITION_X    0000020b            
+[   20131.858126] EV_ABS       ABS_MT_POSITION_Y    00000176            
+[   20131.858130] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20131.858139] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.858141] EV_ABS       003f                 00000082            
+[   20131.858151] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.874675] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.874681] EV_ABS       003f                 00000086            
+[   20131.874688] EV_ABS       ABS_MT_POSITION_X    0000020a            
+[   20131.874691] EV_ABS       ABS_MT_POSITION_Y    00000179            
+[   20131.874703] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.874705] EV_ABS       003f                 00000086            
+[   20131.874715] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.891245] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.891249] EV_ABS       003f                 00000080            
+[   20131.891257] EV_ABS       ABS_MT_POSITION_X    00000209            
+[   20131.891260] EV_ABS       ABS_MT_POSITION_Y    0000017c            
+[   20131.891271] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.891273] EV_ABS       003f                 00000080            
+[   20131.891283] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.907786] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.907791] EV_ABS       003f                 00000082            
+[   20131.907800] EV_ABS       ABS_MT_POSITION_Y    00000180            
+[   20131.907811] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.907813] EV_ABS       003f                 00000082            
+[   20131.907824] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.924355] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.924361] EV_ABS       003f                 00000088            
+[   20131.924370] EV_ABS       ABS_MT_POSITION_Y    00000184            
+[   20131.924381] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.924383] EV_ABS       003f                 00000088            
+[   20131.924393] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.941038] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.941043] EV_ABS       003f                 00000086            
+[   20131.941051] EV_ABS       ABS_MT_POSITION_Y    00000188            
+[   20131.941062] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.941064] EV_ABS       003f                 00000086            
+[   20131.941074] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.957511] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.957516] EV_ABS       003f                 00000084            
+[   20131.957526] EV_ABS       ABS_MT_POSITION_Y    0000018c            
+[   20131.957530] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001a            
+[   20131.957539] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.957541] EV_ABS       003f                 00000084            
+[   20131.957551] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.974098] EV_ABS       ABS_MT_SLOT          00000000            
+[   20131.974102] EV_ABS       ABS_MT_POSITION_Y    00000190            
+[   20131.974106] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20131.974124] EV_SYN       SYN_REPORT           00000000 
+           
+[   20131.990738] EV_ABS       003f                 00000082            
+[   20131.990752] EV_ABS       ABS_MT_POSITION_Y    00000194            
+[   20131.990764] EV_ABS       ABS_MT_SLOT          00000001            
+[   20131.990766] EV_ABS       003f                 00000082            
+[   20131.990776] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.007299] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.007307] EV_ABS       ABS_MT_POSITION_Y    00000198            
+[   20132.007312] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+[   20132.007329] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.023818] EV_ABS       003f                 00000084            
+[   20132.023830] EV_ABS       ABS_MT_POSITION_Y    0000019c            
+[   20132.023833] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20132.023843] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.023844] EV_ABS       003f                 00000084            
+[   20132.023854] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.040559] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.040564] EV_ABS       003f                 00000082            
+[   20132.040573] EV_ABS       ABS_MT_POSITION_Y    000001a1            
+[   20132.040578] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+[   20132.040586] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.040587] EV_ABS       003f                 00000082            
+[   20132.040598] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.057014] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.057020] EV_ABS       003f                 00000084            
+[   20132.057029] EV_ABS       ABS_MT_POSITION_Y    000001a5            
+[   20132.057033] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20132.057043] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.057045] EV_ABS       003f                 00000084            
+[   20132.057056] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.073653] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.073660] EV_ABS       ABS_MT_POSITION_Y    000001a9            
+[   20132.073665] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001a            
+[   20132.073686] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.090101] EV_ABS       003f                 00000086            
+[   20132.090112] EV_ABS       ABS_MT_POSITION_Y    000001ad            
+[   20132.090115] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20132.090125] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.090126] EV_ABS       003f                 00000086            
+[   20132.090133] EV_ABS       ABS_MT_POSITION_X    00000277            
+[   20132.090138] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.106719] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.106726] EV_ABS       003f                 00000082            
+[   20132.106735] EV_ABS       ABS_MT_POSITION_Y    000001b2            
+[   20132.106747] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.106749] EV_ABS       003f                 00000082            
+[   20132.106759] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.123320] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.123326] EV_ABS       003f                 00000084            
+[   20132.123338] EV_ABS       ABS_MT_POSITION_Y    000001b6            
+[   20132.123341] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20132.123351] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.123353] EV_ABS       003f                 00000084            
+[   20132.123363] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.139833] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.139839] EV_ABS       ABS_MT_POSITION_X    0000020a            
+[   20132.139842] EV_ABS       ABS_MT_POSITION_Y    000001ba            
+[   20132.139845] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20132.139863] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.156429] EV_ABS       ABS_MT_POSITION_X    0000020b            
+[   20132.156435] EV_ABS       ABS_MT_POSITION_Y    000001be            
+[   20132.156438] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20132.156456] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.172968] EV_ABS       ABS_MT_POSITION_X    0000020c            
+[   20132.172975] EV_ABS       ABS_MT_POSITION_Y    000001c2            
+[   20132.172994] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.189571] EV_ABS       003f                 00000082            
+[   20132.189581] EV_ABS       ABS_MT_POSITION_X    0000020d            
+[   20132.189585] EV_ABS       ABS_MT_POSITION_Y    000001c6            
+[   20132.189595] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.189597] EV_ABS       003f                 00000082            
+[   20132.189605] EV_ABS       ABS_MT_POSITION_Y    00000419            
+[   20132.189610] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.206102] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.206108] EV_ABS       003f                 00000084            
+[   20132.206116] EV_ABS       ABS_MT_POSITION_X    0000020e            
+[   20132.206119] EV_ABS       ABS_MT_POSITION_Y    000001ca            
+[   20132.206122] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20132.206131] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.206133] EV_ABS       003f                 00000084            
+[   20132.206143] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.222687] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.222692] EV_ABS       ABS_MT_POSITION_X    0000020f            
+[   20132.222695] EV_ABS       ABS_MT_POSITION_Y    000001ce            
+[   20132.222715] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.239275] EV_ABS       003f                 00000086            
+[   20132.239286] EV_ABS       ABS_MT_POSITION_Y    000001d1            
+[   20132.239297] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.239299] EV_ABS       003f                 00000086            
+[   20132.239309] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.256001] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.256006] EV_ABS       003f                 00000084            
+[   20132.256016] EV_ABS       ABS_MT_POSITION_Y    000001d4            
+[   20132.256027] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.256029] EV_ABS       003f                 00000084            
+[   20132.256039] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.272646] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.272659] EV_ABS       003f                 00000086            
+[   20132.272676] EV_ABS       ABS_MT_POSITION_Y    000001d7            
+[   20132.272680] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20132.272718] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.272720] EV_ABS       003f                 00000086            
+[   20132.272730] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.289019] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.289024] EV_ABS       ABS_MT_POSITION_Y    000001da            
+[   20132.289043] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.305660] EV_ABS       ABS_MT_POSITION_Y    000001dd            
+[   20132.305681] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.322270] EV_ABS       ABS_MT_POSITION_Y    000001e0            
+[   20132.322293] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.338727] EV_ABS       003f                 00000088            
+[   20132.338738] EV_ABS       ABS_MT_POSITION_Y    000001e3            
+[   20132.338741] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20132.338750] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.338752] EV_ABS       003f                 00000088            
+[   20132.338762] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.355329] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.355333] EV_ABS       003f                 0000008a            
+[   20132.355344] EV_ABS       ABS_MT_POSITION_Y    000001e6            
+[   20132.355348] EV_ABS       ABS_MT_TOUCH_MINOR   00000008            
+[   20132.355356] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.355358] EV_ABS       003f                 0000008a            
+[   20132.355368] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.371919] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.371925] EV_ABS       003f                 00000086            
+[   20132.371935] EV_ABS       ABS_MT_POSITION_Y    000001e9            
+[   20132.371940] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+[   20132.371949] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.371951] EV_ABS       003f                 00000086            
+[   20132.371961] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.388411] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.388416] EV_ABS       003f                 00000088            
+[   20132.388425] EV_ABS       ABS_MT_POSITION_Y    000001ec            
+[   20132.388428] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001a            
+[   20132.388437] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.388439] EV_ABS       003f                 00000088            
+[   20132.388449] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.404980] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.404986] EV_ABS       ABS_MT_POSITION_Y    000001ef            
+[   20132.404989] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20132.404993] EV_ABS       ABS_MT_TOUCH_MINOR   00000008            
+[   20132.405009] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.421621] EV_ABS       003f                 00000086            
+[   20132.421636] EV_ABS       ABS_MT_POSITION_Y    000001f2            
+[   20132.421640] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001a            
+[   20132.421643] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+[   20132.421652] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.421653] EV_ABS       003f                 00000086            
+[   20132.421663] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.438226] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.438232] EV_ABS       003f                 00000084            
+[   20132.438242] EV_ABS       ABS_MT_POSITION_Y    000001f5            
+[   20132.438245] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20132.438255] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.438257] EV_ABS       003f                 00000084            
+[   20132.438267] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.455027] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.455043] EV_ABS       003f                 00000086            
+[   20132.455057] EV_ABS       ABS_MT_POSITION_X    00000210            
+[   20132.455061] EV_ABS       ABS_MT_POSITION_Y    000001f9            
+[   20132.455066] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20132.455078] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.455081] EV_ABS       003f                 00000086            
+[   20132.455093] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.471332] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.471337] EV_ABS       ABS_MT_POSITION_Y    000001fd            
+[   20132.471356] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.487902] EV_ABS       ABS_MT_POSITION_Y    00000201            
+[   20132.487925] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.504609] EV_ABS       ABS_MT_POSITION_Y    00000205            
+[   20132.504617] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001a            
+[   20132.504636] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.521233] EV_ABS       003f                 00000088            
+[   20132.521245] EV_ABS       ABS_MT_POSITION_Y    00000209            
+[   20132.521256] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.521258] EV_ABS       003f                 00000088            
+[   20132.521269] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.537646] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.537651] EV_ABS       003f                 0000008a            
+[   20132.537660] EV_ABS       ABS_MT_POSITION_Y    0000020e            
+[   20132.537671] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.537672] EV_ABS       003f                 0000008a            
+[   20132.537680] EV_ABS       ABS_MT_POSITION_Y    00000418            
+[   20132.537684] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.554329] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.554333] EV_ABS       003f                 0000008c            
+[   20132.554340] EV_ABS       ABS_MT_POSITION_X    00000211            
+[   20132.554343] EV_ABS       ABS_MT_POSITION_Y    00000212            
+[   20132.554354] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.554356] EV_ABS       003f                 0000008c            
+[   20132.554366] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.570899] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.570904] EV_ABS       003f                 0000008e            
+[   20132.570911] EV_ABS       ABS_MT_POSITION_X    00000212            
+[   20132.570914] EV_ABS       ABS_MT_POSITION_Y    00000216            
+[   20132.570918] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001b            
+[   20132.570927] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.570929] EV_ABS       003f                 0000008e            
+[   20132.570939] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.587447] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.587451] EV_ABS       003f                 0000008a            
+[   20132.587459] EV_ABS       ABS_MT_POSITION_X    00000213            
+[   20132.587462] EV_ABS       ABS_MT_POSITION_Y    0000021a            
+[   20132.587465] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001c            
+[   20132.587468] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+[   20132.587476] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.587477] EV_ABS       003f                 0000008a            
+[   20132.587487] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.603777] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.603782] EV_ABS       003f                 00000082            
+[   20132.603790] EV_ABS       ABS_MT_POSITION_X    00000214            
+[   20132.603793] EV_ABS       ABS_MT_POSITION_Y    0000021d            
+[   20132.603798] EV_ABS       ABS_MT_TOUCH_MINOR   0000000b            
+[   20132.603805] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.603808] EV_ABS       003f                 00000082            
+[   20132.603818] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.620093] EV_ABS       ABS_MT_SLOT          00000000            
+[   20132.620098] EV_ABS       003f                 0000007e            
+[   20132.620105] EV_ABS       ABS_MT_POSITION_X    00000215            
+[   20132.620108] EV_ABS       ABS_MT_POSITION_Y    00000220            
+[   20132.620113] EV_ABS       ABS_MT_TOUCH_MINOR   0000000e            
+[   20132.620121] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.620123] EV_ABS       003f                 0000007e            
+[   20132.620133] EV_SYN       SYN_REPORT           00000000 
+
+
+									ACTION_MOVE 
+           
+[   20132.636757] EV_ABS       ABS_MT_SLOT          00000000	20132636  ptr id 0 (547.0, 265.0, sz: 0.092156865, p:1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p:1.0) 
+[   20132.636763] EV_ABS       003f                 0000007a            
+[   20132.636771] EV_ABS       ABS_MT_POSITION_X    00000216            
+[   20132.636774] EV_ABS       ABS_MT_POSITION_Y    00000223            
+[   20132.636779] EV_ABS       ABS_MT_TOUCH_MINOR   00000011            
+[   20132.636787] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.636789] EV_ABS       003f                 0000007a            
+[   20132.636799] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.653345] EV_ABS       ABS_MT_SLOT          00000000	20132653  ptr id 0 (688.0, 230.0, sz: 0.092156865, p:1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p:1.0)  
+[   20132.653350] EV_ABS       003f                 00000074            
+[   20132.653358] EV_ABS       ABS_MT_POSITION_X    00000239            
+[   20132.653361] EV_ABS       ABS_MT_POSITION_Y    000002b0            
+[   20132.653364] EV_ABS       ABS_MT_TOUCH_MAJOR   0000001d            
+[   20132.653367] EV_ABS       ABS_MT_TOUCH_MINOR   00000012            
+[   20132.653375] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.653377] EV_ABS       003f                 00000074            
+[   20132.653387] EV_SYN       SYN_REPORT           00000000 
+ 
+	FAKE							20132659  ptr id 0 (737.43896, 217.7279, sz: 0.092156865, p: 1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p: 1.0)
+          
+
+								ACTION_POINTER_2_UP
+[   20132.669920] EV_ABS       ABS_MT_SLOT          00000000	20132669  ptr id 0 (737.43896, 217.7279, sz: 0.0, p: 1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p: 1.0)      
+[   20132.669927] EV_ABS       ABS_MT_POSITION_X    00000268            
+[   20132.669930] EV_ABS       ABS_MT_POSITION_Y    000003a0            
+[   20132.669934] EV_ABS       ABS_MT_TOUCH_MAJOR   00000000            
+[   20132.669936] EV_ABS       ABS_MT_TOUCH_MINOR   00000000            
+[   20132.669942] EV_ABS       ABS_MT_SLOT          00000001            
+[   20132.669943] EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[   20132.669982] EV_SYN       SYN_REPORT           00000000 
+	
+								ACTION_MOVE
+	FAKE							20132669  ptr id 0 (928.0, 183.0, sz: 0.0, p:1.0)
+           								
+[   20132.686167] EV_ABS       ABS_MT_SLOT          00000000	20132686  ptr id 0 (1032.0, 164.0, sz: 0.0, p:1.0)    
+[   20132.686171] EV_ABS       ABS_MT_POSITION_X    0000027b            
+[   20132.686174] EV_ABS       ABS_MT_POSITION_Y    00000408            
+[   20132.686179] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.702802] EV_ABS       003f                 00000078	20132702  ptr id 0 (1034.0, 164.0, sz: 0.0, p:1.0)       
+[   20132.702813] EV_ABS       ABS_MT_POSITION_Y    0000040a            
+[   20132.702818] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.719295] EV_ABS       003f                 00000076	20132719  ptr id 0 (1036.0, 164.0, sz: 0.0, p:1.0)      
+[   20132.719306] EV_ABS       ABS_MT_POSITION_Y    0000040c            
+[   20132.719311] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.735862] EV_ABS       003f                 0000007a            
+[   20132.735873] EV_ABS       ABS_MT_POSITION_Y    0000040d            
+[   20132.735879] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.752465] EV_ABS       003f                 0000007c            
+[   20132.752478] EV_ABS       ABS_MT_POSITION_Y    0000040e            
+[   20132.752483] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.769007] EV_ABS       003f                 00000078            
+[   20132.769017] EV_ABS       ABS_MT_POSITION_Y    0000040f            
+[   20132.769023] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.785567] EV_ABS       003f                 0000007c            
+[   20132.785581] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.802157] EV_ABS       003f                 00000076            
+[   20132.802171] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.818740] EV_ABS       003f                 00000078            
+[   20132.818754] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.835357] EV_ABS       003f                 0000007e            
+[   20132.835372] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.851923] EV_ABS       003f                 00000074            
+[   20132.851937] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.868503] EV_ABS       003f                 00000078            
+[   20132.868519] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.885051] EV_ABS       003f                 0000007a            
+[   20132.885066] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.901661] EV_ABS       003f                 00000078            
+[   20132.901678] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.934803] EV_ABS       003f                 00000074            
+[   20132.934820] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.951480] EV_ABS       003f                 00000072            
+[   20132.951494] EV_SYN       SYN_REPORT           00000000 
+           
+[   20132.968047] EV_ABS       003f                 00000074            
+[   20132.968063] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.001046] EV_ABS       003f                 00000076            
+[   20133.001060] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.017734] EV_ABS       003f                 0000007a            
+[   20133.017751] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.034336] EV_ABS       003f                 00000074            
+[   20133.034351] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.050918] EV_ABS       003f                 00000076            
+[   20133.050932] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.067473] EV_ABS       003f                 00000074            
+[   20133.067488] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.100543] EV_ABS       003f                 00000078            
+[   20133.100564] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.133675] EV_ABS       003f                 00000076            
+[   20133.133696] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.166937] EV_ABS       003f                 00000072            
+[   20133.166952] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.183550] EV_ABS       003f                 00000076            
+[   20133.183572] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.249892] EV_ABS       003f                 00000074            
+[   20133.249911] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.283028] EV_ABS       003f                 00000072            
+[   20133.283050] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.316264] EV_ABS       003f                 00000074            
+[   20133.316288] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.365862] EV_ABS       003f                 00000072            
+[   20133.365883] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.382433] EV_ABS       003f                 00000074            
+[   20133.382453] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.399095] EV_ABS       003f                 00000078            
+[   20133.399116] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.415678] EV_ABS       003f                 00000074            
+[   20133.415700] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.465334] EV_ABS       003f                 00000076            
+[   20133.465354] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.481982] EV_ABS       003f                 00000078            
+[   20133.482003] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.498445] EV_ABS       003f                 00000076            
+[   20133.498478] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.515048] EV_ABS       003f                 00000078            
+[   20133.515070] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.531742] EV_ABS       003f                 00000076            
+[   20133.531764] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.548148] EV_ABS       003f                 00000074            
+[   20133.548168] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.564752] EV_ABS       003f                 00000072            
+[   20133.564772] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.581301] EV_ABS       003f                 00000070            
+[   20133.581322] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.598019] EV_ABS       003f                 00000072            
+[   20133.598044] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.614509] EV_ABS       003f                 00000074            
+[   20133.614542] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.631146] EV_ABS       003f                 00000070            
+[   20133.631163] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.647571] EV_ABS       003f                 00000072            
+[   20133.647605] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.697113] EV_ABS       003f                 00000074            
+[   20133.697127] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.713753] EV_ABS       003f                 00000072            
+[   20133.713767] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.746837] EV_ABS       003f                 00000074            
+[   20133.746853] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.763535] EV_ABS       ABS_MT_POSITION_Y    0000040e            
+[   20133.763543] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.779966] EV_ABS       003f                 00000072            
+[   20133.779977] EV_ABS       ABS_MT_POSITION_Y    0000040b            
+[   20133.779982] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.796528] EV_ABS       003f                 00000070            
+[   20133.796542] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.813128] EV_ABS       003f                 0000006e            
+[   20133.813137] EV_ABS       ABS_MT_POSITION_X    0000027a            
+[   20133.813140] EV_ABS       ABS_MT_POSITION_Y    0000040c            
+[   20133.813145] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.829735] EV_ABS       003f                 00000070            
+[   20133.829746] EV_ABS       ABS_MT_POSITION_Y    0000040d            
+[   20133.829751] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.846350] EV_ABS       003f                 00000076            
+[   20133.846362] EV_ABS       ABS_MT_POSITION_Y    0000040c            
+[   20133.846367] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.862979] EV_ABS       ABS_MT_POSITION_Y    0000040a            
+[   20133.862986] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.879535] EV_ABS       003f                 0000007a            
+[   20133.879549] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.896035] EV_ABS       003f                 00000076            
+[   20133.896046] EV_ABS       ABS_MT_POSITION_Y    0000040b            
+[   20133.896051] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.912580] EV_ABS       003f                 00000070            
+[   20133.912594] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.945832] EV_ABS       003f                 00000078            
+[   20133.945846] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.962325] EV_ABS       003f                 00000076            
+[   20133.962335] EV_ABS       ABS_MT_POSITION_X    00000279            
+[   20133.962341] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.978902] EV_ABS       003f                 00000078            
+[   20133.978915] EV_SYN       SYN_REPORT           00000000 
+           
+[   20133.995432] EV_ABS       003f                 00000074            
+[   20133.995446] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.028700] EV_ABS       003f                 00000076            
+[   20134.028713] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.045156] EV_ABS       003f                 00000078            
+[   20134.045169] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.061784] EV_ABS       003f                 00000076            
+[   20134.061803] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.078320] EV_ABS       003f                 00000078            
+[   20134.078333] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.095017] EV_ABS       003f                 00000076            
+[   20134.095034] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.111483] EV_ABS       003f                 0000007a            
+[   20134.111499] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.128067] EV_ABS       003f                 00000072            
+[   20134.128085] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.161304] EV_ABS       003f                 00000074            
+[   20134.161324] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.177833] EV_ABS       003f                 00000072            
+[   20134.177846] EV_ABS       ABS_MT_POSITION_X    00000278            
+[   20134.177855] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.194480] EV_ABS       003f                 00000074            
+[   20134.194496] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.211068] EV_ABS       003f                 00000076            
+[   20134.211085] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.227623] EV_ABS       003f                 0000007c            
+[   20134.227640] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.244222] EV_ABS       003f                 0000007a            
+[   20134.244237] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.260862] EV_ABS       003f                 0000007c            
+[   20134.260882] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.277356] EV_ABS       003f                 00000078            
+[   20134.277372] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.293951] EV_ABS       003f                 0000007c            
+[   20134.293967] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.343699] EV_ABS       003f                 0000007e            
+[   20134.343718] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.376860] EV_ABS       003f                 0000007c            
+[   20134.376881] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.409956] EV_ABS       003f                 0000007a            
+[   20134.409978] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.476286] EV_ABS       003f                 00000078            
+[   20134.476309] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.509365] EV_ABS       003f                 00000076            
+[   20134.509396] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.525911] EV_ABS       003f                 00000072            
+[   20134.525939] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.542450] EV_ABS       003f                 0000006e            
+[   20134.542467] EV_ABS       ABS_MT_POSITION_X    00000277            
+[   20134.542481] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.559274] EV_ABS       003f                 00000062            
+[   20134.559288] EV_ABS       ABS_MT_POSITION_X    00000276            
+[   20134.559297] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.575814] EV_ABS       003f                 00000066            
+[   20134.575834] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.592192] EV_ABS       003f                 0000005e            
+[   20134.592208] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.608488] EV_ABS       003f                 0000004a            
+[   20134.608499] EV_ABS       ABS_MT_POSITION_X    00000275            
+[   20134.608506] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.624875] EV_ABS       003f                 00000030            
+[   20134.624886] EV_ABS       ABS_MT_POSITION_X    0000026c            
+[   20134.624890] EV_ABS       ABS_MT_POSITION_Y    0000040d            
+[   20134.624896] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.641308] EV_ABS       003f                 00000022            
+[   20134.641318] EV_ABS       ABS_MT_POSITION_X    0000023d            
+[   20134.641321] EV_ABS       ABS_MT_POSITION_Y    00000413            
+[   20134.641326] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.657859] EV_ABS       003f                 0000001a            
+[   20134.657868] EV_ABS       ABS_MT_POSITION_X    00000224            
+[   20134.657871] EV_ABS       ABS_MT_POSITION_Y    00000415            
+[   20134.657876] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.674299] EV_ABS       003f                 00000008            
+[   20134.674309] EV_ABS       ABS_MT_POSITION_X    00000222            
+[   20134.674313] EV_ABS       ABS_MT_TOUCH_MAJOR   00000014            
+[   20134.674317] EV_ABS       ABS_MT_TOUCH_MINOR   00000013            
+[   20134.674320] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.689764] EV_ABS       003f                 00000004            
+[   20134.689777] EV_ABS       ABS_MT_TOUCH_MAJOR   00000013            
+[   20134.689782] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.705577] EV_ABS       ABS_MT_TOUCH_MAJOR   00000014            
+[   20134.705582] EV_ABS       ABS_MT_TOUCH_MINOR   00000014            
+[   20134.705586] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.722160] EV_ABS       ABS_MT_TOUCH_MAJOR   00000015            
+[   20134.722166] EV_ABS       ABS_MT_TOUCH_MINOR   00000013            
+[   20134.722170] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.738988] EV_ABS       ABS_MT_TOUCH_MAJOR   00000013            
+[   20134.738995] EV_SYN       SYN_REPORT           00000000 
+           
+[   20134.755262] EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[   20134.755299] EV_KEY       BTN_TOUCH            UP                  
+[   20134.755301] EV_SYN       SYN_REPORT           00000000 
+           
+01-22 09:26:14.131: I/ConnectionManager(24196): Check for Connecting Timeout runs: DIDN'T CANCEL
+01-22 09:26:19.031: D/ViewRootImpl(24196): ViewPostImeInputStage ACTION_DOWN
+01-22 09:26:19.031: I/WacomLibrary(24196):  ACTION_DOWN 
+01-22 09:26:19.031: I/WacomLibrary(24196): 20130219  ptr id 0 (132.0, 333.0, sz: 0.068627454, p: 1.0)  
+01-22 09:26:19.031: W/WacomEvent(24196): labeling MotionEvent pointer 0 as unknown
+01-22 09:26:19.051: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.051: I/WacomLibrary(24196): 20130230  ptr id 0 (132.0, 334.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.051: I/WacomLibrary(24196): 20130241  ptr id 0 (132.0, 334.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.051: I/WacomLibrary(24196): 20130242  ptr id 0 (132.0, 334.0, sz: 0.07058824, p: 1.0)  
+01-22 09:26:19.091: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.091: I/WacomLibrary(24196): 20130264  ptr id 0 (132.0, 334.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.091: I/WacomLibrary(24196): 20130275  ptr id 0 (132.0, 334.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.091: I/WacomLibrary(24196): 20130275  ptr id 0 (132.0, 334.0, sz: 0.07254902, p: 1.0)  
+01-22 09:26:19.111: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.111: I/WacomLibrary(24196): 20130286  ptr id 0 (132.0, 334.0, sz: 0.07450981, p:1.0)  
+01-22 09:26:19.111: I/WacomLibrary(24196): 20130292  ptr id 0 (132.57185, 333.42813, sz: 0.07450981, p: 1.0)  
+01-22 09:26:19.131: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.131: I/WacomLibrary(24196): 20130297  ptr id 0 (133.0, 333.0, sz: 0.08627451, p:1.0)  
+01-22 09:26:19.131: I/WacomLibrary(24196): 20130308  ptr id 0 (134.0, 332.0, sz: 0.08627451, p:1.0)  
+01-22 09:26:19.131: I/WacomLibrary(24196): 20130309  ptr id 0 (134.0759, 331.8482, sz: 0.08627451, p: 1.0)  
+01-22 09:26:19.161: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.161: I/WacomLibrary(24196): 20130319  ptr id 0 (135.0, 330.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.161: I/WacomLibrary(24196): 20130330  ptr id 0 (136.0, 327.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.161: I/WacomLibrary(24196): 20130341  ptr id 0 (137.0, 323.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.161: I/WacomLibrary(24196): 20130342  ptr id 0 (137.09235, 322.63065, sz: 0.07254902, p: 1.0)  
+01-22 09:26:19.181: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.181: I/WacomLibrary(24196): 20130352  ptr id 0 (138.0, 319.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.181: I/WacomLibrary(24196): 20130359  ptr id 0 (139.18762, 316.62476, sz: 0.07058824, p: 1.0)  
+01-22 09:26:19.201: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.201: I/WacomLibrary(24196): 20130363  ptr id 0 (140.0, 315.0, sz: 0.08235294, p:1.0)  
+01-22 09:26:19.201: I/WacomLibrary(24196): 20130374  ptr id 0 (141.0, 311.0, sz: 0.08235294, p:1.0)  
+01-22 09:26:19.201: I/WacomLibrary(24196): 20130385  ptr id 0 (142.0, 306.0, sz: 0.08235294, p:1.0)  
+01-22 09:26:19.201: I/WacomLibrary(24196): 20130392  ptr id 0 (142.60231, 303.5908, sz: 0.08235294, p: 1.0)  
+01-22 09:26:19.221: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.221: I/WacomLibrary(24196): 20130396  ptr id 0 (143.0, 302.0, sz: 0.08431373, p:1.0)  
+01-22 09:26:19.221: I/WacomLibrary(24196): 20130408  ptr id 0 (144.0, 298.0, sz: 0.08431373, p:1.0)  
+01-22 09:26:19.221: I/WacomLibrary(24196): 20130409  ptr id 0 (144.10928, 297.56287, sz: 0.08431373, p: 1.0)  
+01-22 09:26:19.251: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.251: I/WacomLibrary(24196): 20130419  ptr id 0 (145.0, 295.0, sz: 0.078431375, p:1.0)  
+01-22 09:26:19.251: I/WacomLibrary(24196): 20130425  ptr id 0 (145.61241, 293.16275, sz: 0.078431375, p: 1.0)  
+01-22 09:26:19.271: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.271: I/WacomLibrary(24196): 20130430  ptr id 0 (146.0, 292.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.271: I/WacomLibrary(24196): 20130441  ptr id 0 (147.0, 289.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.271: I/WacomLibrary(24196): 20130442  ptr id 0 (147.11276, 288.6617, sz: 0.07254902, p: 1.0)  
+01-22 09:26:19.301: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.301: I/WacomLibrary(24196): 20130452  ptr id 0 (148.0, 286.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.301: I/WacomLibrary(24196): 20130463  ptr id 0 (149.0, 283.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.301: I/WacomLibrary(24196): 20130474  ptr id 0 (150.0, 280.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.301: I/WacomLibrary(24196): 20130475  ptr id 0 (150.13016, 279.7397, sz: 0.07058824, p: 1.0)  
+01-22 09:26:19.321: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.321: I/WacomLibrary(24196): 20130485  ptr id 0 (151.0, 278.0, sz: 0.07647059, p:1.0)  
+01-22 09:26:19.321: I/WacomLibrary(24196): 20130496  ptr id 0 (152.0, 276.0, sz: 0.07647059, p:1.0)  
+01-22 09:26:19.321: I/WacomLibrary(24196): 20130507  ptr id 0 (153.0, 273.0, sz: 0.07647059, p:1.0)  
+01-22 09:26:19.321: I/WacomLibrary(24196): 20130509  ptr id 0 (153.13422, 272.59735, sz: 0.07647059, p: 1.0)  
+01-22 09:26:19.351: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.351: I/WacomLibrary(24196): 20130518  ptr id 0 (154.0, 271.0, sz: 0.08235294, p:1.0)  
+01-22 09:26:19.351: I/WacomLibrary(24196): 20130525  ptr id 0 (154.64063, 269.71875, sz: 0.08235294, p: 1.0)  
+01-22 09:26:19.371: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.371: I/WacomLibrary(24196): 20130529  ptr id 0 (155.0, 269.0, sz: 0.09019608, p:1.0)  
+01-22 09:26:19.371: I/WacomLibrary(24196): 20130541  ptr id 0 (156.0, 267.0, sz: 0.09019608, p:1.0)  
+01-22 09:26:19.371: I/WacomLibrary(24196): 20130542  ptr id 0 (156.13924, 266.72153, sz: 0.09019608, p: 1.0)  
+01-22 09:26:19.391: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.391: I/WacomLibrary(24196): 20130552  ptr id 0 (157.0, 265.0, sz: 0.08627451, p:1.0)  
+01-22 09:26:19.391: I/WacomLibrary(24196): 20130563  ptr id 0 (158.0, 264.0, sz: 0.08627451, p:1.0)  
+01-22 09:26:19.391: I/WacomLibrary(24196): 20130574  ptr id 0 (160.0, 263.0, sz: 0.08627451, p:1.0)  
+01-22 09:26:19.391: I/WacomLibrary(24196): 20130575  ptr id 0 (160.29558, 263.0, sz: 0.08627451, p: 1.0)  
+01-22 09:26:19.421: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.421: I/WacomLibrary(24196): 20130585  ptr id 0 (162.0, 263.0, sz: 0.07647059, p:1.0)  
+01-22 09:26:19.421: I/WacomLibrary(24196): 20130592  ptr id 0 (163.30861, 263.0, sz: 0.07647059, p: 1.0)  
+01-22 09:26:19.441: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.441: I/WacomLibrary(24196): 20130596  ptr id 0 (164.0, 263.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.441: I/WacomLibrary(24196): 20130607  ptr id 0 (166.0, 263.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.441: I/WacomLibrary(24196): 20130618  ptr id 0 (169.0, 264.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.441: I/WacomLibrary(24196): 20130625  ptr id 0 (171.01071, 264.67023, sz: 0.07058824, p: 1.0)  
+01-22 09:26:19.471: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.471: I/WacomLibrary(24196): 20130629  ptr id 0 (172.0, 265.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.471: I/WacomLibrary(24196): 20130640  ptr id 0 (175.0, 267.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.471: I/WacomLibrary(24196): 20130642  ptr id 0 (175.51414, 267.1714, sz: 0.07058824, p: 1.0)  
+01-22 09:26:19.491: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.491: I/WacomLibrary(24196): 20130651  ptr id 0 (178.0, 268.0, sz: 0.08431373, p:1.0)  
+01-22 09:26:19.491: I/WacomLibrary(24196): 20130662  ptr id 0 (181.0, 270.0, sz: 0.08431373, p:1.0)  
+01-22 09:26:19.491: I/WacomLibrary(24196): 20130673  ptr id 0 (184.0, 273.0, sz: 0.08431373, p:1.0)  
+01-22 09:26:19.491: I/WacomLibrary(24196): 20130675  ptr id 0 (184.53978, 273.53976, sz: 0.08431373, p: 1.0)  
+01-22 09:26:19.521: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.521: I/WacomLibrary(24196): 20130685  ptr id 0 (187.0, 276.0, sz: 0.08431373, p:1.0)  
+01-22 09:26:19.521: I/WacomLibrary(24196): 20130692  ptr id 0 (189.05731, 278.74307, sz: 0.08431373, p: 1.0)  
+01-22 09:26:19.541: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.541: I/WacomLibrary(24196): 20130696  ptr id 0 (190.0, 280.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.541: I/WacomLibrary(24196): 20130707  ptr id 0 (193.0, 284.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.541: I/WacomLibrary(24196): 20130718  ptr id 0 (196.0, 287.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.541: I/WacomLibrary(24196): 20130725  ptr id 0 (198.08322, 289.08322, sz: 0.07058824, p: 1.0)  
+01-22 09:26:19.561: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.561: I/WacomLibrary(24196): 20130729  ptr id 0 (199.0, 290.0, sz: 0.068627454, p:1.0)  
+01-22 09:26:19.561: I/WacomLibrary(24196): 20130740  ptr id 0 (202.0, 293.0, sz: 0.068627454, p:1.0)  
+01-22 09:26:19.561: I/WacomLibrary(24196): 20130742  ptr id 0 (202.39342, 293.39343, sz: 0.068627454, p: 1.0)  
+01-22 09:26:19.591: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.591: I/WacomLibrary(24196): 20130751  ptr id 0 (204.0, 295.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.591: I/WacomLibrary(24196): 20130762  ptr id 0 (206.0, 297.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.591: I/WacomLibrary(24196): 20130773  ptr id 0 (209.0, 299.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.591: I/WacomLibrary(24196): 20130775  ptr id 0 (209.62306, 299.41537, sz: 0.07254902, p: 1.0)  
+01-22 09:26:19.611: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.611: I/WacomLibrary(24196): 20130784  ptr id 0 (211.0, 300.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.611: I/WacomLibrary(24196): 20130792  ptr id 0 (212.42242, 300.7112, sz: 0.07254902, p: 1.0)  
+01-22 09:26:19.641: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.641: I/WacomLibrary(24196): 20130795  ptr id 0 (213.0, 301.0, sz: 0.07450981, p:1.0)  
+01-22 09:26:19.641: I/WacomLibrary(24196): 20130806  ptr id 0 (215.0, 302.0, sz: 0.07450981, p:1.0)  
+01-22 09:26:19.641: I/WacomLibrary(24196): 20130809  ptr id 0 (215.42726, 302.21362, sz: 0.07450981, p: 1.0)  
+01-22 09:26:19.661: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.661: I/WacomLibrary(24196): 20130817  ptr id 0 (217.0, 303.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.661: I/WacomLibrary(24196): 20130829  ptr id 0 (218.0, 303.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.661: I/WacomLibrary(24196): 20130840  ptr id 0 (219.0, 303.0, sz: 0.07058824, p:1.0)  
+01-22 09:26:19.661: I/WacomLibrary(24196): 20130842  ptr id 0 (219.21817, 303.0, sz: 0.07058824, p: 1.0)  
+01-22 09:26:19.681: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.681: I/WacomLibrary(24196): 20130851  ptr id 0 (221.0, 302.0, sz: 0.07450981, p:1.0)  
+01-22 09:26:19.681: I/WacomLibrary(24196): 20130859  ptr id 0 (221.73029, 301.2697, sz: 0.07450981, p: 1.0)  
+01-22 09:26:19.701: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.701: I/WacomLibrary(24196): 20130862  ptr id 0 (222.0, 301.0, sz: 0.07450981, p:1.0)  
+01-22 09:26:19.701: I/WacomLibrary(24196): 20130873  ptr id 0 (224.0, 298.0, sz: 0.07450981, p:1.0)  
+01-22 09:26:19.701: I/WacomLibrary(24196): 20130884  ptr id 0 (226.0, 293.0, sz: 0.07450981, p:1.0)  
+01-22 09:26:19.701: I/WacomLibrary(24196): 20130892  ptr id 0 (226.73068, 289.3466, sz: 0.07450981, p: 1.0)  
+01-22 09:26:19.731: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.731: I/WacomLibrary(24196): 20130895  ptr id 0 (227.0, 288.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.731: I/WacomLibrary(24196): 20130906  ptr id 0 (228.0, 283.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.731: I/WacomLibrary(24196): 20130909  ptr id 0 (228.0, 282.01346, sz: 0.07254902, p: 1.0)  
+01-22 09:26:19.751: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.751: I/WacomLibrary(24196): 20130917  ptr id 0 (228.0, 279.0, sz: 0.0882353, p:1.0)  
+01-22 09:26:19.751: I/WacomLibrary(24196): 20130928  ptr id 0 (228.0, 275.0, sz: 0.0882353, p:1.0)  
+01-22 09:26:19.751: I/WacomLibrary(24196): 20130939  ptr id 0 (228.0, 271.0, sz: 0.0882353, p:1.0)  
+01-22 09:26:19.751: I/WacomLibrary(24196): 20130942  ptr id 0 (228.0, 269.98596, sz: 0.0882353, p: 1.0)  
+01-22 09:26:19.781: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.781: I/WacomLibrary(24196): 20130950  ptr id 0 (228.0, 267.0, sz: 0.08627451, p:1.0)  
+01-22 09:26:19.781: I/WacomLibrary(24196): 20130959  ptr id 0 (228.0, 263.96426, sz: 0.08627451, p: 1.0)  
+01-22 09:26:19.801: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.801: I/WacomLibrary(24196): 20130961  ptr id 0 (228.0, 263.0, sz: 0.07450981, p:1.0)  
+01-22 09:26:19.801: I/WacomLibrary(24196): 20130972  ptr id 0 (228.0, 260.0, sz: 0.07450981, p:1.0)  
+01-22 09:26:19.801: I/WacomLibrary(24196): 20130975  ptr id 0 (228.0, 259.2114, sz: 0.07450981, p: 1.0)  
+01-22 09:26:19.821: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.821: I/WacomLibrary(24196): 20130984  ptr id 0 (228.0, 257.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.821: I/WacomLibrary(24196): 20130992  ptr id 0 (227.23201, 255.46402, sz: 0.07254902, p: 1.0)  
+01-22 09:26:19.841: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.841: I/WacomLibrary(24196): 20130995  ptr id 0 (227.0, 255.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.841: I/WacomLibrary(24196): 20131006  ptr id 0 (226.0, 253.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.841: I/WacomLibrary(24196): 20131017  ptr id 0 (226.0, 251.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.841: I/WacomLibrary(24196): 20131025  ptr id 0 (226.0, 250.22078, sz: 0.07254902, p: 1.0)  
+01-22 09:26:19.861: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.861: I/WacomLibrary(24196): 20131028  ptr id 0 (226.0, 250.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.861: I/WacomLibrary(24196): 20131039  ptr id 0 (225.0, 249.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.861: I/WacomLibrary(24196): 20131042  ptr id 0 (225.0, 248.71883, sz: 0.07254902, p: 1.0)  
+01-22 09:26:19.891: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.891: I/WacomLibrary(24196): 20131050  ptr id 0 (225.0, 248.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.891: I/WacomLibrary(24196): 20131061  ptr id 0 (225.0, 248.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.891: I/WacomLibrary(24196): 20131072  ptr id 0 (225.0, 248.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.891: I/WacomLibrary(24196): 20131075  ptr id 0 (225.0, 248.0, sz: 0.07254902, p: 1.0)  
+01-22 09:26:19.941: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.941: I/WacomLibrary(24196): 20131116  ptr id 0 (225.0, 248.0, sz: 0.07254902, p:1.0)  
+01-22 09:26:19.941: I/WacomLibrary(24196): 20131125  ptr id 0 (225.0, 248.0, sz: 0.07254902, p: 1.0)  
+01-22 09:26:19.961: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.961: I/WacomLibrary(24196): 20131127  ptr id 0 (225.0, 248.0, sz: 0.078431375, p:1.0)  
+01-22 09:26:19.961: I/WacomLibrary(24196): 20131139  ptr id 0 (225.0, 248.0, sz: 0.078431375, p:1.0)  
+01-22 09:26:19.961: I/WacomLibrary(24196): 20131142  ptr id 0 (225.30334, 248.30334, sz: 0.078431375, p: 1.0)  
+01-22 09:26:19.981: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:19.981: I/WacomLibrary(24196): 20131150  ptr id 0 (226.0, 249.0, sz: 0.08431373, p:1.0)  
+01-22 09:26:19.981: I/WacomLibrary(24196): 20131159  ptr id 0 (226.80342, 249.80342, sz: 0.08431373, p: 1.0)  
+01-22 09:26:20.011: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.011: I/WacomLibrary(24196): 20131161  ptr id 0 (227.0, 250.0, sz: 0.08235294, p:1.0)  
+01-22 09:26:20.011: I/WacomLibrary(24196): 20131172  ptr id 0 (229.0, 251.0, sz: 0.08235294, p:1.0)  
+01-22 09:26:20.011: I/WacomLibrary(24196): 20131183  ptr id 0 (231.0, 252.0, sz: 0.08235294, p:1.0)  
+01-22 09:26:20.011: I/WacomLibrary(24196): 20131192  ptr id 0 (232.60318, 252.80159, sz: 0.08235294, p: 1.0)  
+01-22 09:26:20.021: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.021: I/WacomLibrary(24196): 20131194  ptr id 0 (233.0, 253.0, sz: 0.07450981, p:1.0)  
+01-22 09:26:20.021: I/WacomLibrary(24196): 20131206  ptr id 0 (236.0, 255.0, sz: 0.07450981, p: 1.0)  
+01-22 09:26:20.021: I/WacomLibrary(24196):  ACTION_POINTER_2_DOWN 
+01-22 09:26:20.021: I/WacomLibrary(24196): 20131206  ptr id 0 (236.0, 255.0, sz: 0.07450981, p: 1.0)    ptr id 1 (1058.0, 235.0, sz: 0.07058824, p: 1.0)  
+01-22 09:26:20.021: W/PointerTracker(24196):  case 1a - rejected pointer 1, already is a stylus at id: 0, touches size: 1
+01-22 09:26:20.041: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.041: I/WacomLibrary(24196): 20131217  ptr id 0 (239.0, 256.0, sz: 0.07254902, p:1.0)    ptr id 1 (1058.0, 235.0, sz: 0.060784318, p:1.0)  
+01-22 09:26:20.041: I/WacomLibrary(24196): 20131225  ptr id 0 (240.51582, 257.5158, sz: 0.07254902, p: 1.0)    ptr id 1 (1057.2421, 235.7579, sz: 0.060784318, p: 1.0)  
+01-22 09:26:20.051: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.051: I/WacomLibrary(24196): 20131228  ptr id 0 (241.0, 258.0, sz: 0.07254902, p:1.0)    ptr id 1 (1057.0, 236.0, sz: 0.068627454, p:1.0)  
+01-22 09:26:20.051: I/WacomLibrary(24196): 20131239  ptr id 0 (244.0, 259.0, sz: 0.07254902, p:1.0)    ptr id 1 (1056.0, 236.0, sz: 0.068627454, p:1.0)  
+01-22 09:26:20.051: I/WacomLibrary(24196): 20131242  ptr id 0 (244.7259, 259.24197, sz: 0.07254902, p: 1.0)    ptr id 1 (1055.758, 236.0, sz: 0.068627454, p: 1.0)  
+01-22 09:26:20.071: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.071: I/WacomLibrary(24196): 20131250  ptr id 0 (247.0, 260.0, sz: 0.07058824, p:1.0)    ptr id 1 (1055.0, 236.0, sz: 0.06666667, p:1.0)  
+01-22 09:26:20.071: I/WacomLibrary(24196): 20131259  ptr id 0 (249.17671, 261.45114, sz: 0.07058824, p: 1.0)    ptr id 1 (1054.2744, 236.0, sz: 0.06666667, p: 1.0)  
+01-22 09:26:20.101: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.101: I/WacomLibrary(24196): 20131262  ptr id 0 (250.0, 262.0, sz: 0.07254902, p:1.0)    ptr id 1 (1054.0, 236.0, sz: 0.08627451, p:1.0)  
+01-22 09:26:20.101: I/WacomLibrary(24196): 20131273  ptr id 0 (253.0, 264.0, sz: 0.07254902, p:1.0)    ptr id 1 (1053.0, 236.0, sz: 0.08627451, p:1.0)  
+01-22 09:26:20.101: I/WacomLibrary(24196): 20131275  ptr id 0 (253.5902, 264.39346, sz: 0.07254902, p: 1.0)    ptr id 1 (1052.8032, 236.0, sz: 0.08627451, p: 1.0)  
+01-22 09:26:20.121: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.121: I/WacomLibrary(24196): 20131284  ptr id 0 (256.0, 266.0, sz: 0.07058824, p:1.0)    ptr id 1 (1052.0, 236.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.121: I/WacomLibrary(24196): 20131296  ptr id 0 (259.0, 268.0, sz: 0.07058824, p:1.0)    ptr id 1 (1052.0, 235.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.121: I/WacomLibrary(24196): 20131307  ptr id 0 (262.0, 270.0, sz: 0.07058824, p:1.0)    ptr id 1 (1052.0, 235.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.121: I/WacomLibrary(24196): 20131309  ptr id 0 (262.45276, 270.30185, sz: 0.07058824, p: 1.0)    ptr id 1 (1052.0, 235.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.151: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.151: I/WacomLibrary(24196): 20131318  ptr id 0 (265.0, 272.0, sz: 0.07058824, p:1.0)    ptr id 1 (1052.0, 219.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.151: I/WacomLibrary(24196): 20131323  ptr id 0 (266.5, 273.0, sz: 0.07058824, p: 1.0)    ptr id 1 (1052.0, 211.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.171: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.171: I/WacomLibrary(24196): 20131349  ptr id 0 (266.0, 273.0, sz: 0.07058824, p:1.0)    ptr id 1 (1052.0, 216.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.171: I/WacomLibrary(24196): 20131359  ptr id 0 (266.8724, 273.8724, sz: 0.07058824, p: 1.0)    ptr id 1 (1052.0, 214.2552, sz: 0.0, p: 1.0)  
+01-22 09:26:20.191: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.191: I/WacomLibrary(24196): 20131360  ptr id 0 (267.0, 274.0, sz: 0.07058824, p:1.0)    ptr id 1 (1052.0, 214.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.191: I/WacomLibrary(24196): 20131375  ptr id 0 (267.92392, 274.92392, sz: 0.07058824, p: 1.0)    ptr id 1 (1052.0, 212.15215, sz: 0.0, p: 1.0)  
+01-22 09:26:20.221: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.221: I/WacomLibrary(24196): 20131377  ptr id 0 (268.0, 275.0, sz: 0.07058824, p:1.0)    ptr id 1 (1052.0, 212.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.221: I/WacomLibrary(24196): 20131392  ptr id 0 (268.92688, 275.92688, sz: 0.07058824, p: 1.0)    ptr id 1 (1052.0, 211.0731, sz: 0.0, p: 1.0)  
+01-22 09:26:20.241: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.241: I/WacomLibrary(24196): 20131393  ptr id 0 (269.0, 276.0, sz: 0.07254902, p:1.0)    ptr id 1 (1052.0, 211.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.241: I/WacomLibrary(24196): 20131410  ptr id 0 (271.0, 276.0, sz: 0.07254902, p:1.0)    ptr id 1 (1052.0, 203.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.241: I/WacomLibrary(24196): 20131425  ptr id 0 (273.79907, 276.933, sz: 0.07254902, p: 1.0)    ptr id 1 (1052.0, 196.46881, sz: 0.0, p: 1.0)  
+01-22 09:26:20.261: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.261: I/WacomLibrary(24196): 20131426  ptr id 0 (274.0, 277.0, sz: 0.07450981, p:1.0)    ptr id 1 (1052.0, 196.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.261: I/WacomLibrary(24196): 20131442  ptr id 0 (276.7825, 277.9275, sz: 0.07450981, p: 1.0)    ptr id 1 (1052.0, 190.435, sz: 0.0, p: 1.0)  
+01-22 09:26:20.291: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.291: I/WacomLibrary(24196): 20131443  ptr id 0 (277.0, 278.0, sz: 0.07450981, p:1.0)    ptr id 1 (1052.0, 190.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.291: I/WacomLibrary(24196): 20131459  ptr id 0 (279.83374, 278.94458, sz: 0.07450981, p: 1.0)    ptr id 1 (1052.0, 186.22166, sz: 0.0, p: 1.0)  
+01-22 09:26:20.311: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.311: I/WacomLibrary(24196): 20131460  ptr id 0 (280.0, 279.0, sz: 0.07254902, p:1.0)    ptr id 1 (1052.0, 186.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.311: I/WacomLibrary(24196): 20131476  ptr id 0 (283.0, 279.0, sz: 0.07254902, p:1.0)    ptr id 1 (1052.0, 183.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.311: I/WacomLibrary(24196): 20131492  ptr id 0 (286.78482, 279.0, sz: 0.07254902, p: 1.0)    ptr id 1 (1051.0538, 181.10759, sz: 0.0, p: 1.0)  
+01-22 09:26:20.341: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.341: I/WacomLibrary(24196): 20131493  ptr id 0 (287.0, 279.0, sz: 0.07058824, p:1.0)    ptr id 1 (1051.0, 181.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.341: I/WacomLibrary(24196): 20131509  ptr id 0 (290.83044, 279.0, sz: 0.07058824, p: 1.0)    ptr id 1 (1051.0, 179.08478, sz: 0.0, p: 1.0)  
+01-22 09:26:20.361: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.361: I/WacomLibrary(24196): 20131509  ptr id 0 (291.0, 279.0, sz: 0.07254902, p:1.0)    ptr id 1 (1051.0, 179.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.361: I/WacomLibrary(24196): 20131526  ptr id 0 (295.0, 280.0, sz: 0.07254902, p:1.0)    ptr id 1 (1051.0, 177.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.361: I/WacomLibrary(24196): 20131542  ptr id 0 (298.85986, 280.0, sz: 0.07254902, p: 1.0)    ptr id 1 (1051.0, 176.03503, sz: 0.0, p: 1.0)  
+01-22 09:26:20.381: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.381: I/WacomLibrary(24196): 20131543  ptr id 0 (299.0, 280.0, sz: 0.07254902, p:1.0)    ptr id 1 (1051.0, 176.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.381: I/WacomLibrary(24196): 20131559  ptr id 0 (302.87863, 280.0, sz: 0.07254902, p: 1.0)    ptr id 1 (1051.0, 175.03035, sz: 0.0, p: 1.0)  
+01-22 09:26:20.411: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.411: I/WacomLibrary(24196): 20131559  ptr id 0 (303.0, 280.0, sz: 0.07254902, p:1.0)    ptr id 1 (1051.0, 175.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.411: I/WacomLibrary(24196): 20131576  ptr id 0 (307.0, 280.0, sz: 0.07254902, p:1.0)    ptr id 1 (1051.0, 174.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.411: I/WacomLibrary(24196): 20131592  ptr id 0 (310.91815, 280.0, sz: 0.07254902, p: 1.0)    ptr id 1 (1051.0, 173.02046, sz: 0.0, p: 1.0)  
+01-22 09:26:20.431: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.431: I/WacomLibrary(24196): 20131592  ptr id 0 (311.0, 280.0, sz: 0.07450981, p:1.0)    ptr id 1 (1051.0, 173.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.431: I/WacomLibrary(24196): 20131609  ptr id 0 (314.93616, 280.0, sz: 0.07450981, p: 1.0)    ptr id 1 (1051.0, 172.01596, sz: 0.0, p: 1.0)  
+01-22 09:26:20.451: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.451: I/WacomLibrary(24196): 20131609  ptr id 0 (315.0, 280.0, sz: 0.07254902, p:1.0)    ptr id 1 (1051.0, 172.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.451: I/WacomLibrary(24196): 20131625  ptr id 0 (318.9735, 280.0, sz: 0.07254902, p: 1.0)    ptr id 1 (1051.0, 171.00662, sz: 0.0, p: 1.0)  
+01-22 09:26:20.471: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.471: I/WacomLibrary(24196): 20131625  ptr id 0 (319.0, 280.0, sz: 0.068627454, p:1.0)    ptr id 1 (1051.0, 171.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.471: I/WacomLibrary(24196): 20131642  ptr id 0 (323.0, 280.0, sz: 0.068627454, p:1.0)    ptr id 1 (1051.0, 171.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.471: I/WacomLibrary(24196): 20131659  ptr id 0 (326.99075, 279.00232, sz: 0.068627454, p: 1.0)    ptr id 1 (1051.0, 171.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.501: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.501: I/WacomLibrary(24196): 20131659  ptr id 0 (327.0, 279.0, sz: 0.068627454, p:1.0)    ptr id 1 (1051.0, 171.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.501: I/WacomLibrary(24196): 20131675  ptr id 0 (330.98495, 278.00375, sz: 0.068627454, p: 1.0)    ptr id 1 (1051.0, 170.00377, sz: 0.0, p: 1.0)  
+01-22 09:26:20.521: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.521: I/WacomLibrary(24196): 20131675  ptr id 0 (331.0, 278.0, sz: 0.07254902, p:1.0)    ptr id 1 (1051.0, 170.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.521: I/WacomLibrary(24196): 20131692  ptr id 0 (336.0, 277.0, sz: 0.07254902, p:1.0)    ptr id 1 (1051.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.521: I/WacomLibrary(24196): 20131708  ptr id 0 (341.0, 276.0, sz: 0.07254902, p:1.0)    ptr id 1 (1051.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.521: I/WacomLibrary(24196): 20131709  ptr id 0 (341.10025, 275.97995, sz: 0.07254902, p: 1.0)    ptr id 1 (1051.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.541: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.541: I/WacomLibrary(24196): 20131725  ptr id 0 (345.0, 275.0, sz: 0.07254902, p:1.0)    ptr id 1 (1051.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.541: I/WacomLibrary(24196): 20131725  ptr id 0 (345.0914, 274.97714, sz: 0.07254902, p: 1.0)    ptr id 1 (1051.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.561: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.561: I/WacomLibrary(24196): 20131742  ptr id 0 (349.0, 275.0, sz: 0.07058824, p:1.0)    ptr id 1 (1051.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.561: I/WacomLibrary(24196): 20131742  ptr id 0 (349.11694, 275.0, sz: 0.07058824, p: 1.0)    ptr id 1 (1051.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.581: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.581: I/WacomLibrary(24196): 20131758  ptr id 0 (353.0, 275.0, sz: 0.07058824, p:1.0)    ptr id 1 (1051.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.581: I/WacomLibrary(24196): 20131759  ptr id 0 (353.1243, 275.0, sz: 0.07058824, p: 1.0)    ptr id 1 (1051.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.611: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.611: I/WacomLibrary(24196): 20131775  ptr id 0 (357.0, 275.0, sz: 0.07058824, p:1.0)    ptr id 1 (1051.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.611: I/WacomLibrary(24196): 20131791  ptr id 0 (361.0, 275.0, sz: 0.07058824, p:1.0)    ptr id 1 (1051.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.611: I/WacomLibrary(24196): 20131792  ptr id 0 (361.184, 275.0, sz: 0.07058824, p: 1.0)    ptr id 1 (1051.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.631: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.631: I/WacomLibrary(24196): 20131808  ptr id 0 (365.0, 275.0, sz: 0.07058824, p:1.0)    ptr id 1 (1051.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.631: I/WacomLibrary(24196): 20131809  ptr id 0 (365.20642, 275.0, sz: 0.07058824, p: 1.0)    ptr id 1 (1051.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.661: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.661: I/WacomLibrary(24196): 20131824  ptr id 0 (368.0, 275.0, sz: 0.07254902, p:1.0)    ptr id 1 (1051.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.661: I/WacomLibrary(24196): 20131841  ptr id 0 (371.0, 275.0, sz: 0.07254902, p:1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.661: I/WacomLibrary(24196): 20131842  ptr id 0 (371.18967, 275.0, sz: 0.07254902, p: 1.0)    ptr id 1 (1049.9368, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.681: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.681: I/WacomLibrary(24196): 20131858  ptr id 0 (374.0, 276.0, sz: 0.07058824, p:1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.681: I/WacomLibrary(24196): 20131859  ptr id 0 (374.19095, 276.06366, sz: 0.07058824, p: 1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.711: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.711: I/WacomLibrary(24196): 20131874  ptr id 0 (377.0, 277.0, sz: 0.07058824, p:1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.711: I/WacomLibrary(24196): 20131891  ptr id 0 (380.0, 278.0, sz: 0.07058824, p:1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.711: I/WacomLibrary(24196): 20131892  ptr id 0 (380.22833, 278.0761, sz: 0.07058824, p: 1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.731: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.731: I/WacomLibrary(24196): 20131907  ptr id 0 (384.0, 278.0, sz: 0.07058824, p:1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.731: I/WacomLibrary(24196): 20131909  ptr id 0 (384.33524, 278.0, sz: 0.07058824, p: 1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.751: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.751: I/WacomLibrary(24196): 20131924  ptr id 0 (388.0, 278.0, sz: 0.07058824, p:1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.751: I/WacomLibrary(24196): 20131925  ptr id 0 (388.3558, 278.0, sz: 0.07058824, p: 1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.781: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.781: I/WacomLibrary(24196): 20131941  ptr id 0 (392.0, 278.0, sz: 0.068627454, p:1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.781: I/WacomLibrary(24196): 20131957  ptr id 0 (396.0, 278.0, sz: 0.068627454, p:1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.781: I/WacomLibrary(24196): 20131959  ptr id 0 (396.4027, 278.0, sz: 0.068627454, p: 1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.801: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.801: I/WacomLibrary(24196): 20131974  ptr id 0 (400.0, 278.0, sz: 0.07058824, p:1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.801: I/WacomLibrary(24196): 20131975  ptr id 0 (400.42093, 278.0, sz: 0.07058824, p: 1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.821: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.821: I/WacomLibrary(24196): 20131990  ptr id 0 (404.0, 278.0, sz: 0.07254902, p:1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.821: I/WacomLibrary(24196): 20132007  ptr id 0 (408.0, 278.0, sz: 0.07254902, p:1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.821: I/WacomLibrary(24196): 20132009  ptr id 0 (408.45438, 278.0, sz: 0.07254902, p: 1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.851: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.851: I/WacomLibrary(24196): 20132023  ptr id 0 (412.0, 278.0, sz: 0.07450981, p:1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.851: I/WacomLibrary(24196): 20132025  ptr id 0 (412.4894, 278.0, sz: 0.07450981, p: 1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.871: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.871: I/WacomLibrary(24196): 20132040  ptr id 0 (417.0, 278.0, sz: 0.07254902, p:1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.871: I/WacomLibrary(24196): 20132042  ptr id 0 (417.47256, 278.0, sz: 0.07254902, p: 1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.891: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.891: I/WacomLibrary(24196): 20132057  ptr id 0 (421.0, 278.0, sz: 0.068627454, p:1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.891: I/WacomLibrary(24196): 20132073  ptr id 0 (425.0, 278.0, sz: 0.068627454, p:1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.891: I/WacomLibrary(24196): 20132075  ptr id 0 (425.5266, 278.0, sz: 0.068627454, p: 1.0)    ptr id 1 (1050.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.911: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.911: I/WacomLibrary(24196): 20132090  ptr id 0 (429.0, 278.0, sz: 0.07058824, p:1.0)    ptr id 1 (1050.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.911: I/WacomLibrary(24196): 20132092  ptr id 0 (429.72318, 278.0, sz: 0.07058824, p: 1.0)    ptr id 1 (1050.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.941: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.941: I/WacomLibrary(24196): 20132106  ptr id 0 (434.0, 278.0, sz: 0.07058824, p:1.0)    ptr id 1 (1050.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.941: I/WacomLibrary(24196): 20132109  ptr id 0 (434.5901, 278.0, sz: 0.07058824, p: 1.0)    ptr id 1 (1050.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.961: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.961: I/WacomLibrary(24196): 20132123  ptr id 0 (438.0, 278.0, sz: 0.07058824, p:1.0)    ptr id 1 (1050.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.961: I/WacomLibrary(24196): 20132139  ptr id 0 (442.0, 277.0, sz: 0.07058824, p:1.0)    ptr id 1 (1050.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.961: I/WacomLibrary(24196): 20132142  ptr id 0 (442.64932, 276.83768, sz: 0.07058824, p: 1.0)    ptr id 1 (1050.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:20.991: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:20.991: I/WacomLibrary(24196): 20132156  ptr id 0 (446.0, 276.0, sz: 0.07254902, p:1.0)    ptr id 1 (1050.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:20.991: I/WacomLibrary(24196): 20132159  ptr id 0 (446.66562, 275.8336, sz: 0.07254902, p: 1.0)    ptr id 1 (1050.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.011: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.011: I/WacomLibrary(24196): 20132172  ptr id 0 (450.0, 275.0, sz: 0.07254902, p:1.0)    ptr id 1 (1050.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.011: I/WacomLibrary(24196): 20132189  ptr id 0 (454.0, 274.0, sz: 0.07254902, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.011: I/WacomLibrary(24196): 20132192  ptr id 0 (454.7056, 273.8236, sz: 0.07254902, p: 1.0)    ptr id 1 (1048.8236, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.031: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.031: I/WacomLibrary(24196): 20132206  ptr id 0 (458.0, 273.0, sz: 0.07058824, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.031: I/WacomLibrary(24196): 20132209  ptr id 0 (458.74142, 272.81464, sz: 0.07058824, p: 1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.051: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.051: I/WacomLibrary(24196): 20132222  ptr id 0 (462.0, 272.0, sz: 0.07058824, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.051: I/WacomLibrary(24196): 20132225  ptr id 0 (462.5711, 272.0, sz: 0.07058824, p: 1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.071: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.071: I/WacomLibrary(24196): 20132239  ptr id 0 (465.0, 272.0, sz: 0.07058824, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.071: I/WacomLibrary(24196): 20132242  ptr id 0 (465.57947, 272.0, sz: 0.07058824, p: 1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.091: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.091: I/WacomLibrary(24196): 20132256  ptr id 0 (468.0, 272.0, sz: 0.07254902, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.091: I/WacomLibrary(24196): 20132272  ptr id 0 (471.0, 272.0, sz: 0.07254902, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.091: I/WacomLibrary(24196): 20132275  ptr id 0 (471.565, 272.0, sz: 0.07254902, p: 1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.121: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.121: I/WacomLibrary(24196): 20132289  ptr id 0 (474.0, 272.0, sz: 0.07254902, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.121: I/WacomLibrary(24196): 20132292  ptr id 0 (474.63055, 272.0, sz: 0.07254902, p: 1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.141: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.141: I/WacomLibrary(24196): 20132305  ptr id 0 (477.0, 272.0, sz: 0.07254902, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.141: I/WacomLibrary(24196): 20132322  ptr id 0 (480.0, 272.0, sz: 0.07254902, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.141: I/WacomLibrary(24196): 20132325  ptr id 0 (480.64655, 272.0, sz: 0.07254902, p: 1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.161: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.161: I/WacomLibrary(24196): 20132338  ptr id 0 (483.0, 272.0, sz: 0.07058824, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.161: I/WacomLibrary(24196): 20132342  ptr id 0 (483.6881, 272.0, sz: 0.07058824, p: 1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.181: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.181: I/WacomLibrary(24196): 20132355  ptr id 0 (486.0, 272.0, sz: 0.068627454, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.181: I/WacomLibrary(24196): 20132359  ptr id 0 (486.6934, 272.0, sz: 0.068627454, p: 1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.201: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.201: I/WacomLibrary(24196): 20132371  ptr id 0 (489.0, 272.0, sz: 0.07058824, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.201: I/WacomLibrary(24196): 20132375  ptr id 0 (489.71173, 272.0, sz: 0.07058824, p: 1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.231: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.231: I/WacomLibrary(24196): 20132388  ptr id 0 (492.0, 272.0, sz: 0.068627454, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.231: I/WacomLibrary(24196): 20132405  ptr id 0 (495.0, 272.0, sz: 0.068627454, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.231: I/WacomLibrary(24196): 20132409  ptr id 0 (495.76025, 272.0, sz: 0.068627454, p: 1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.251: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.251: I/WacomLibrary(24196): 20132421  ptr id 0 (498.0, 272.0, sz: 0.068627454, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.251: I/WacomLibrary(24196): 20132425  ptr id 0 (498.7605, 272.0, sz: 0.068627454, p: 1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.271: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.271: I/WacomLibrary(24196): 20132438  ptr id 0 (501.0, 272.0, sz: 0.07254902, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.271: I/WacomLibrary(24196): 20132455  ptr id 0 (505.0, 271.0, sz: 0.07254902, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.271: I/WacomLibrary(24196): 20132459  ptr id 0 (505.97757, 270.7556, sz: 0.07254902, p: 1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.301: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.301: I/WacomLibrary(24196): 20132471  ptr id 0 (509.0, 271.0, sz: 0.07254902, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.301: I/WacomLibrary(24196): 20132475  ptr id 0 (510.09015, 271.0, sz: 0.07254902, p: 1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.321: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.321: I/WacomLibrary(24196): 20132487  ptr id 0 (513.0, 271.0, sz: 0.07254902, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.321: I/WacomLibrary(24196): 20132492  ptr id 0 (514.10425, 271.0, sz: 0.07254902, p: 1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.341: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.341: I/WacomLibrary(24196): 20132504  ptr id 0 (517.0, 271.0, sz: 0.068627454, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.341: I/WacomLibrary(24196): 20132521  ptr id 0 (521.0, 271.0, sz: 0.068627454, p:1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.341: I/WacomLibrary(24196): 20132525  ptr id 0 (522.10675, 271.0, sz: 0.068627454, p: 1.0)    ptr id 1 (1049.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.361: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.361: I/WacomLibrary(24196): 20132537  ptr id 0 (526.0, 271.0, sz: 0.068627454, p:1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.361: I/WacomLibrary(24196): 20132542  ptr id 0 (527.1638, 270.70905, sz: 0.068627454, p: 1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.391: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.391: I/WacomLibrary(24196): 20132554  ptr id 0 (530.0, 270.0, sz: 0.07058824, p:1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.391: I/WacomLibrary(24196): 20132570  ptr id 0 (534.0, 269.0, sz: 0.07058824, p:1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.391: I/WacomLibrary(24196): 20132575  ptr id 0 (535.19037, 268.70242, sz: 0.07058824, p: 1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.411: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.411: I/WacomLibrary(24196): 20132587  ptr id 0 (538.0, 268.0, sz: 0.07450981, p:1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.411: I/WacomLibrary(24196): 20132592  ptr id 0 (539.22076, 267.69482, sz: 0.07450981, p: 1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.431: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.431: I/WacomLibrary(24196): 20132603  ptr id 0 (541.0, 267.0, sz: 0.07647059, p:1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.431: I/WacomLibrary(24196): 20132609  ptr id 0 (541.99036, 266.6699, sz: 0.07647059, p: 1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.451: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.451: I/WacomLibrary(24196): 20132620  ptr id 0 (544.0, 266.0, sz: 0.08235294, p:1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.451: I/WacomLibrary(24196): 20132625  ptr id 0 (545.0328, 265.65576, sz: 0.08235294, p: 1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.471: I/ConnectionManager(24196): scan timeout runs
+01-22 09:26:21.481: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.481: I/WacomLibrary(24196): 20132636  ptr id 0 (547.0, 265.0, sz: 0.092156865, p:1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p:1.0)  
+
+
+01-22 09:26:21.481: I/WacomLibrary(24196): 20132653  ptr id 0 (688.0, 230.0, sz: 0.092156865, p:1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.481: I/WacomLibrary(24196): 20132659  ptr id 0 (737.43896, 217.7279, sz: 0.092156865, p: 1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p: 1.0)  
+
+
+
+01-22 09:26:21.481: W/Brush(24196): distance between points: 145.27904 Point: 20132636 547.0 265.0 sz: 0.0882353 p: 0.6833265
+01-22 09:26:21.481: W/Brush(24196):                                    Point: 20132653 688.0 230.0 sz: 0.092156865 p: 0.6833265
+01-22 09:26:21.541: I/WacomLibrary(24196):  ACTION_POINTER_2_UP
+01-22 09:26:21.541: I/WacomLibrary(24196): 20132669  ptr id 0 (737.43896, 217.7279, sz: 0.0, p: 1.0)    ptr id 1 (1048.0, 168.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.541: V/DrawView(24196): pointer up action index: 1. pointer up id 1
+01-22 09:26:21.551: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.551: I/WacomLibrary(24196): 20132669  ptr id 0 (928.0, 183.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.551: I/WacomLibrary(24196): 20132686  ptr id 0 (1032.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.551: I/WacomLibrary(24196): 20132702  ptr id 0 (1034.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.551: I/WacomLibrary(24196): 20132719  ptr id 0 (1036.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.551: I/WacomLibrary(24196): 20132735  ptr id 0 (1037.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.551: I/WacomLibrary(24196): 20132742  ptr id 0 (1037.4017, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.551: W/TrackedPointer(24196): stylus now has size zero
+01-22 09:26:21.561: W/TrackedPointer(24196):  pen jumped more than 200 
+01-22 09:26:21.561: W/WacomEvent(24196): cloning event at 20132742
+01-22 09:26:21.561: W/WacomEvent(24196): cloning event at 20132742
+01-22 09:26:21.561: I/PointerTracker(24196): clearing expired stylus touch id: 0 TOOL_TYPE_STYLUS
+01-22 09:26:21.561: W/PointerTracker(24196): adding back touch from clearExpiredStylusState
+01-22 09:26:21.561: V/WacomEvent(24196): ------------------------xxxxxxxxx cancelAStylusTouchInAnEvent xxxxxxxxxxx------------------------
+01-22 09:26:21.561: V/WacomEvent(24196): 0 pointer prop id 0
+01-22 09:26:21.561: E/WacomEvent(24196):  bad event action 2, (old actionPointerId: 0) up: 1 down: 0
+01-22 09:26:21.561: E/WacomEvent(24196):  current stylus pointer id:0
+01-22 09:26:21.561: V/WacomEvent(24196): 0 pointer prop id 0
+01-22 09:26:21.561: W/Brush(24196): distance between points: 193.6996 Point: 20132669 737.43896 217.7279 sz: 0.0 p: 0.6833265
+01-22 09:26:21.561: W/Brush(24196):                                    Point: 20132669 928.0 183.0 sz: 0.0 p: 0.6833265
+01-22 09:26:21.621: W/Brush(24196): distance between points: 105.72133 Point: 20132669 928.0 183.0 sz: 0.0 p: 0.6833265
+01-22 09:26:21.621: W/Brush(24196):                                    Point: 20132686 1032.0 164.0 sz: 0.0 p: 0.6833265
+01-22 09:26:21.651: V/DrawView(24196): pointer up action index: 0. pointer up id 0
+01-22 09:26:21.661: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.661: I/WacomLibrary(24196): 20132752  ptr id 0 (1038.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.661: I/WacomLibrary(24196): 20132769  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.661: I/WacomLibrary(24196): 20132785  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.661: I/WacomLibrary(24196): 20132802  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.661: I/WacomLibrary(24196): 20132818  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.661: I/WacomLibrary(24196): 20132835  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.661: I/WacomLibrary(24196): 20132842  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.671: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.671: I/WacomLibrary(24196): 20132851  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.671: I/WacomLibrary(24196): 20132859  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.691: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.691: I/WacomLibrary(24196): 20132868  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.691: I/WacomLibrary(24196): 20132875  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.701: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.701: I/WacomLibrary(24196): 20132885  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.701: I/WacomLibrary(24196): 20132892  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.721: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.721: I/WacomLibrary(24196): 20132901  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.721: I/WacomLibrary(24196): 20132909  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.751: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.751: I/WacomLibrary(24196): 20132934  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.751: I/WacomLibrary(24196): 20132942  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.771: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.771: I/WacomLibrary(24196): 20132951  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.771: I/WacomLibrary(24196): 20132959  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.791: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.791: I/WacomLibrary(24196): 20132968  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.791: I/WacomLibrary(24196): 20132975  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.821: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.821: I/WacomLibrary(24196): 20133001  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.821: I/WacomLibrary(24196): 20133009  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.841: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.841: I/WacomLibrary(24196): 20133017  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.841: I/WacomLibrary(24196): 20133025  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.851: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.851: I/WacomLibrary(24196): 20133034  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.851: I/WacomLibrary(24196): 20133042  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.871: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.871: I/WacomLibrary(24196): 20133050  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.871: I/WacomLibrary(24196): 20133058  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.891: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.891: I/WacomLibrary(24196): 20133067  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.891: I/WacomLibrary(24196): 20133075  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.921: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.921: I/WacomLibrary(24196): 20133100  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.921: I/WacomLibrary(24196): 20133108  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.951: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.951: I/WacomLibrary(24196): 20133133  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.951: I/WacomLibrary(24196): 20133141  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:21.991: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:21.991: I/WacomLibrary(24196): 20133166  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:21.991: I/WacomLibrary(24196): 20133174  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.011: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.011: I/WacomLibrary(24196): 20133183  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.011: I/WacomLibrary(24196): 20133191  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.071: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.071: I/WacomLibrary(24196): 20133249  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.071: I/WacomLibrary(24196): 20133257  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.111: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.111: I/WacomLibrary(24196): 20133283  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.111: I/WacomLibrary(24196): 20133291  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.141: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.141: I/WacomLibrary(24196): 20133316  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.141: I/WacomLibrary(24196): 20133324  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.191: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.191: I/WacomLibrary(24196): 20133365  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.191: I/WacomLibrary(24196): 20133373  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.211: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.211: I/WacomLibrary(24196): 20133382  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.211: I/WacomLibrary(24196): 20133390  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.221: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.221: I/WacomLibrary(24196): 20133399  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.221: I/WacomLibrary(24196): 20133407  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.241: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.241: I/WacomLibrary(24196): 20133415  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.241: I/WacomLibrary(24196): 20133423  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.291: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.291: I/WacomLibrary(24196): 20133465  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.291: I/WacomLibrary(24196): 20133473  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.311: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.311: I/WacomLibrary(24196): 20133482  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.311: I/WacomLibrary(24196): 20133490  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.321: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.321: I/WacomLibrary(24196): 20133498  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.321: I/WacomLibrary(24196): 20133506  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.341: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.341: I/WacomLibrary(24196): 20133515  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.341: I/WacomLibrary(24196): 20133525  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.361: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.361: I/WacomLibrary(24196): 20133531  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.361: I/WacomLibrary(24196): 20133539  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.371: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.371: I/WacomLibrary(24196): 20133548  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.371: I/WacomLibrary(24196): 20133559  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.391: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.391: I/WacomLibrary(24196): 20133564  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.391: I/WacomLibrary(24196): 20133575  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.411: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.411: I/WacomLibrary(24196): 20133581  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.411: I/WacomLibrary(24196): 20133592  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.431: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.431: I/WacomLibrary(24196): 20133598  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.431: I/WacomLibrary(24196): 20133609  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.461: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.461: I/WacomLibrary(24196): 20133614  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.461: I/WacomLibrary(24196): 20133631  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.461: I/WacomLibrary(24196): 20133639  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.471: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.471: I/WacomLibrary(24196): 20133647  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.471: I/WacomLibrary(24196): 20133655  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.521: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.521: I/WacomLibrary(24196): 20133697  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.521: I/WacomLibrary(24196): 20133709  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.541: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.541: I/WacomLibrary(24196): 20133713  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.541: I/WacomLibrary(24196): 20133721  ptr id 0 (1039.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.571: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.571: I/WacomLibrary(24196): 20133746  ptr id 0 (1039.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.571: I/WacomLibrary(24196): 20133759  ptr id 0 (1038.2606, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.591: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.591: I/WacomLibrary(24196): 20133763  ptr id 0 (1038.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.591: I/WacomLibrary(24196): 20133775  ptr id 0 (1035.7523, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.601: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.601: I/WacomLibrary(24196): 20133779  ptr id 0 (1035.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.601: I/WacomLibrary(24196): 20133792  ptr id 0 (1035.0, 164.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.621: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.621: I/WacomLibrary(24196): 20133796  ptr id 0 (1035.0, 164.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.621: I/WacomLibrary(24196): 20133809  ptr id 0 (1035.762, 164.76193, sz: 0.0, p: 1.0)  
+01-22 09:26:22.641: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.641: I/WacomLibrary(24196): 20133813  ptr id 0 (1036.0, 165.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.641: I/WacomLibrary(24196): 20133825  ptr id 0 (1036.7656, 165.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.651: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.651: I/WacomLibrary(24196): 20133829  ptr id 0 (1037.0, 165.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.651: I/WacomLibrary(24196): 20133842  ptr id 0 (1036.2312, 165.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.671: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.671: I/WacomLibrary(24196): 20133846  ptr id 0 (1036.0, 165.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.671: I/WacomLibrary(24196): 20133859  ptr id 0 (1034.4565, 165.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.691: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.691: I/WacomLibrary(24196): 20133862  ptr id 0 (1034.0, 165.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.691: I/WacomLibrary(24196): 20133875  ptr id 0 (1034.0, 165.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.701: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.701: I/WacomLibrary(24196): 20133879  ptr id 0 (1034.0, 165.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.701: I/WacomLibrary(24196): 20133892  ptr id 0 (1034.7864, 165.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.721: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.721: I/WacomLibrary(24196): 20133896  ptr id 0 (1035.0, 165.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.721: I/WacomLibrary(24196): 20133909  ptr id 0 (1035.0, 165.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.741: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.741: I/WacomLibrary(24196): 20133912  ptr id 0 (1035.0, 165.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.741: I/WacomLibrary(24196): 20133920  ptr id 0 (1035.0, 165.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.771: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.771: I/WacomLibrary(24196): 20133945  ptr id 0 (1035.0, 165.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.771: I/WacomLibrary(24196): 20133959  ptr id 0 (1035.0, 165.80904, sz: 0.0, p: 1.0)  
+01-22 09:26:22.791: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.791: I/WacomLibrary(24196): 20133962  ptr id 0 (1035.0, 166.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.791: I/WacomLibrary(24196): 20133975  ptr id 0 (1035.0, 166.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.801: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.801: I/WacomLibrary(24196): 20133978  ptr id 0 (1035.0, 166.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.801: I/WacomLibrary(24196): 20133992  ptr id 0 (1035.0, 166.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.821: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.821: I/WacomLibrary(24196): 20133995  ptr id 0 (1035.0, 166.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.821: I/WacomLibrary(24196): 20134003  ptr id 0 (1035.0, 166.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.851: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.851: I/WacomLibrary(24196): 20134028  ptr id 0 (1035.0, 166.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.851: I/WacomLibrary(24196): 20134042  ptr id 0 (1035.0, 166.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.871: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.871: I/WacomLibrary(24196): 20134045  ptr id 0 (1035.0, 166.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.871: I/WacomLibrary(24196): 20134059  ptr id 0 (1035.0, 166.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.891: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.891: I/WacomLibrary(24196): 20134061  ptr id 0 (1035.0, 166.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.891: I/WacomLibrary(24196): 20134075  ptr id 0 (1035.0, 166.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.901: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.901: I/WacomLibrary(24196): 20134078  ptr id 0 (1035.0, 166.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.901: I/WacomLibrary(24196): 20134092  ptr id 0 (1035.0, 166.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.921: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.921: I/WacomLibrary(24196): 20134095  ptr id 0 (1035.0, 166.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.921: I/WacomLibrary(24196): 20134109  ptr id 0 (1035.0, 166.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.941: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.941: I/WacomLibrary(24196): 20134111  ptr id 0 (1035.0, 166.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.941: I/WacomLibrary(24196): 20134125  ptr id 0 (1035.0, 166.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.961: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.961: I/WacomLibrary(24196): 20134128  ptr id 0 (1035.0, 166.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.961: I/WacomLibrary(24196): 20134136  ptr id 0 (1035.0, 166.0, sz: 0.0, p: 1.0)  
+01-22 09:26:22.991: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:22.991: I/WacomLibrary(24196): 20134161  ptr id 0 (1035.0, 166.0, sz: 0.0, p:1.0)  
+01-22 09:26:22.991: I/WacomLibrary(24196): 20134175  ptr id 0 (1035.0, 166.87906, sz: 0.0, p: 1.0)  
+01-22 09:26:23.001: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.001: I/WacomLibrary(24196): 20134177  ptr id 0 (1035.0, 167.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.001: I/WacomLibrary(24196): 20134192  ptr id 0 (1035.0, 167.0, sz: 0.0, p: 1.0)  
+01-22 09:26:23.021: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.021: I/WacomLibrary(24196): 20134194  ptr id 0 (1035.0, 167.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.021: I/WacomLibrary(24196): 20134209  ptr id 0 (1035.0, 167.0, sz: 0.0, p: 1.0)  
+01-22 09:26:23.041: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.041: I/WacomLibrary(24196): 20134211  ptr id 0 (1035.0, 167.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.041: I/WacomLibrary(24196): 20134225  ptr id 0 (1035.0, 167.0, sz: 0.0, p: 1.0)  
+01-22 09:26:23.051: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.051: I/WacomLibrary(24196): 20134227  ptr id 0 (1035.0, 167.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.051: I/WacomLibrary(24196): 20134242  ptr id 0 (1035.0, 167.0, sz: 0.0, p: 1.0)  
+01-22 09:26:23.071: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.071: I/WacomLibrary(24196): 20134244  ptr id 0 (1035.0, 167.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.071: I/WacomLibrary(24196): 20134259  ptr id 0 (1035.0, 167.0, sz: 0.0, p: 1.0)  
+01-22 09:26:23.091: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.091: I/WacomLibrary(24196): 20134260  ptr id 0 (1035.0, 167.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.091: I/WacomLibrary(24196): 20134275  ptr id 0 (1035.0, 167.0, sz: 0.0, p: 1.0)  
+01-22 09:26:23.101: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.101: I/WacomLibrary(24196): 20134277  ptr id 0 (1035.0, 167.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.101: I/WacomLibrary(24196): 20134292  ptr id 0 (1035.0, 167.0, sz: 0.0, p: 1.0)  
+01-22 09:26:23.121: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.121: I/WacomLibrary(24196): 20134293  ptr id 0 (1035.0, 167.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.121: I/WacomLibrary(24196): 20134301  ptr id 0 (1035.0, 167.0, sz: 0.0, p: 1.0)  
+01-22 09:26:23.171: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.171: I/WacomLibrary(24196): 20134343  ptr id 0 (1035.0, 167.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.171: I/WacomLibrary(24196): 20134351  ptr id 0 (1035.0, 167.0, sz: 0.0, p: 1.0)  
+01-22 09:26:23.201: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.201: I/WacomLibrary(24196): 20134376  ptr id 0 (1035.0, 167.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.201: I/WacomLibrary(24196): 20134384  ptr id 0 (1035.0, 167.0, sz: 0.0, p: 1.0)  
+01-22 09:26:23.241: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.241: I/WacomLibrary(24196): 20134409  ptr id 0 (1035.0, 167.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.241: I/WacomLibrary(24196): 20134417  ptr id 0 (1035.0, 167.0, sz: 0.0, p: 1.0)  
+01-22 09:26:23.301: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.301: I/WacomLibrary(24196): 20134476  ptr id 0 (1035.0, 167.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.301: I/WacomLibrary(24196): 20134484  ptr id 0 (1035.0, 167.0, sz: 0.0, p: 1.0)  
+01-22 09:26:23.341: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.341: I/WacomLibrary(24196): 20134509  ptr id 0 (1035.0, 167.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.341: I/WacomLibrary(24196): 20134525  ptr id 0 (1035.0, 167.0, sz: 0.0, p: 1.0)  
+01-22 09:26:23.351: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.351: I/WacomLibrary(24196): 20134525  ptr id 0 (1035.0, 167.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.351: I/WacomLibrary(24196): 20134542  ptr id 0 (1035.0, 168.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.351: I/WacomLibrary(24196): 20134542  ptr id 0 (1035.0, 168.00229, sz: 0.0, p: 1.0)  
+01-22 09:26:23.391: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.391: I/WacomLibrary(24196): 20134559  ptr id 0 (1035.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.391: I/WacomLibrary(24196): 20134575  ptr id 0 (1035.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.391: I/WacomLibrary(24196): 20134575  ptr id 0 (1035.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:23.401: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.401: I/WacomLibrary(24196): 20134592  ptr id 0 (1035.0, 169.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.401: I/WacomLibrary(24196): 20134592  ptr id 0 (1035.0, 169.0, sz: 0.0, p: 1.0)  
+01-22 09:26:23.421: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.421: I/WacomLibrary(24196): 20134608  ptr id 0 (1035.0, 170.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.421: I/WacomLibrary(24196): 20134609  ptr id 0 (1035.0, 170.04166, sz: 0.0, p: 1.0)  
+01-22 09:26:23.441: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.441: I/WacomLibrary(24196): 20134624  ptr id 0 (1037.0, 179.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.441: I/WacomLibrary(24196): 20134625  ptr id 0 (1037.1166, 179.52466, sz: 0.0, p: 1.0)  
+01-22 09:26:23.451: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.451: I/WacomLibrary(24196): 20134641  ptr id 0 (1043.0, 226.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.451: I/WacomLibrary(24196): 20134642  ptr id 0 (1043.4353, 229.40974, sz: 0.0, p: 1.0)  
+01-22 09:26:23.471: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.471: I/WacomLibrary(24196): 20134657  ptr id 0 (1045.0, 251.0, sz: 0.0, p:1.0)  
+01-22 09:26:23.471: I/WacomLibrary(24196): 20134659  ptr id 0 (1045.1581, 252.97653, sz: 0.0, p: 1.0)  
+01-22 09:26:23.491: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.491: I/WacomLibrary(24196): 20134674  ptr id 0 (1045.0, 253.0, sz: 0.07647059, p:1.0)  
+01-22 09:26:23.491: I/WacomLibrary(24196): 20134675  ptr id 0 (1045.0, 253.1862, sz: 0.07647059, p: 1.0)  
+01-22 09:26:23.501: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.501: I/WacomLibrary(24196): 20134689  ptr id 0 (1045.0, 253.0, sz: 0.07450981, p:1.0)  
+01-22 09:26:23.501: I/WacomLibrary(24196): 20134692  ptr id 0 (1045.0, 253.0, sz: 0.07450981, p: 1.0)  
+01-22 09:26:23.521: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.521: I/WacomLibrary(24196): 20134705  ptr id 0 (1045.0, 253.0, sz: 0.078431375, p:1.0)  
+01-22 09:26:23.521: I/WacomLibrary(24196): 20134709  ptr id 0 (1045.0, 253.0, sz: 0.078431375, p: 1.0)  
+01-22 09:26:23.541: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.541: I/WacomLibrary(24196): 20134722  ptr id 0 (1045.0, 253.0, sz: 0.078431375, p:1.0)  
+01-22 09:26:23.541: I/WacomLibrary(24196): 20134725  ptr id 0 (1045.0, 253.0, sz: 0.078431375, p: 1.0)  
+01-22 09:26:23.551: I/WacomLibrary(24196):  ACTION_MOVE 
+01-22 09:26:23.551: I/WacomLibrary(24196): 20134738  ptr id 0 (1045.0, 253.0, sz: 0.07450981, p:1.0)  
+01-22 09:26:23.551: I/WacomLibrary(24196): 20134742  ptr id 0 (1045.0, 253.0, sz: 0.07450981, p: 1.0)  
+01-22 09:26:23.561: I/WacomLibrary(24196):  ACTION_UP 
+01-22 09:26:23.561: I/WacomLibrary(24196): 20134755  ptr id 0 (1045.0, 253.0, sz: 0.07450981, p: 1.0)  
+
