@@ -1,0 +1,128 @@
+
+02-11 06:48:44.883: D/InputReader(848): Input event: value=0
+02-11 06:48:44.883: I/InputReader(848): Touch event's action is 0x1 (deviceType=0) [pCnt=1, s=] when=8091464928000
+02-11 06:48:44.883: I/InputDispatcher(848): Delivering touch to (1607): action: 0x1, toolType: 1
+02-11 06:48:44.883: D/PalmMotion(848): [Surface Touch Event] Palm Swipe - RIGHT, ValidMajor[ true true true false ] , dist:799.0
+02-11 06:48:44.893: E/TakeScreenshotService(19289): Power key + Volume down
+02-11 06:48:44.923: D/MountService(848):  :::: isUsbMassStorageEnabled :: ret = false
+02-11 06:48:44.943: I/SurfaceFlinger(327): id=110 createSurf (1x1),1 flag=4, 
+02-11 06:48:44.943: D/KeyguardUpdateMonitor(1065): sendKeyguardVisibilityChanged(true)
+02-11 06:48:44.943: I/KeyguardUpdateMonitor(1065): visibility is same
+02-11 06:48:44.953: D/KeyguardUpdateMonitor(1065): sendKeyguardVisibilityChanged(true)
+02-11 06:48:44.953: I/KeyguardUpdateMonitor(1065): visibility is same
+02-11 06:48:44.963: D/KeyguardUpdateMonitor(1065): sendKeyguardVisibilityChanged(true)
+02-11 06:48:44.963: I/KeyguardUpdateMonitor(1065): visibility is same
+02-11 06:48:44.973: I/SurfaceFlinger(327): id=111 createSurf (800x1280),1 flag=4, TcreenshotA
+02-11 06:48:44.973: D/KeyguardUpdateMonitor(1065): sendKeyguardVisibilityChanged(true)
+02-11 06:48:44.973: I/KeyguardUpdateMonitor(1065): visibility is same
+02-11 06:48:44.983: V/Vibrator(19289): Called vibrate(long) API - PUID: 10018, PackageName: com.android.systemui
+02-11 06:48:44.983: V/Vibrator(19289): vibrate - PUID: 10018, PackageName: com.android.systemui, ms: 100, mag: -1
+02-11 06:48:44.983: V/VibratorService(848): vibrate - package: com.android.systemui, ms: 100, token: android.os.BinderProxy@42ac08f0
+02-11 06:48:44.983: D/VibratorService(848): JNI vibratorOff()
+02-11 06:48:44.983: D/VibratorService(848): JNI vibratorOn() : 100
+02-11 06:48:45.013: D/KeyguardUpdateMonitor(1065): sendKeyguardVisibilityChanged(true)
+02-11 06:48:45.013: I/KeyguardUpdateMonitor(1065): visibility is same
+02-11 06:48:45.013: D/KeyguardUpdateMonitor(1065): sendKeyguardVisibilityChanged(true)
+02-11 06:48:45.013: I/KeyguardUpdateMonitor(1065): visibility is same
+02-11 06:48:45.023: D/KeyguardUpdateMonitor(1065): sendKeyguardVisibilityChanged(true)
+02-11 06:48:45.023: I/KeyguardUpdateMonitor(1065): visibility is same
+02-11 06:48:45.083: D/VibratorService(848): JNI vibratorOff()
+02-11 06:48:45.253: D/STATUSBAR-NetworkController(1085): onSignalStrengthsChanged signalStrength=SignalStrength: 10 -1 -1 -1 -1 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 gsm|lte 0x3 level=3
+02-11 06:48:45.293: D/SSRMv2(848): SIOP:: AP = 320 (0), Delta = 0
+02-11 06:48:45.543: E/CaptureEffectViewForShutterClick(19289): onFinish called
+02-11 06:48:45.543: W/ScreenCapture(19289): Capture effect finished!
+02-11 06:48:45.553: D/SaveImageInBackgroundTask(19289): SaveImageInBackgroundTask setProcessForeground true
+02-11 06:48:45.573: D/dalvikvm(19289): GC_FOR_ALLOC freed 5951K, 57% free 6285K/14396K, paused 17ms, total 17ms
+02-11 06:48:45.573: I/dalvikvm-heap(19289): Grow heap (frag case) to 11.380MB for 2560016-byte allocation
+02-11 06:48:45.583: D/dalvikvm(19289): GC_CONCURRENT freed 33K, 40% free 8753K/14396K, paused 2ms+2ms, total 15ms
+02-11 06:48:45.643: W/ContextImpl(848): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1524 com.android.server.StatusBarManagerService.sendNotification:1002 com.android.server.StatusBarManagerService.removeNotification:727 com.android.server.NotificationManagerService.cancelNotificationLocked:2499 com.android.server.NotificationManagerService.access$5200:161 
+02-11 06:48:45.653: D/NotificationService(848): cancelNotificationLocked
+02-11 06:48:45.653: D/NotificationService(848):  hasClearableItems
+02-11 06:48:45.653: D/NotificationService(848): Num of hasClearableItems : 1
+02-11 06:48:45.653: D/STATUSBAR-StatusBarManagerService(848): sendNotification(3) - 789
+02-11 06:48:45.653: D/LightsService(848): [api] [SvcLED] turnOff:: id = 4 (uid: 1000 pid: 848) 
+02-11 06:48:45.653: D/LightsService(848): [SvcLED] setSvcLedStateLocked:: SvcLEDState : 0x0 -> 0x0 | SvcLED(id=4) set Off
+02-11 06:48:45.653: D/LightsService(848): [SvcLED] Lux failed to be updated in 700ms. -> handleForcedSvcLEDTasK
+02-11 06:48:45.653: D/LightsService(848): [SvcLED]  setSvcLedLightLocked :: Current SvcLED(id=3) maintains its priority right
+02-11 06:48:45.663: D/SaveImageInBackgroundTask(19289): SaveImageInBackgroundTask setProcessForeground doInBackground
+02-11 06:48:45.673: D/STATUSBAR-IconMerger(1085): checkOverflow(480), More:false, Req:false Child:3
+02-11 06:48:45.683: W/ContextImpl(848): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1524 com.android.server.StatusBarManagerService.sendNotification:1002 com.android.server.StatusBarManagerService.addNotification:691 com.android.server.NotificationManagerService$7.run:2186 android.os.Handler.handleCallback:733 
+02-11 06:48:45.683: D/STATUSBAR-StatusBarManagerService(848): sendNotification(1) - 789
+02-11 06:48:45.723: I/SurfaceFlinger(327): id=111 Removed TcreenshotA (13/13)
+02-11 06:48:45.723: I/SurfaceFlinger(327): id=111 Removed TcreenshotA (-2/13)
+02-11 06:48:45.723: D/KeyguardUpdateMonitor(1065): sendKeyguardVisibilityChanged(true)
+02-11 06:48:45.723: I/KeyguardUpdateMonitor(1065): visibility is same
+02-11 06:48:45.733: I/SurfaceFlinger(327): id=110 Removed  (12/12)
+02-11 06:48:45.733: I/SurfaceFlinger(327): id=110 Removed  (-2/12)
+02-11 06:48:45.733: D/KeyguardUpdateMonitor(1065): sendKeyguardVisibilityChanged(true)
+02-11 06:48:45.733: I/KeyguardUpdateMonitor(1065): visibility is same
+02-11 06:48:45.733: D/ProgressBar(1085): setProgressDrawable drawableHeight = 9
+02-11 06:48:45.753: D/ProgressBar(1085): setProgressDrawable drawableHeight = 9
+02-11 06:48:45.763: D/PhoneStatusBar(1085): tick(): knoxCustomManager = android.app.enterprise.knoxcustom.KnoxCustomManager@420272f8
+02-11 06:48:45.863: D/dalvikvm(848): GC_EXPLICIT freed 343K, 20% free 32755K/40556K, paused 5ms+13ms, total 174ms
+02-11 06:48:45.873: I/dalvikvm-heap(848): Grow heap (frag case) to 35.575MB for 748816-byte allocation
+02-11 06:48:46.923: E/SMD(321): DCD OFF
+02-11 06:48:47.753: D/SaveImageInBackgroundTask(19289): image.getByteCount() : 4096000
+02-11 06:48:47.773: E/MTPJNIInterface(10722): In MTPJNIINterface onReceive:com.android.MTP.OBJECT_ADDED
+02-11 06:48:47.773: E/MTPJNIInterface(10722): ***** file path of  sendObjectAdded 
+02-11 06:48:47.773: E/MtpServerJNI(1205): server is null in send_object_added
+02-11 06:48:47.773: D/DataManager(4065): onChange = 0, active = true, uri = content://media/external/images/media, this = com.sec.android.gallery3d.data.DataManager$NotifyBroker@421b8560
+02-11 06:48:47.783: W/ContextImpl(19316): Implicit intents with startService are not safe: Intent { act=com.samsung.clipboardsaveservice.CLIPBOARD_CAPTURE_SERVICE (has extras) } android.content.ContextWrapper.startService:507 android.content.ContextWrapper.startService:507 com.samsung.clipboardsaveservice.ClipboardAppReceiver.onReceive:66 
+02-11 06:48:47.783: D/SaveImageInBackgroundTask(19289): SaveImageInBackgroundTask setProcessForeground onPostExecute
+02-11 06:48:47.793: D/MediaScannerReceiver(1205): action: android.intent.action.MEDIA_SCANNER_SCAN_FILE
+02-11 06:48:47.803: D/MediaScannerReceiver(1205): In Scan Single File set externalStorageSdPath : /storage/extSdCard
+02-11 06:48:47.803: D/MediaScannerReceiver(1205): < Scan Single File is called >
+02-11 06:48:47.823: D/SaveImageInBackgroundTask(19289): SaveImageInBackgroundTask setProcessForeground false
+02-11 06:48:47.823: W/ContextImpl(848): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1524 com.android.server.StatusBarManagerService.sendNotification:1002 com.android.server.StatusBarManagerService.updateNotification:711 com.android.server.NotificationManagerService$7.run:2178 android.os.Handler.handleCallback:733 
+02-11 06:48:47.823: D/STATUSBAR-StatusBarManagerService(848): sendNotification(2) - 789
+02-11 06:48:47.853: D/dalvikvm(1085): GC_FOR_ALLOC freed 1896K, 31% free 15639K/22480K, paused 25ms, total 25ms
+02-11 06:48:47.873: D/ProgressBar(1085): setProgressDrawable drawableHeight = 9
+02-11 06:48:47.883: D/ProgressBar(1085): setProgressDrawable drawableHeight = 9
+02-11 06:48:47.983: D/DataManager(4065): onChange = 0, active = true, uri = content://media/, this = com.sec.android.gallery3d.data.DataManager$NotifyBroker@421b8560
+02-11 06:48:47.983: D/DataManager(4065): onChange = 0, active = true, uri = content://media/, this = com.sec.android.gallery3d.data.DataManager$NotifyBroker@421b99e8
+02-11 06:48:47.983: D/VideoWidget(2079): onChange()
+02-11 06:48:47.983: D/VideoWidget(2079): bulidUpdate
+02-11 06:48:47.993: D/MediaScanner(1205): scanSingleFile : 7klwibgf7fvntblfd7(7Hrclnifk7Kciffukpwlk7Kciffukpwl_)(*.6()6**6(-6,86,.5hug
+02-11 06:48:48.013: D/dalvikvm(848): GC_EXPLICIT freed 890K, 19% free 34838K/42752K, paused 5ms+14ms, total 170ms
+02-11 06:48:48.023: D/MediaScanner(1205): Prescan. DB items number : 100 DB_FILES_NUMBER_CACHING_LIMITATION : 7000  Caching mode : true
+02-11 06:48:48.023: D/VideoWidget(2079): widget is newly launched : false
+02-11 06:48:48.043: D/VideoCloudUtil(2079): isCloudContent(uri)
+02-11 06:48:48.043: D/VideoCloudUtil(2079): isCloudContent(string)
+02-11 06:48:48.053: D/DataManager(4065): onChange = 0, active = true, uri = content://media/external/images/media/4070, this = com.sec.android.gallery3d.data.DataManager$NotifyBroker@421b8560
+02-11 06:48:48.063: D/VideoWidget(2079): getWidgetThumbnail
+02-11 06:48:48.063: V/MediaPlayerService(330): Create new media retriever from pid 2079
+02-11 06:48:48.343: D/dalvikvm(848): GC_EXPLICIT freed 951K, 19% free 34753K/42752K, paused 5ms+21ms, total 148ms
+02-11 06:48:48.343: I/dalvikvm-heap(848): Grow heap (frag case) to 37.800MB for 1036816-byte allocation
+02-11 06:48:48.353: W/ContextImpl(19316): Implicit intents with startService are not safe: Intent { act=com.samsung.clipboardsaveservice.CLIPBOARD_DELETE_SERVICE (has extras) } android.content.ContextWrapper.startService:507 android.content.ContextWrapper.startService:507 com.samsung.clipboardsaveservice.ClipboardAppReceiver.onReceive:91 
+02-11 06:48:48.373: D/dalvikvm(1250): GC_FOR_ALLOC freed 2116K, 40% free 13198K/21872K, paused 22ms, total 23ms
+02-11 06:48:48.793: D/STATUSBAR-IconMerger(1085): checkOverflow(480), More:false, Req:false Child:4
+02-11 06:48:49.923: E/SMD(321): DCD OFF
+02-11 06:48:50.373: D/STATUSBAR-NetworkController(1085): onSignalStrengthsChanged signalStrength=SignalStrength: 10 -1 -1 -1 -1 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 gsm|lte 0x3 level=3
+02-11 06:48:52.923: E/SMD(321): DCD OFF
+02-11 06:48:52.943: D/STATUSBAR-NetworkController(1085): onSignalStrengthsChanged signalStrength=SignalStrength: 10 -1 -1 -1 -1 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 gsm|lte 0x3 level=3
+02-11 06:48:55.363: D/SSRMv2(848): SIOP:: AP = 330 (0), Delta = 10
+02-11 06:48:55.503: D/STATUSBAR-NetworkController(1085): onSignalStrengthsChanged signalStrength=SignalStrength: 11 -1 -1 -1 -1 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 gsm|lte 0x3 level=3
+02-11 06:48:55.923: E/SMD(321): DCD OFF
+02-11 06:48:57.783: V/AlarmManager(848): waitForAlarm result :4
+02-11 06:48:57.853: D/BatteryService(848): level:100, scale:100, status:3, health:2, present:true, voltage: 4308, temperature: 291, technology: Li-ion, AC powered:false, USB powered:true, POGO powered:false, Wireless powered:false, icon:17303664, invalid charger:0, online:4, current avg:450, charge type:1, power sharing:false, high voltage charger:false, capacity:445000
+02-11 06:48:57.853: D/BatteryService(848): Sending ACTION_BATTERY_CHANGED.
+02-11 06:48:57.863: D/KeyguardUpdateMonitor(1065): received broadcast android.intent.action.BATTERY_CHANGED
+02-11 06:48:57.863: D/KeyguardUpdateMonitor(1065): handleBatteryUpdate
+02-11 06:48:57.873: D/PowerUI(1085): Cable  true --> true
+02-11 06:48:57.873: D/PowerUI(1085): Cable  true --> true
+02-11 06:48:57.883: D/STATUSBAR-PhoneStatusBar(1085):  mBrightnessEnablebySettings = true mBrightnessEnablebyBattery = true mBrightnessEnablebyDisableFlag = true mPmsBrightnessEnablebySettings = true
+02-11 06:48:57.893: V/HeadsetService(2032): HeadsetService - Received Intent.ACTION_BATTERY_CHANGED
+02-11 06:48:57.893: D/HeadsetStateMachine(2032): Disconnected process message: 10
+02-11 06:48:57.903: D/BatteryMeterView(1085): ACTION_BATTERY_CHANGED : level:100 status:3 health:2
+02-11 06:48:57.993: V/AlarmManager(848): waitForAlarm result :4
+02-11 06:48:58.013: V/AlarmManager(848): waitForAlarm result :4
+02-11 06:48:58.023: V/AlarmManager(848): waitForAlarm result :4
+02-11 06:48:58.053: V/AlarmManager(848): waitForAlarm result :4
+02-11 06:48:58.073: V/AlarmManager(848): trigger ELAPSED_REALTIME_WAKEUP or RTC_WAKEUP
+02-11 06:48:58.923: E/SMD(321): DCD OFF
+02-11 06:48:59.333: D/STATUSBAR-NetworkController(1085): onSignalStrengthsChanged signalStrength=SignalStrength: 11 -1 -1 -1 -1 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 gsm|lte 0x3 level=3
+02-11 06:48:59.993: V/AlarmManager(848): waitForAlarm result :8
+02-11 06:48:59.993: V/AlarmManager(848): ClockReceiver onReceive() ACTION_TIME_TICK
+02-11 06:49:00.003: D/KeyguardUpdateMonitor(1065): received broadcast android.intent.action.TIME_TICK
+02-11 06:49:00.003: D/KeyguardUpdateMonitor(1065): handleTimeUpdate
+
