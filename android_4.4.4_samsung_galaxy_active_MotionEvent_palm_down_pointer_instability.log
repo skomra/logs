@@ -1,0 +1,29 @@
+02-14 07:28:55.272: I/WacomLibrary(31935): MotionEvent { action=ACTION_MOVE,
+ id[0]=1, x[0]=811.0, y[0]=137.0, toolType[0]=TOOL_TYPE_FINGER,
+ id[1]=2, x[1]=1270.0, y[1]=799.0, toolType[1]=TOOL_TYPE_FINGER,
+ buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=2, historySize=1, eventTime=13862367, downTime=13850114, deviceId=2, source=0x1002 }
+
+02-14 07:28:55.292: I/WacomLibrary(31935): MotionEvent { action=ACTION_MOVE,
+ **id[0]=1, x[0]=802.0, y[0]=123.0, toolType[0]=TOOL_TYPE_FINGER,
+ id[1]=2, x[1]=1270.0, y[1]=799.0, toolType[1]=TOOL_TYPE_FINGER,
+ buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=2, historySize=1, eventTime=13862387, downTime=13850114, deviceId=2, source=0x1002 }
+
+02-14 07:28:55.292: I/WacomLibrary(31935): MotionEvent { action=ACTION_POINTER_DOWN(0),
+ id[0]=0, x[0]=979.0, y[0]=414.0, toolType[0]=TOOL_TYPE_FINGER,
+ id[1]=1, x[1]=802.0, y[1]=123.0, toolType[1]=TOOL_TYPE_FINGER,
+ id[2]=2, x[2]=1270.0, y[2]=799.0, toolType[2]=TOOL_TYPE_FINGER,
+ buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=3, historySize=0, eventTime=13862387, downTime=13850114, deviceId=2, source=0x1002 }
+
+02-14 07:28:55.302: I/WacomLibrary(31935): MotionEvent { action=ACTION_POINTER_UP(0),
+ id[0]=0, x[0]=979.0, y[0]=414.0, toolType[0]=TOOL_TYPE_FINGER,
+ ***id[1]=1, x[1]=947.0, y[1]=277.0, toolType[1]=TOOL_TYPE_FINGER,
+ id[2]=2, x[2]=1270.0, y[2]=799.0, toolType[2]=TOOL_TYPE_FINGER,
+ buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=3, historySize=0, eventTime=13862398, downTime=13850114, deviceId=2, source=0x1002 }
+
+02-14 07:28:55.302: W/PointerTracker(31935):  pen jumped more than 200 (802.0,123.0)(947.0,277.0) 13862398 ACTION_UP 
+
+02-14 07:28:55.302: I/WacomLibrary(31935): MotionEvent { action=ACTION_MOVE,
+ id[0]=1, x[0]=980.7408, y[0]=312.83502, toolType[0]=TOOL_TYPE_FINGER,
+ id[1]=2, x[1]=1270.0, y[1]=799.0, toolType[1]=TOOL_TYPE_FINGER,
+ buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=2, historySize=1, eventTime=13862401, downTime=13850114, deviceId=2, source=0x1002 }
+
