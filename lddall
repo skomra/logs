@@ -1,3 +1,6 @@
+use for example:
+ compgen -c | xargs which --skip-alias | xargs ldd | grep wacom
+
 /bin/cp:
 	linux-vdso.so.1 (0x00007ffd061f2000)
 	libselinux.so.1 => /lib64/libselinux.so.1 (0x00007f4ff4ff2000)
